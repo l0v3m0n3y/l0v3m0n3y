@@ -11,9 +11,3 @@ hobby: programming, real life
 [bargpt](https://github.com/aminobotskek/bargpt)
 
 [newmanga](https://github.com/aminobotskek/newmanga)
-
-
-### Statistics:::
-
-![github_streak](https://github-readme-streak-stats.herokuapp.com/?user=aminobotskek&theme=dark&hide_border=true)
-![top_used_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminobotskek&theme=dark&hide_border=true)
