@@ -1,4 +1,4 @@
-![94906343](https://github.com/aminobotskek/aminobotskek/assets/94906343/5d21a64b-d9e9-401d-abee-743ef5f80d65)
+![Без названия](https://github.com/aminobotskek/aminobotskek/assets/94906343/95a3a3d0-8498-46f4-8189-98b4d7f70337)
 
 ### About me
 nickname: Dos-Kun, Kek
