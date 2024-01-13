@@ -3,8 +3,11 @@
 
 # About me
 nickname: Dos-Kun, Kek
+
 hobby: programming
+
 watched: Bojack Horseman, Darling in the Franxx, Evangelion
+
 purpose of life: to understand yourself, to live happily
 # my best projects
 
