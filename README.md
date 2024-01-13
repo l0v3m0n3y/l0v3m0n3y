@@ -1,6 +1,8 @@
 # welcome 🍻
 ![Без названия](https://github.com/aminobotskek/aminobotskek/assets/94906343/95a3a3d0-8498-46f4-8189-98b4d7f70337)
 
+Life is a series of closing doors, isn’t it?
+
 # About me
 nickname: Dos-Kun, Kek
 
