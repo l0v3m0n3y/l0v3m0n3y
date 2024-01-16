@@ -1,5 +1,5 @@
 # welcome 🍻
-![Без названия](https://github.com/aminobotskek/aminobotskek/assets/94906343/95a3a3d0-8498-46f4-8189-98b4d7f70337)
+![Bojack-Horseman-Ending-Scene](https://github.com/aminobotskek/aminobotskek/assets/94906343/b324c9d1-fe02-4a9d-bd75-c1d280e27576)
 
 Life is a series of closing doors, isn’t it?
 
