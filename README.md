@@ -3,7 +3,7 @@
 
 Life is a series of closing doors, isn’t it?
 
-# About me
+# About me ℹ️
 nickname: Dos-Kun, Kek
 
 hobby: programming
@@ -11,7 +11,7 @@ hobby: programming
 watched: Bojack Horseman, Darling in the Franxx, Evangelion
 
 purpose of life: to understand yourself, to live happily
-# my best projects
+# my best projects 💻
 
 [fucking great advice](https://github.com/aminobotskek/fucking_great_advice)
 
