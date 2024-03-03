@@ -18,6 +18,7 @@ purpose of life: to understand yourself, to live happily
 [async trendymanga](https://github.com/l0v3m0n3y/async_trendymanga)
 
 [asyncadvice](https://github.com/l0v3m0n3y/asyncadvice)
-
+# my statistics
+![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=l0v3m0n3y&theme=dark&hide_border=true)
 # contact me ☎️
 [telegram - bot](https://t.me/yazichkii_temki_Bot)
