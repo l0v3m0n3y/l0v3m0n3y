@@ -20,5 +20,12 @@ purpose of life: to understand yourself, to live happily
 [asyncadvice](https://github.com/l0v3m0n3y/asyncadvice)
 # my statistics
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=l0v3m0n3y&theme=dark&hide_border=true)
-# contact me ☎️
-[telegram - bot](https://t.me/Tsartgbot)
+# donate
+# Ton coin
+```UQAeAZH2DkWqsU8zLtdpx9ELkM0agCtCoi8myYkPOJ-9ObNS```
+# Bitcoin
+```bc1q3zdyd826zaceafanpumha3ddr3scqsgjv0ykt5```
+# Ethereum
+```0x344d1dDEF880379C5c018A1eE0aFfB835C7B7BA0```
+# XMR
+```4AgsGtUq3eeTaiazWRgfDZ1UW6TYriwzSdmCEMePQaXXbJYqQAxRvinJb4UG9QqjY3PQq7B2xYq83SFUNNhxavpvEHB5Q4U```
