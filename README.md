@@ -21,7 +21,7 @@ languages: python, JavaScript, Html, shell script
 ```UQAeAZH2DkWqsU8zLtdpx9ELkM0agCtCoi8myYkPOJ-9ObNS```
 # Bitcoin
 ```bc1q3zdyd826zaceafanpumha3ddr3scqsgjv0ykt5```
-# Ethereum / xaut
+# Ethereum / haut
 ```0x344d1dDEF880379C5c018A1eE0aFfB835C7B7BA0```
 # XMR
 ```4AgsGtUq3eeTaiazWRgfDZ1UW6TYriwzSdmCEMePQaXXbJYqQAxRvinJb4UG9QqjY3PQq7B2xYq83SFUNNhxavpvEHB5Q4U```
