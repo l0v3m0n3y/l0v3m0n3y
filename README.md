@@ -8,12 +8,6 @@ watched: Bojack Horseman, Darling in the Franxx, Evangelion
 purpose of life: to understand yourself, to live happily
 
 languages: python, JavaScript, Html, shell script 
-# my best projects💻
-[AsyncSecMail](https://github.com/l0v3m0n3y/AsyncSecMail)
-
-[async trendymanga](https://github.com/l0v3m0n3y/async_trendymanga)
-
-[asyncadvice](https://github.com/l0v3m0n3y/asyncadvice)
 # my statistics 📈
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=l0v3m0n3y&theme=dark&hide_border=true)
 # donate 💵
