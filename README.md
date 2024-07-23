@@ -15,5 +15,3 @@ purpose of life: get all the money in the world, 350 repositories on GitHub
 # donate 💵
 # Ton coin
 ```UQAeAZH2DkWqsU8zLtdpx9ELkM0agCtCoi8myYkPOJ-9ObNS```
-# telegram channel 
-[telegram](https://t.me/+YhfUypKBEBE2OWYy)
