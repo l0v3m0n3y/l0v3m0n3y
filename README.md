@@ -1,3 +1,5 @@
+# info 
+[I am selling this account here](https://izi.ru/offers/2067600) 
 # #freedurov
 ![IMG_20240825_184533_255](https://github.com/user-attachments/assets/3aefe156-9eb5-4d1f-8ab8-ce47164dafd8)
 ![IMG_20240825_185807_849](https://github.com/user-attachments/assets/3e7e1b87-623a-43d3-a597-9da188e7751d)
