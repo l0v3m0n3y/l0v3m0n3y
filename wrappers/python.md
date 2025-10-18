@@ -23,7 +23,7 @@
         <a href="https://github.com/l0v3m0n3y/Planet_vpn" target="_blank"> Planet_vpn </a>
       </td>
       <td>
-        <img src="https://aminoapps.com/favicon.ico" height="20px" alt="AminoLab" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://aminoapps.com/static/img/amino-logo-ld.png" height="20px" alt="AminoLab" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/AminoLab" target="_blank"> AminoLab </a>
       </td>
     </tr>
