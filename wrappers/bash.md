@@ -12,15 +12,15 @@
         <a href="https://github.com/l0v3m0n3y/bcs" target="_blank"> bcs </a>
       </td>
       <td>
-        <img src="https://ip.up66.ru/favicon.ico" height="20px" alt="Ip-up66" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://up66.ru/theme/2020/img/favicon.png" height="20px" alt="Ip-up66" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/Ip-up66" target="_blank"> Ip-up66 </a>
       </td>
       <td>
-        <img src="https://castlots.org/favicon.ico" height="20px" alt="castlots" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="http://castlots.org/favicon.ico" height="20px" alt="castlots" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/castlots" target="_blank"> castlots </a>
       </td>
       <td>
-        <img src="https://generator-chisel.ru/favicon.ico" height="20px" alt="generator-chisel" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://generator-chisel.ru/genius/favicon/favicon.ico" height="20px" alt="generator-chisel" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/generator-chisel" target="_blank"> generator-chisel </a>
       </td>
     </tr>
@@ -52,11 +52,11 @@
         <a href="https://github.com/l0v3m0n3y/db_ip" target="_blank"> db_ip </a>
       </td>
       <td>
-        <img src="https://geoplugin.net/favicon.ico" height="20px" alt="geoplugin_api" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://www.geoplugin.com/img/geoplugin-favicon.png" height="20px" alt="geoplugin_api" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/geoplugin_api" target="_blank"> geoplugin_api </a>
       </td>
       <td>
-        <img src="https://ipify.org/favicon.ico" height="20px" alt="ipify_api" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://www.ipify.org/static/images/logo.png" height="20px" alt="ipify_api" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/ipify_api" target="_blank"> ipify_api </a>
       </td>
       <td>
@@ -64,21 +64,21 @@
         <a href="https://github.com/l0v3m0n3y/geoiplookup" target="_blank"> geoiplookup </a>
       </td>
       <td>
-        <img src="https://httpducks.com/favicon.ico" height="20px" alt="httpducks" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://httpducks.com/static/icons/duck.svg" height="20px" alt="httpducks" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/httpducks" target="_blank"> httpducks </a>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://httpgoats.com/favicon.ico" height="20px" alt="httpgoats" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://httpgoats.com/static/icons/goat.svg" height="20px" alt="httpgoats" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/httpgoats" target="_blank"> httpgoats </a>
       </td>
       <td>
-        <img src="https://http.garden/favicon.ico" height="20px" alt="http_garden" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://http.garden/static/icons/garden.svg" height="20px" alt="http_garden" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/http_garden" target="_blank"> http_garden </a>
       </td>
       <td>
-        <img src="https://http.dog/favicon.ico" height="20px" alt="http_dog" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://http.dog/static/icons/dog.svg" height="20px" alt="http_dog" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/http_dog" target="_blank"> http_dog </a>
       </td>
       <td>
@@ -100,7 +100,7 @@
         <a href="https://github.com/l0v3m0n3y/sigen_pro_api" target="_blank"> sigen_pro_api </a>
       </td>
       <td>
-        <img src="https://www.gnu.org/software/bash/favicon.ico" height="20px" alt="geonode_api" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://geonode.com/favicons/logo-dark.svg" height="20px" alt="geonode_api" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/geonode_api" target="_blank"> geonode_api </a>
       </td>
       <td>
