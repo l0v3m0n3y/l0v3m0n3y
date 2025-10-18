@@ -27,33 +27,6 @@
         <a href="https://github.com/l0v3m0n3y/AminoLab" target="_blank"> AminoLab </a>
       </td>
     </tr>
-    <tr>
-      <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="Krakenbomber" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/Krakenbomber" target="_blank"> Krakenbomber </a>
-      </td>
-      <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="aminochatidfinder" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/aminochatidfinder" target="_blank"> aminochatidfinder </a>
-      </td>
-      <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="aminoinfoclique" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/aminoinfoclique" target="_blank"> aminoinfoclique </a>
-      </td>
-      <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="MailBomber" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/MailBomber" target="_blank"> MailBomber </a>
-      </td>
-      <td>
-        <img src="https://trendymanga.com/favicon.ico" height="20px" alt="autoregkilla" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/autoregkilla" target="_blank"> autoregkilla </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://newmanga.org/favicon.ico" height="20px" alt="autoregfxck" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/autoregfxck" target="_blank"> autoregfxck </a>
-      </td>
       <td>
         <img src="https://newmanga.org/favicon.ico" height="20px" alt="asyncNewmanga" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/asyncNewmanga" target="_blank"> asyncNewmanga </a>
@@ -95,7 +68,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://lucky-random.ru/favicon.ico" height="20px" alt="lucky_random" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://lucky-random.ru/wp-content/uploads/2021/04/Lucky-Random-1-300x205.png" height="20px" alt="lucky_random" >
         <a href="https://github.com/l0v3m0n3y/lucky_random" target="_blank"> lucky_random </a>
       </td>
       <td>
@@ -125,7 +98,7 @@
         <a href="https://github.com/l0v3m0n3y/anitype" target="_blank"> anitype </a>
       </td>
       <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="cocktailbuilder" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://www.cocktailbuilder.com/img/icons/icon1024x1024.png" height="20px" alt="cocktailbuilder" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/cocktailbuilder" target="_blank"> cocktailbuilder </a>
       </td>
       <td>
@@ -145,20 +118,10 @@
       <td>
         <img src="https://lingvolive.com/favicon.ico" height="20px" alt="lingvolive" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/lingvolive" target="_blank"> lingvolive </a>
-      </td>
-      <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="clickvpn_autoreg" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/clickvpn_autoreg" target="_blank"> clickvpn_autoreg </a>
-      </td>
       <td>
         <img src="https://1clickvpn.net/favicon.ico" height="20px" alt="clickvpn" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/clickvpn" target="_blank"> clickvpn </a>
       </td>
-      <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="trendymanga_autoreg" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/trendymanga_autoreg" target="_blank"> trendymanga_autoreg </a>
-      </td>
-    </tr>
     <tr>
       <td>
         <img src="https://internxt.com/favicon.ico" height="20px" alt="internxt_mail" onerror="this.src='https://github.com/favicon.ico'">
@@ -227,15 +190,15 @@
     </tr>
     <tr>
       <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="Goo_gl" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://goo-gl.me/uploads/main/ebdfe7335edc910ceec694bd43b90186.png" height="20px" alt="Goo_gl" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/Goo_gl" target="_blank"> Goo_gl </a>
       </td>
       <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="temp_mail" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://temp-mail.io/open-graph.png" height="20px" alt="temp_mail" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/temp_mail" target="_blank"> temp_mail </a>
       </td>
       <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="telegraph" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://telegra.ph/images/logo.png" height="20px" alt="telegraph" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/telegraph" target="_blank"> telegraph </a>
       </td>
       <td>
@@ -243,7 +206,7 @@
         <a href="https://github.com/l0v3m0n3y/carbondate" target="_blank"> carbondate </a>
       </td>
       <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="wayback" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://web-static.archive.org/_static/images/archive.ico" height="20px" alt="wayback" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/wayback" target="_blank"> wayback </a>
       </td>
     </tr>
@@ -253,7 +216,7 @@
         <a href="https://github.com/l0v3m0n3y/textbelt" target="_blank"> textbelt </a>
       </td>
       <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="topsmm" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://topsmm.ru/img/cube.png" height="20px" alt="topsmm" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/topsmm" target="_blank"> topsmm </a>
       </td>
       <td>
@@ -271,11 +234,11 @@
     </tr>
     <tr>
       <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="htmlweb" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://htmlweb.ru/images/og-image/index.jpg" height="20px" alt="htmlweb" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/htmlweb" target="_blank"> htmlweb </a>
       </td>
       <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="clck" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://yastatic.net/s3/clicker/_/favicon.ico" height="20px" alt="clck" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/clck" target="_blank"> clck </a>
       </td>
       <td>
@@ -287,7 +250,7 @@
         <a href="https://github.com/l0v3m0n3y/sms-acktiwator" target="_blank"> sms-acktiwator </a>
       </td>
       <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="unshorten" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://static.unshorten.me/images/unshorten.png" height="20px" alt="unshorten" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/unshorten" target="_blank"> unshorten </a>
       </td>
     </tr>
@@ -299,4 +262,3 @@
 - **Total projects:** 65
 - **Total stars:** 5
 - **Total forks:** 1
-
