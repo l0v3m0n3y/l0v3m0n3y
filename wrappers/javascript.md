@@ -17,7 +17,7 @@
         <a href="https://github.com/l0v3m0n3y/octohide" target="_blank"> octohide </a>
       </td>
       <td>
-        <img src="https://fastforex.io/favicon.ico" height="20px" alt="fastforex" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://cdn.prod.website-files.com/5fd63383c2fe7919cf1f0148/6228e79a88aa497a4758d5af_ff-256x256.png" height="20px" alt="fastforex" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/fastforex" target="_blank"> fastforex </a>
       </td>
       <td>
@@ -75,7 +75,7 @@
         <a href="https://github.com/l0v3m0n3y/ipx" target="_blank"> ipx </a>
       </td>
       <td>
-        <img src="https://tempimail.org/favicon.ico" height="20px" alt="tempimail" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://tempimail.org/uploads/favicon.png" height="20px" alt="tempimail" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/tempimail" target="_blank"> tempimail </a>
       </td>
       <td>
@@ -119,7 +119,7 @@
         <a href="https://github.com/l0v3m0n3y/Oeo" target="_blank"> Oeo </a>
       </td>
       <td>
-        <img src="https://coincap.io/favicon.ico" height="20px" alt="coincap" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://coincap.io/static/icons/favicon.ico" height="20px" alt="coincap" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/coincap" target="_blank"> coincap </a>
       </td>
       <td>
@@ -185,7 +185,7 @@
         <a href="https://github.com/l0v3m0n3y/shorturl" target="_blank"> shorturl </a>
       </td>
       <td>
-        <img src="https://shortifyme.co/favicon.ico" height="20px" alt="shortifyme" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://www.shortifyme.com/nitropack_static/HftFKmtBOlJbeqybUNyFEYhGBtyqkSZN/assets/images/optimized/rev-b7c4ddc/www.shortifyme.com/wp-content/uploads/2025/01/logo-dark.webp" height="20px" alt="shortifyme" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/shortifyme" target="_blank"> shortifyme </a>
       </td>
       <td>
@@ -207,11 +207,11 @@
         <a href="https://github.com/l0v3m0n3y/npvu" target="_blank"> npvu </a>
       </td>
       <td>
-        <img src="https://vpncity.com/favicon.ico" height="20px" alt="vpncity" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://www.vpncity.com/img/favicon.png" height="20px" alt="vpncity" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/vpncity" target="_blank"> vpncity </a>
       </td>
       <td>
-        <img src="https://gimmeproxy.com/favicon.ico" height="20px" alt="gimmeproxy" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://gimmeproxy.com/twitter-image.jpg" height="20px" alt="gimmeproxy" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/gimmeproxy" target="_blank"> gimmeproxy </a>
       </td>
       <td>
@@ -219,7 +219,7 @@
         <a href="https://github.com/l0v3m0n3y/pubproxy" target="_blank"> pubproxy </a>
       </td>
       <td>
-        <img src="https://freeipapi.com/favicon.ico" height="20px" alt="freeipapi" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://freeipapi.com/favicon/favicon.ico" height="20px" alt="freeipapi" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/freeipapi" target="_blank"> freeipapi </a>
       </td>
     </tr>
@@ -251,7 +251,7 @@
         <a href="https://github.com/l0v3m0n3y/workingvpn" target="_blank"> workingvpn </a>
       </td>
       <td>
-        <img src="https://www.javascript.com/favicon.ico" height="20px" alt="rtvi_program" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://rtvi.com/wp-content/themes/rtvi/images/favicon-32x32.png" height="20px" alt="rtvi_program" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/rtvi_program" target="_blank"> rtvi_program </a>
       </td>
       <td>
@@ -285,7 +285,7 @@
         <a href="https://github.com/l0v3m0n3y/jarvis" target="_blank"> jarvis </a>
       </td>
       <td>
-        <img src="https://tempmail.altmails.com/favicon.ico" height="20px" alt="altmails" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://tempmail.altmails.com/image/tempmail-logo.png" height="20px" alt="altmails" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/altmails" target="_blank"> altmails </a>
       </td>
     </tr>
@@ -303,7 +303,7 @@
         <a href="https://github.com/l0v3m0n3y/agogmail" target="_blank"> agogmail </a>
       </td>
       <td>
-        <img src="https://zona.plus/favicon.ico" height="20px" alt="zona" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://w140.zona.plus/favicon-16x16.png" height="20px" alt="zona" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/zona" target="_blank"> zona </a>
       </td>
       <td>
@@ -317,7 +317,7 @@
         <a href="https://github.com/l0v3m0n3y/techniknews" target="_blank"> techniknews </a>
       </td>
       <td>
-        <img src="https://ident.me/favicon.ico" height="20px" alt="ident" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://www.ident.me/favicon.ico" height="20px" alt="ident" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/ident" target="_blank"> ident </a>
       </td>
       <td>
@@ -335,7 +335,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://1pt.co/favicon.ico" height="20px" alt="1pt" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://1pt.co/resources/assets/og-image.png" height="20px" alt="1pt" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/1pt" target="_blank"> 1pt </a>
       </td>
       <td>
@@ -347,7 +347,7 @@
         <a href="https://github.com/l0v3m0n3y/adwolf" target="_blank"> adwolf </a>
       </td>
       <td>
-        <img src="https://iplookup.vvdev.ru/favicon.ico" height="20px" alt="vvdev" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://vvdev.ru/logo.svg" height="20px" alt="vvdev" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/vvdev" target="_blank"> vvdev </a>
       </td>
       <td>
@@ -391,7 +391,7 @@
         <a href="https://github.com/l0v3m0n3y/typliai" target="_blank"> typliai </a>
       </td>
       <td>
-        <img src="https://namify.tech/favicon.ico" height="20px" alt="namify" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://namify.tech/favicon/favicon-96x96.png" height="20px" alt="namify" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/namify" target="_blank"> namify </a>
       </td>
       <td>
@@ -413,11 +413,11 @@
         <a href="https://github.com/l0v3m0n3y/hubvpn" target="_blank"> hubvpn </a>
       </td>
       <td>
-        <img src="https://vpn-naoborot.online/favicon.ico" height="20px" alt="vpnnaoborot" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://www.vpn-naoborot.com/images/brand-icon-180x180.webp" height="20px" alt="vpnnaoborot" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/vpnnaoborot" target="_blank"> vpnnaoborot </a>
       </td>
       <td>
-        <img src="https://troywell.org/favicon.ico" height="20px" alt="troywell" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://troywell.org/favicon.png" height="20px" alt="troywell" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/troywell" target="_blank"> troywell </a>
       </td>
     </tr>
@@ -435,7 +435,7 @@
         <a href="https://github.com/l0v3m0n3y/glaztv" target="_blank"> glaztv </a>
       </td>
       <td>
-        <img src="https://wamanga.ru/favicon.ico" height="20px" alt="wamanga" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://wamanga.ru/_next/static/media/logo.00c24dde.svg" height="20px" alt="wamanga" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/wamanga" target="_blank"> wamanga </a>
       </td>
       <td>
@@ -467,7 +467,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://gramcoin.org/favicon.ico" height="20px" alt="Grampool" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://gramcoin.org/img/favicon.ico" height="20px" alt="Grampool" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/Grampool" target="_blank"> Grampool </a>
       </td>
       <td>
@@ -475,7 +475,7 @@
         <a href="https://github.com/l0v3m0n3y/hunter" target="_blank"> hunter </a>
       </td>
       <td>
-        <img src="https://skrapp.io/favicon.ico" height="20px" alt="skrapp" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://resources.skrapp.io/brand/favicon.ico/favicon.png" height="20px" alt="skrapp" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/skrapp" target="_blank"> skrapp </a>
       </td>
       <td>
@@ -483,7 +483,7 @@
         <a href="https://github.com/l0v3m0n3y/Wikipedia" target="_blank"> Wikipedia </a>
       </td>
       <td>
-        <img src="https://airbet.io/favicon.ico" height="20px" alt="airbet" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://airbet.io/imgs/favicon.ico" height="20px" alt="airbet" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/airbet" target="_blank"> airbet </a>
       </td>
     </tr>
@@ -523,18 +523,12 @@
         <a href="https://github.com/l0v3m0n3y/baconipsum" target="_blank"> baconipsum </a>
       </td>
       <td>
-        <img src="https://geek-jokes.sameerkumar.website/favicon.ico" height="20px" alt="geekjokes" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://sameerkumar.website/favicon.ico" height="20px" alt="geekjokes" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/geekjokes" target="_blank"> geekjokes </a>
       </td>
       <td>
         <img src="https://kitsu.io/favicon.ico" height="20px" alt="kitsu" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/kitsu" target="_blank"> kitsu </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://www.javascript.com/favicon.ico" height="20px" alt="JScalculator" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/JScalculator" target="_blank"> JScalculator </a>
       </td>
     </tr>
 </table>
