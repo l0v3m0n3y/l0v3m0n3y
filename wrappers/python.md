@@ -50,7 +50,7 @@
         <a href="https://github.com/l0v3m0n3y/async_mail" target="_blank"> async_mail </a>
       </td>
       <td>
-        <img src="https://imageeditor.ai/favicon.ico" height="20px" alt="imageeditor" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://imageeditor.ai/static/images/favicon.png" height="20px" alt="imageeditor" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/imageeditor" target="_blank"> imageeditor </a>
       </td>
       <td>
@@ -132,21 +132,21 @@
         <a href="https://github.com/l0v3m0n3y/Tempmail" target="_blank"> Tempmail </a>
       </td>
       <td>
-        <img src="https://trendymanga.com/favicon.ico" height="20px" alt="trendymanga" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://trendymanga.com/favicon.png" height="20px" alt="trendymanga" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/trendymanga" target="_blank"> trendymanga </a>
       </td>
       <td>
-        <img src="https://ultragenerator.com/favicon.ico" height="20px" alt="ultragenerator" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://ultragenerator.com/images/favicons/favicon.png" height="20px" alt="ultragenerator" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/ultragenerator" target="_blank"> ultragenerator </a>
       </td>
       <td>
-        <img src="https://smtp.bz/favicon.ico" height="20px" alt="smtp" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://smtp.bz/favicon.png" height="20px" alt="smtp" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/smtp" target="_blank"> smtp </a>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://dmarcly.com/favicon.ico" height="20px" alt="dmarcly" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://dmarcly.com/assets/images/favicon.png" height="20px" alt="dmarcly" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/dmarcly" target="_blank"> dmarcly </a>
       </td>
       <td>
@@ -158,7 +158,7 @@
         <a href="https://github.com/l0v3m0n3y/longurl" target="_blank"> longurl </a>
       </td>
       <td>
-        <img src="https://sitecheck.sucuri.net/favicon.ico" height="20px" alt="sitecheck" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://sitecheck.sucuri.net/favicon.png" height="20px" alt="sitecheck" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/sitecheck" target="_blank"> sitecheck </a>
       </td>
       <td>
@@ -224,7 +224,7 @@
         <a href="https://github.com/l0v3m0n3y/catfact" target="_blank"> catfact </a>
       </td>
       <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="randomdatatools" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://randomdatatools.ru/favicon.ico" height="20px" alt="randomdatatools" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/randomdatatools" target="_blank"> randomdatatools </a>
       </td>
       <td>
@@ -242,7 +242,7 @@
         <a href="https://github.com/l0v3m0n3y/clck" target="_blank"> clck </a>
       </td>
       <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="cataas" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://cataas.com/cat?width=32&height=32" height="20px" alt="cataas" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/cataas" target="_blank"> cataas </a>
       </td>
       <td>
