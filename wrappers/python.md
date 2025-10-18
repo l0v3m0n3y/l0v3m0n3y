@@ -1,7 +1,5 @@
 # Python Wrappers & Libraries
 
-> Auto-generated list of Python projects
-
 
 <table>
     <tr> <th colspan="5">Python - 65</th> </tr>
