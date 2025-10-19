@@ -123,6 +123,10 @@
         <img src="https://1clickvpn.net/favicon.ico" height="20px" alt="clickvpn" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/clickvpn" target="_blank"> clickvpn </a>
       </td>
+      <td>
+        <img src="https://rule34.xxx/favicon.ico" height="20px" alt="clickvpn" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/rule34api" target="_blank"> rule34api </a>
+      </td>
     <tr>
       <td>
         <img src="https://internxt.com/favicon.ico" height="20px" alt="internxt_mail" onerror="this.src='https://github.com/favicon.ico'">
