@@ -41,7 +41,10 @@
         <img src="https://trendymanga.com/favicon.ico" height="20px" alt="async_trendymanga" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/async_trendymanga" target="_blank"> async_trendymanga </a>
       </td>
-    </tr>
+      <td>
+        <img src="https://megapdd.ru/img/favicon.png" height="20px" alt="async_trendymanga" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/megapdd" target="_blank"> megapdd </a>
+      </td>
     <tr>
       <td>
         <img src="https://temp-mail.io/favicon.ico" height="20px" alt="async_mail" onerror="this.src='https://github.com/favicon.ico'">
