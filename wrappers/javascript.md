@@ -39,7 +39,7 @@
         <a href="https://github.com/l0v3m0n3y/tratao" target="_blank"> tratao </a>
       </td>
       <td>
-        <img src="https://currency-new.julien-millau.fr/favicon.ico" height="20px" alt="currency_new" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://julien-millau.fr/css/img/favicon.ico" height="20px" alt="currency_new" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/currency_new" target="_blank"> currency_new </a>
       </td>
       <td>
@@ -109,7 +109,7 @@
         <a href="https://github.com/l0v3m0n3y/btctousd" target="_blank"> btctousd </a>
       </td>
       <td>
-        <img src="https://frankfurter.app/favicon.ico" height="20px" alt="frankfurter" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://frankfurter.dev/favicon.png" height="20px" alt="frankfurter" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/frankfurter" target="_blank"> frankfurter </a>
       </td>
     </tr>
@@ -211,11 +211,9 @@
         <a href="https://github.com/l0v3m0n3y/vpncity" target="_blank"> vpncity </a>
       </td>
       <td>
-        <img src="https://gimmeproxy.com/twitter-image.jpg" height="20px" alt="gimmeproxy" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/gimmeproxy" target="_blank"> gimmeproxy </a>
       </td>
       <td>
-        <img src="https://pubproxy.com/favicon.ico" height="20px" alt="pubproxy" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/pubproxy" target="_blank"> pubproxy </a>
       </td>
       <td>
@@ -247,7 +245,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://workingvpn.com/favicon.ico" height="20px" alt="workingvpn" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://workingvpn.com/assets/website/img/favicon.ico" height="20px" alt="workingvpn" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/workingvpn" target="_blank"> workingvpn </a>
       </td>
       <td>
@@ -295,7 +293,7 @@
         <a href="https://github.com/l0v3m0n3y/harakirimail" target="_blank"> harakirimail </a>
       </td>
       <td>
-        <img src="https://temporary-mail.net/favicon.ico" height="20px" alt="temporary" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="\https://temporary-mail.net/" height="20px" alt="temporary" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/temporary" target="_blank"> temporary </a>
       </td>
       <td>
@@ -383,7 +381,7 @@
         <a href="https://github.com/l0v3m0n3y/embedy" target="_blank"> embedy </a>
       </td>
       <td>
-        <img src="https://cmp.inmobi.com/favicon.ico" height="20px" alt="inmobi" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://inmobi.com/static/icons/favicon.ico" height="20px" alt="inmobi" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/inmobi" target="_blank"> inmobi </a>
       </td>
       <td>
@@ -409,7 +407,7 @@
         <a href="https://github.com/l0v3m0n3y/tricolorfashion" target="_blank"> tricolorfashion </a>
       </td>
       <td>
-        <img src="https://hub-vpn.com/favicon.ico" height="20px" alt="hubvpn" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://vpnly.com/wp-content/uploads/2025/08/about-us-img-2.svg" height="20px" alt="hubvpn" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/hubvpn" target="_blank"> hubvpn </a>
       </td>
       <td>
@@ -439,7 +437,7 @@
         <a href="https://github.com/l0v3m0n3y/wamanga" target="_blank"> wamanga </a>
       </td>
       <td>
-        <img src="https://waa.ai/favicon.ico" height="20px" alt="waaai" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://waa.ai/img/icons/apple-touch-icon-144-precomposed.png" height="20px" alt="waaai" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/waaai" target="_blank"> waaai </a>
       </td>
     </tr>
@@ -457,7 +455,7 @@
         <a href="https://github.com/l0v3m0n3y/twoipio" target="_blank"> twoipio </a>
       </td>
       <td>
-        <img src="https://2ip.me/favicon.ico" height="20px" alt="twoip" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://2ip.me/templates/2ip/favicon.png" height="20px" alt="twoip" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/twoip" target="_blank"> twoip </a>
       </td>
       <td>
@@ -483,7 +481,7 @@
         <a href="https://github.com/l0v3m0n3y/Wikipedia" target="_blank"> Wikipedia </a>
       </td>
       <td>
-        <img src="https://airbet.io/imgs/favicon.ico" height="20px" alt="airbet" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://airbet.io/imgs/default_image.png" height="20px" alt="airbet" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/airbet" target="_blank"> airbet </a>
       </td>
     </tr>
@@ -501,11 +499,11 @@
         <a href="https://github.com/l0v3m0n3y/planetvpn" target="_blank"> planetvpn </a>
       </td>
       <td>
-        <img src="https://cmp.uniconsent.com/favicon.ico" height="20px" alt="uniconsent" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://www.uniconsent.com/favicon-16x16.png" height="20px" alt="uniconsent" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/uniconsent" target="_blank"> uniconsent </a>
       </td>
       <td>
-        <img src="https://tinysrc.me/favicon.ico" height="20px" alt="tinysrc" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://tinysrc.me/favicon.png" height="20px" alt="tinysrc" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/tinysrc" target="_blank"> tinysrc </a>
       </td>
     </tr>
