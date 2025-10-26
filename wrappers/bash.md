@@ -60,7 +60,7 @@
         <a href="https://github.com/l0v3m0n3y/ipify_api" target="_blank"> ipify_api </a>
       </td>
       <td>
-        <img src="https://geoiplookup.io/favicon.ico" height="20px" alt="geoiplookup" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://geoiplookup.io/vite.svg" height="20px" alt="geoiplookup" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/geoiplookup" target="_blank"> geoiplookup </a>
       </td>
       <td>
