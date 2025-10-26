@@ -13,11 +13,11 @@
         <a href="https://github.com/l0v3m0n3y/asyncadvice" target="_blank"> asyncadvice </a>
       </td>
       <td>
-        <img src="https://1secmail.com/favicon.ico" height="20px" alt="AsyncSecMail" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://private-user-images.githubusercontent.com/94906343/297331774-932155a4-f5e7-477f-a8b1-d7a05d5fe40c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE0Mzc2MjcsIm5iZiI6MTc2MTQzNzMyNywicGF0aCI6Ii85NDkwNjM0My8yOTczMzE3NzQtOTMyMTU1YTQtZjVlNy00NzdmLWE4YjEtZDdhMDVkNWZlNDBjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI2VDAwMDg0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFlNTMwNTIwZTA2YWVmNmRhZmUxODcyYTRkODIyMDA1YTU5MjA3NjQwZDEyODA1ZWJmMTgxMTE1NDUzZjRmZWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dfZLbJ_NV3azs0TwFHZMAoUDcKH8av3UsveuO7FC-GA" height="20px" alt="AsyncSecMail" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/AsyncSecMail" target="_blank"> AsyncSecMail </a>
       </td>
       <td>
-        <img src="https://freevpnplanet.com/favicon.ico" height="20px" alt="Planet_vpn" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://freevpnplanet.com/wp-content/themes/planetvpn/assets/favicons/favicon.svg" height="20px" alt="Planet_vpn" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/Planet_vpn" target="_blank"> Planet_vpn </a>
       </td>
       <td>
@@ -26,7 +26,7 @@
       </td>
     </tr>
       <td>
-        <img src="https://newmanga.org/favicon.ico" height="20px" alt="asyncNewmanga" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://private-user-images.githubusercontent.com/94906343/290986404-c057b187-2821-4bf5-9305-c466065e2686.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE0MzYzNjIsIm5iZiI6MTc2MTQzNjA2MiwicGF0aCI6Ii85NDkwNjM0My8yOTA5ODY0MDQtYzA1N2IxODctMjgyMS00YmY1LTkzMDUtYzQ2NjA2NWUyNjg2LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI1VDIzNDc0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBmYTAwOGRjZDQ4NWJhMjBiMDBiZDQ3NjE0ZmE4YjkxNTQzM2YwNjNhZWU5Y2Q1Mzc4M2U1M2M0MjY3ZTA2MWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.RRoVvGEkP9TOnM5nd7zQ2zLmHYg-OfqCm4b-Qu9zL1A" height="20px" alt="asyncNewmanga" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/asyncNewmanga" target="_blank"> asyncNewmanga </a>
       </td>
       <td>
@@ -34,11 +34,11 @@
         <a href="https://github.com/l0v3m0n3y/asyncStart" target="_blank"> asyncStart </a>
       </td>
       <td>
-        <img src="https://anitype.site/favicon.ico" height="20px" alt="asyncanitype" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://private-user-images.githubusercontent.com/94906343/291067044-8b488ef6-5f77-46c5-b95a-29c17e076c32.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE0Mzc1NzQsIm5iZiI6MTc2MTQzNzI3NCwicGF0aCI6Ii85NDkwNjM0My8yOTEwNjcwNDQtOGI0ODhlZjYtNWY3Ny00NmM1LWI5NWEtMjljMTdlMDc2YzMyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI2VDAwMDc1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdkMzdiYzBkMmFlMzNkZWJmYThjNjkxOTcyYWM1NmFkMzM5MDE3ZTIzMjM2MGFiOGUyNTRlNTk3OGIzNjQ3ZjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kQBJDqs8aLMTN-ic9kZGV6eCfmS7l22pIYdkQY9RHbE" height="20px" alt="asyncanitype" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/asyncanitype" target="_blank"> asyncanitype </a>
       </td>
       <td>
-        <img src="https://trendymanga.com/favicon.ico" height="20px" alt="async_trendymanga" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://private-user-images.githubusercontent.com/94906343/293580517-7fe07e64-2749-443e-b5da-8f93c1287567.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE0Mzc0NzQsIm5iZiI6MTc2MTQzNzE3NCwicGF0aCI6Ii85NDkwNjM0My8yOTM1ODA1MTctN2ZlMDdlNjQtMjc0OS00NDNlLWI1ZGEtOGY5M2MxMjg3NTY3LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI2VDAwMDYxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEwZWE4ODM5NzY3ODJmNmY5OWViYTkxYmJhN2Y5YzMyZTc3NmQyNzFiOTc0MDc2NGEzMGJlNzRiN2VlNzc5YjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bPgIjaR901hfynn6Wh7b4kXSp9KVaFMNC1-T1WOMzLQ" height="20px" alt="async_trendymanga" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/async_trendymanga" target="_blank"> async_trendymanga </a>
       </td>
       <td>
@@ -59,11 +59,11 @@
         <a href="https://github.com/l0v3m0n3y/litres" target="_blank"> litres </a>
       </td>
       <td>
-        <img src="https://random.onl/favicon.ico" height="20px" alt="random_onl" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://private-user-images.githubusercontent.com/94906343/295364505-21e7d1d9-5fd4-43c8-9ce9-b03789f231f5.svg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE0Mzc3MDIsIm5iZiI6MTc2MTQzNzQwMiwicGF0aCI6Ii85NDkwNjM0My8yOTUzNjQ1MDUtMjFlN2QxZDktNWZkNC00M2M4LTljZTktYjAzNzg5ZjIzMWY1LnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI2VDAwMTAwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdhOTljOGM3NzBiOGQ2NmNmN2Y2YTMxZDQyMWQ2YzU3OGFkYmQ2NmZmMjc3MDFjNmJkNTBhNGNmNDczYmQ3ZTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XIVRqTG1QD-MeYZqPqTmF3w4JzscRy9ZdOfJ3AkirNk" height="20px" alt="random_onl" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/random_onl" target="_blank"> random_onl </a>
       </td>
       <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="Nuum" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://private-user-images.githubusercontent.com/94906343/294597853-963aa215-a175-42a7-9591-f8030fff01f4.svg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE0Mzc3NzMsIm5iZiI6MTc2MTQzNzQ3MywicGF0aCI6Ii85NDkwNjM0My8yOTQ1OTc4NTMtOTYzYWEyMTUtYTE3NS00MmE3LTk1OTEtZjgwMzBmZmYwMWY0LnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI2VDAwMTExM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZiZjQ3OGE2MzA5ZTMxYjY1ZWVlZmJmMjNkNDcyOGQyYWI1YTdhZmU3N2E3ZDY5NmU0MTlmZmZlZmYyMThiNWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.89ozszB1nooQ6n8z18jrAKLMEF8nykvZP61slw4BDLw" height="20px" alt="Nuum" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/Nuum" target="_blank"> Nuum </a>
       </td>
     </tr>
@@ -77,7 +77,7 @@
         <a href="https://github.com/l0v3m0n3y/zaycev" target="_blank"> zaycev </a>
       </td>
       <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="fvpvpn" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://private-user-images.githubusercontent.com/94906343/292909746-c97cb915-d833-4e37-92ce-4b7a2ffc4335.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE0Mzc4MTEsIm5iZiI6MTc2MTQzNzUxMSwicGF0aCI6Ii85NDkwNjM0My8yOTI5MDk3NDYtYzk3Y2I5MTUtZDgzMy00ZTM3LTkyY2UtNGI3YTJmZmM0MzM1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI2VDAwMTE1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMzZjM3YjdkODFmMzkwMWFiZThmNjc3YTQ1NGFmZjBmZWVhNWJhYTI4OTdiNTAyNTZjN2ZiYmVlNTY3ZTA2ZGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.EYiYfPxPr2aMrStvMHNyUG-AvvBXxMi9YeC7kTfWZvc" height="20px" alt="fvpvpn" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/fvpvpn" target="_blank"> fvpvpn </a>
       </td>
       <td>
@@ -85,13 +85,13 @@
         <a href="https://github.com/l0v3m0n3y/onlinegenerator" target="_blank"> onlinegenerator </a>
       </td>
       <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="check_host" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://check-host.net/checkhost-favicon.png" height="20px" alt="check_host" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/check_host" target="_blank"> check_host </a>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://newmanga.org/favicon.ico" height="20px" alt="newmanga" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://private-user-images.githubusercontent.com/94906343/290986404-c057b187-2821-4bf5-9305-c466065e2686.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE0MzYzNjIsIm5iZiI6MTc2MTQzNjA2MiwicGF0aCI6Ii85NDkwNjM0My8yOTA5ODY0MDQtYzA1N2IxODctMjgyMS00YmY1LTkzMDUtYzQ2NjA2NWUyNjg2LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI1VDIzNDc0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBmYTAwOGRjZDQ4NWJhMjBiMDBiZDQ3NjE0ZmE4YjkxNTQzM2YwNjNhZWU5Y2Q1Mzc4M2U1M2M0MjY3ZTA2MWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.RRoVvGEkP9TOnM5nd7zQ2zLmHYg-OfqCm4b-Qu9zL1A" height="20px" alt="newmanga" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/newmanga" target="_blank"> newmanga </a>
       </td>
       <td>
@@ -137,7 +137,7 @@
         <a href="https://github.com/l0v3m0n3y/Tempmail" target="_blank"> Tempmail </a>
       </td>
       <td>
-        <img src="https://trendymanga.com/favicon.png" height="20px" alt="trendymanga" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://private-user-images.githubusercontent.com/94906343/293580517-7fe07e64-2749-443e-b5da-8f93c1287567.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE0Mzc0NzQsIm5iZiI6MTc2MTQzNzE3NCwicGF0aCI6Ii85NDkwNjM0My8yOTM1ODA1MTctN2ZlMDdlNjQtMjc0OS00NDNlLWI1ZGEtOGY5M2MxMjg3NTY3LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI2VDAwMDYxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEwZWE4ODM5NzY3ODJmNmY5OWViYTkxYmJhN2Y5YzMyZTc3NmQyNzFiOTc0MDc2NGEzMGJlNzRiN2VlNzc5YjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bPgIjaR901hfynn6Wh7b4kXSp9KVaFMNC1-T1WOMzLQ" height="20px" alt="trendymanga" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/trendymanga" target="_blank"> trendymanga </a>
       </td>
       <td>
@@ -155,7 +155,7 @@
         <a href="https://github.com/l0v3m0n3y/dmarcly" target="_blank"> dmarcly </a>
       </td>
       <td>
-        <img src="https://linkify.me/favicon.ico" height="20px" alt="linkify" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://linkify.me/378x378-square.svg" height="20px" alt="linkify" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/linkify" target="_blank"> linkify </a>
       </td>
       <td>
@@ -177,7 +177,7 @@
         <a href="https://github.com/l0v3m0n3y/free_generator" target="_blank"> free_generator </a>
       </td>
       <td>
-        <img src="https://porfirevich.com/favicon.ico" height="20px" alt="porfirevich" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://porfirevich.ru/assets/favicon-16x16.png" height="20px" alt="porfirevich" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/porfirevich" target="_blank"> porfirevich </a>
       </td>
       <td>
