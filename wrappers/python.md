@@ -225,7 +225,7 @@
         <a href="https://github.com/l0v3m0n3y/topsmm" target="_blank"> topsmm </a>
       </td>
       <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="catfact" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://catfact.ninja/docs/asset/favicon-16x16.png?v=f0ae831196d55d8f4115b6c5e8ec5384" height="20px" alt="catfact" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/catfact" target="_blank"> catfact </a>
       </td>
       <td>
@@ -251,7 +251,7 @@
         <a href="https://github.com/l0v3m0n3y/cataas" target="_blank"> cataas </a>
       </td>
       <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="sms-acktiwator" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://smsak.org/zeropoint_favicon.png" height="20px" alt="sms-acktiwator" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/sms-acktiwator" target="_blank"> sms-acktiwator </a>
       </td>
       <td>
