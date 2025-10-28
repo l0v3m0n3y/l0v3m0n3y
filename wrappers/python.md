@@ -42,7 +42,7 @@
         <a href="https://github.com/l0v3m0n3y/async_trendymanga" target="_blank"> async_trendymanga </a>
       </td>
       <td>
-        <img src="https://megapdd.ru/img/favicon.png" height="20px" alt="async_trendymanga" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://megapdd.ru/img/favicon.png" height="20px" alt="megapdd" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/megapdd" target="_blank"> megapdd </a>
       </td>
     <tr>
@@ -124,8 +124,12 @@
         <a href="https://github.com/l0v3m0n3y/clickvpn" target="_blank"> clickvpn </a>
       </td>
       <td>
-        <img src="https://rule34.xxx/favicon.ico" height="20px" alt="clickvpn" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://rule34.xxx/favicon.ico" height="20px" alt="rule34api" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/rule34api" target="_blank"> rule34api </a>
+      </td>
+      <td>
+        <img src="https://changenow.io/images/icons/mstile-1-144x144.png" height="20px" alt="changenow" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/changenow" target="_blank"> changenow </a>
       </td>
     <tr>
       <td>
