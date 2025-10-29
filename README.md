@@ -8,7 +8,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white)
-
+![NIM](https://img.shields.io/badge/NIM-FFC200?style=for-the-badge&logo=nim&logoColor=white)
 </div>
 
 ## 📊 GitHub Analytics
