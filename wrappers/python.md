@@ -1,5 +1,6 @@
 # Python Wrappers & Libraries
 
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20px" >
 
 <table>
     <tr> <th colspan="5">Python - 65</th> </tr>
