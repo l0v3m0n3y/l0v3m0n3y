@@ -21,7 +21,7 @@
 
 </div>
 <table>
-    <tr> <th colspan="5">Python - 65</th> </tr>
+    <tr> <th colspan="5"> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20px"></th> </tr>
     <tr>
       <td>
         <img src="https://www.python.org/static/favicon.ico" height="20px" alt="textbelt" onerror="this.src='https://github.com/favicon.ico'">
