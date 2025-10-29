@@ -110,7 +110,7 @@
         <img src="https://markets.ft.com/favicon.ico" height="20px" alt="markets_ft" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/markets_ft" target="_blank"> markets_ft </a>
       </td>
-  <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/edit/main/wrappers/javascript.md'>Continue</a></th></tr>
+  <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/javascript.md'>Continue</a></th></tr>
       <tr> <th colspan="5">Shell - 26</th> </tr>
     <tr>
       <td>
