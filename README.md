@@ -4,22 +4,10 @@
 
 **Open Source Developer & API Enthusiast**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white)
-![NIM](https://img.shields.io/badge/NIM-FFC200?style=for-the-badge&logo=nim&logoColor=white)
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-| | |
-|:---:|:---:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l0v3m0n3y&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l0v3m0n3y&layout=compact&theme=radical&hide_border=true) |
+<img src="https://skillicons.dev/icons?i=python,javascript,bash,nim,html,go,markdown,c&perline=4">
 
 </div>
+
 <table>
     <tr> <th colspan="5">Python - 65</th> </tr>
     <tr>
@@ -185,4 +173,5 @@
     </td>
         <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/nim.md'>Continue</a></th></tr>
 </table>
+<img src="https://github-readme-stats.vercel.app/api?username=l0v3m0n3y&show_icons=true&theme=radical&hide_border=true">
 </div>
