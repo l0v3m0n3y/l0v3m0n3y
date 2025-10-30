@@ -171,6 +171,10 @@
         <img src="https://smallurl.in/apple-touch-icon.png" height="20px" alt="smallurl" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/smallurl" target="_blank"> smallurl </a>
     </td>
+    <td>
+        <img src="https://inboxes.com/images/favicon.svg" height="20px" alt="inboxes" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/inboxes" target="_blank"> inboxes </a>
+    </td>
         <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/nim.md'>Continue</a></th></tr>
 </table>
 <img src="https://github-readme-stats.vercel.app/api?username=l0v3m0n3y&show_icons=true&theme=radical&hide_border=true">
