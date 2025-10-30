@@ -144,7 +144,7 @@
         <a href="https://github.com/l0v3m0n3y/jsonip" target="_blank"> jsonip </a>
       </td>
         <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/bash.md'>Continue</a></th></tr>
-     <tr> <th colspan="5">Nim 8</th> </tr>
+     <tr> <th colspan="5">Nim 9</th> </tr>
     <tr>
       <td>
         <img src="https://gold-api.com/icon.png" height="20px" alt="goldapi" onerror="this.src='https://github.com/favicon.ico'">
@@ -178,6 +178,10 @@
     <td>
         <img src="https://maildax.com/favicon.ico" height="20px" alt="maildax" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/maildax" target="_blank"> maildax </a>
+    </td>
+    <td>
+        <img src="https://httpcats.com/static/icons/cat.svg" height="20px" alt="httpcats" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/httpcats" target="_blank"> httpcats </a>
     </td>
         <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/nim.md'>Continue</a></th></tr>
 </table>
