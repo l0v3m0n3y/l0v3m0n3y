@@ -15,5 +15,9 @@
         <img src="https://ipunblock.com/apple-icon-57x57.png" height="20px" alt="ipunblock" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/ipunblock" target="_blank"> ipunblock </a>
       </td>
+      <td>
+        <img src="https://cdn.shorter.me/assets/img/logo/favicon.png" height="20px" alt="shorter" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/shorter" target="_blank"> shorter </a>
+      </td>
     </tr>
 </table>
