@@ -27,9 +27,8 @@
     <td>
         <img src="https://smallurl.in/apple-touch-icon.png" height="20px" alt="smallurl" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/smallurl" target="_blank"> smallurl </a>
-    </td>
     <td>
-        <img src="https://smallurl.in/apple-touch-icon.png" height="20px" alt="smallurl" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/smallurl" target="_blank"> smallurl </a>
+        <img src="https://inboxes.com/images/favicon.svg" height="20px" alt="inboxes" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/inboxes" target="_blank"> inboxes </a>
     </td>
 </table>
