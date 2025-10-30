@@ -35,4 +35,8 @@
         <img src="https://maildax.com/favicon.ico" height="20px" alt="maildax" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/maildax" target="_blank"> maildax </a>
     </td>
+    <td>
+        <img src="https://httpcats.com/static/icons/cat.svg" height="20px" alt="httpcats" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/httpcats" target="_blank"> httpcats </a>
+    </td>
 </table>
