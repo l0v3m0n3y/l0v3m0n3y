@@ -265,10 +265,3 @@
       </td>
     </tr>
 </table>
-
-
-## 📊 Statistics
-
-- **Total projects:** 65
-- **Total stars:** 5
-- **Total forks:** 1
