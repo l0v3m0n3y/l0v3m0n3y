@@ -531,10 +531,3 @@
       </td>
     </tr>
 </table>
-
-
-## 📊 Statistics
-
-- **Total projects:** 121
-- **Total stars:** 3
-- **Total forks:** 0
