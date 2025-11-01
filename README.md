@@ -53,7 +53,7 @@
         <img src="https://static.unshorten.me/images/unshorten.png" height="20px" alt="unshorten" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/unshorten" target="_blank"> unshorten </a>
     </tr>
-  <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/python.md'>Continue</a></th></tr>
+  <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/wrappers/python.md'>Continue</a></th></tr>
       <tr> <th colspan="5">JavaScript - 121</th> </tr>
     <tr>
       <td>
@@ -98,7 +98,7 @@
         <img src="https://markets.ft.com/favicon.ico" height="20px" alt="markets_ft" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/markets_ft" target="_blank"> markets_ft </a>
       </td>
-  <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/javascript.md'>Continue</a></th></tr>
+  <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/wrappers/javascript.md'>Continue</a></th></tr>
       <tr> <th colspan="5">Shell - 26</th> </tr>
     <tr>
       <td>
@@ -143,8 +143,8 @@
         <img src="https://jsonip.com/favicon.ico" height="20px" alt="jsonip" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/jsonip" target="_blank"> jsonip </a>
       </td>
-        <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/bash.md'>Continue</a></th></tr>
-     <tr> <th colspan="5">Nim 18</th> </tr>
+        <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/wrappers/bash.md'>Continue</a></th></tr>
+     <tr> <th colspan="5">Nim 19</th> </tr>
     <tr>
       <td>
         <img src="https://gold-api.com/icon.png" height="20px" alt="goldapi" onerror="this.src='https://github.com/favicon.ico'">
@@ -187,7 +187,7 @@
         <img src="https://etempmail.com/assets/img/fav/apple-icon-60x60.png" height="20px" alt="etempmail" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/etempmail" target="_blank"> etempmail </a>
     </td>
-        <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/nim.md'>Continue</a></th></tr>
+        <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/wrappers/nim.md'>Continue</a></th></tr>
 </table>
 <img src="https://github-readme-stats.vercel.app/api?username=l0v3m0n3y&show_icons=true&theme=radical&hide_border=true">
 </div>
