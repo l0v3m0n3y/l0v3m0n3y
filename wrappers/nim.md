@@ -1,7 +1,7 @@
 # nim Wrappers & Libraries
 <img src="https://img.shields.io/badge/NIM-FFC200?style=for-the-badge&logo=nim&logoColor=white" height="20px">
 <table>
-    <tr> <th colspan="5">Nim 16</th> </tr>
+    <tr> <th colspan="5">Nim 18</th> </tr>
     <tr>
       <td>
         <img src="https://gold-api.com/icon.png" height="20px" alt="goldapi" onerror="this.src='https://github.com/favicon.ico'">
@@ -67,6 +67,13 @@
         <td>
         <img src="https://tempmail.now/static/favicon-256x256.png" height="20px" alt="tempmail_now" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/tempmail_now" target="_blank"> tempmail_now </a>
+    </td>
+        <td>
+        <img src="https://nullsto.edu.pl/assets/themes/basic/img/xfavicon.png,qt=1761763134.pagespeed.ic.LICMHPTne7.webp" height="20px" alt="nullsto" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/nullsto" target="_blank"> nullsto </a>
+        <td>
+        <img src="https://www.1secmail.io/assets/themes/basic/img/favicon.png" height="20px" alt="secmail_io" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/secmail_io" target="_blank"> secmail_io </a>
     </td>
     <tr>
 </table>
