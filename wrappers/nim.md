@@ -1,7 +1,7 @@
 # nim Wrappers & Libraries
 <img src="https://img.shields.io/badge/NIM-FFC200?style=for-the-badge&logo=nim&logoColor=white" height="20px">
 <table>
-    <tr> <th colspan="5">Nim 15</th> </tr>
+    <tr> <th colspan="5">Nim 16</th> </tr>
     <tr>
       <td>
         <img src="https://gold-api.com/icon.png" height="20px" alt="goldapi" onerror="this.src='https://github.com/favicon.ico'">
@@ -64,5 +64,9 @@
         <a href="https://github.com/l0v3m0n3y/tempmail_fish" target="_blank"> tempmail_fish </a>
     </td>
     </tr> 
+        <td>
+        <img src="https://tempmail.now/static/favicon-256x256.png" height="20px" alt="tempmail_now" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/tempmail_now" target="_blank"> tempmail_now </a>
+    </td>
     <tr>
 </table>
