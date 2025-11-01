@@ -120,11 +120,3 @@
     </tr>
 </table>
 
-
-
-## 📊 Statistics
-
-- **Total projects:** 26
-- **Total stars:** 1
-- **Total forks:** 0
-
