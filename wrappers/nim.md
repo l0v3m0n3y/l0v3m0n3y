@@ -1,7 +1,7 @@
 # nim Wrappers & Libraries
 <img src="https://img.shields.io/badge/NIM-FFC200?style=for-the-badge&logo=nim&logoColor=white" height="20px">
 <table>
-    <tr> <th colspan="5">Nim 18</th> </tr>
+    <tr> <th colspan="5">Nim 19</th> </tr>
     <tr>
       <td>
         <img src="https://gold-api.com/icon.png" height="20px" alt="goldapi" onerror="this.src='https://github.com/favicon.ico'">
@@ -74,6 +74,10 @@
         <td>
         <img src="https://www.1secmail.io/assets/themes/basic/img/favicon.png" height="20px" alt="secmail_io" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/secmail_io" target="_blank"> secmail_io </a>
+    </td> 
+    <td>
+        <img src="https://cdn4.telesco.pe/file/EuQogDUAzv4mAAm5xYx6QfUpdV-KoOd1pHHT9IchULwRLCTsbsxc_o7Sfw-0zjO0Zittho865rsB-GAJvfPiU5Vy82yg1wTKcQVKZcfYxpyJoXgCOa2kw-gOKIazdIn15Y_Lg2qN8kU1E8cpspBCB56yXKB92VEcdr3Pq_-baxG_pK4_9XFvjuiVhQQv-XPMZHN6CeS2ZHcu5-wUeVNTmVzf-IwhUAJyejyj921gtPxQmJTFWYm7r3n_wdaTYG3uiPNCsCw-3HUrTywQUILSSfc7ZXOKZ8bN0OMMbdagfUPB-DjYTJkV0HReeU8DWKO7-BJ0RxWY6c5dHb6fzmuh4g.jpg" height="20px" alt="giftgogame" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/giftgogame" target="_blank"> giftgogame </a>
     </td>
     <tr>
 </table>
