@@ -1,7 +1,7 @@
 # nim Wrappers & Libraries
 <img src="https://img.shields.io/badge/NIM-FFC200?style=for-the-badge&logo=nim&logoColor=white" height="20px">
 <table>
-    <tr> <th colspan="5">Nim 23</th> </tr>
+    <tr> <th colspan="5">Nim 24</th> </tr>
     <tr>
       <td>
         <img src="https://gold-api.com/icon.png" height="20px" alt="goldapi" onerror="this.src='https://github.com/favicon.ico'">
@@ -95,6 +95,10 @@
     <td>
         <img src="https://cdn4.telesco.pe/file/BgIHZZEFO0-VC4TtkdaOGtX6LxHoK_tA3wqqMfpzbVZxLCC_cgtBFevWoJ9NXNLzOn9EmuJln6D9kAhrtpg1dTzd7IzfDl9zeZ5TcVLrEVjJDLT5RI4WAuJIdocI7ahhB7WbOw5ExAoQsdmKN2-CAfv-eHoJ1LWS1YUHBTFyg583-blLKlG43rXwLAxKXJpBPffLVh7_BZF4jsqpIYZRU51PGFnHTlnzTLK4OFTuWgxczZgYryN7VHLeMx_xFMYRV00XmiqqFzdjr990B__zeHBL4F_nIBvKZRAoMvqTPvEKsBtchyBcAh5GedhZAIqUmqKB_wNMDEKth2gQiR85Tg.jpg" height="20px" alt="tgmrkt" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/tgmrkt" target="_blank"> tgmrkt </a>
+    </td>
+    <td>
+        <img src="https://portalsmarket.co/wp-content/uploads/2025/07/cropped-ChatGPT-Image-13-%D0%B8%D1%8E%D0%BB.-2025-%D0%B3.-22_11_02.png" height="20px" alt="portalsmarket" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/portalsmarket" target="_blank"> portalsmarket </a>
     </td>
     <tr>
 </table>
