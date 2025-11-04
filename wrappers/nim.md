@@ -1,7 +1,7 @@
 # nim Wrappers & Libraries
 <img src="https://img.shields.io/badge/NIM-FFC200?style=for-the-badge&logo=nim&logoColor=white" height="20px">
 <table>
-    <tr> <th colspan="5">Nim 25</th> </tr>
+    <tr> <th colspan="5">Nim 26</th> </tr>
     <tr>
       <td>
         <img src="https://gold-api.com/icon.png" height="20px" alt="goldapi" onerror="this.src='https://github.com/favicon.ico'">
@@ -103,6 +103,12 @@
     <td>
         <img src="https://play-lh.googleusercontent.com/OOhE6Lv25HC0QlWrBSgO2xaFyExMNV5flX7qf4FJ4GkujP2ayccXe-sX1xMZJw2gDw" height="20px" alt="russianvpn" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/russianvpn" target="_blank"> russianvpn </a>
+    </td>    
+    <tr>
+    <td>
+        <img src="https://www.hsselite.com/favicon.ico" height="20px" alt="hsselite" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/hsselite" target="_blank"> hsselite </a>
     </td>
+    </tr>
     <tr>
 </table>
