@@ -1,7 +1,7 @@
 # nim Wrappers & Libraries
 <img src="https://img.shields.io/badge/NIM-FFC200?style=for-the-badge&logo=nim&logoColor=white" height="20px">
 <table>
-    <tr> <th colspan="5">Nim 34</th> </tr>
+    <tr> <th colspan="5">Nim 35</th> </tr>
     <tr>
       <td>
         <img src="https://gold-api.com/icon.png" height="20px" alt="goldapi" onerror="this.src='https://github.com/favicon.ico'">
@@ -142,5 +142,9 @@
     <td>
         <img src="https://image.winudf.com/v2/image1/Y29tLmZhc3Rfc2VjdXJlLm1vb25saWdodF92cG5faWNvbl8xNjc5MzM1Mzk2XzAxNg/icon.webp?w=120&fakeurl=1&type=.webp" height="20px" alt="moonlightvpn" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/moonlightvpn" target="_blank"> moonlightvpn </a>
+    </td>
+    <td>
+        <img src="https://vpnmamu.com/wp-content/uploads/2024/01/cropped-VPN-Mamu-Super-fast-Gaming-VPN-Service-provider-App-1-32x32.png" height="20px" alt="mamuvpn" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/mamuvpn" target="_blank"> mamuvpn </a>
     </td>
 </table>
