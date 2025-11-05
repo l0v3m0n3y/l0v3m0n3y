@@ -139,4 +139,8 @@
         <img src="https://www.blazevpn.net/wp-content/uploads/2022/12/blaze-cyber-security.png" height="20px" alt="blazevpn" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/blazevpn" target="_blank"> blazevpn </a>
     </td>
+    <td>
+        <img src="https://image.winudf.com/v2/image1/Y29tLmZhc3Rfc2VjdXJlLm1vb25saWdodF92cG5faWNvbl8xNjc5MzM1Mzk2XzAxNg/icon.webp?w=120&fakeurl=1&type=.webp" height="20px" alt="moonlightvpn" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/moonlightvpn" target="_blank"> moonlightvpn </a>
+    </td>
 </table>
