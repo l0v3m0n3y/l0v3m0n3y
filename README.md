@@ -190,5 +190,4 @@
         <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/nim.md'>Continue</a></th></tr>
 </table>
 <img src="https://github-readme-stats.vercel.app/api?username=l0v3m0n3y&show_icons=true&theme=radical&hide_border=true">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=l0v3m0n3y&theme=github-dark-blue&hide_border=true">
 </div>
