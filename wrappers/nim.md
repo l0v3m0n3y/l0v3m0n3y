@@ -1,7 +1,7 @@
 # nim Wrappers & Libraries
 <img src="https://img.shields.io/badge/NIM-FFC200?style=for-the-badge&logo=nim&logoColor=white" height="20px">
 <table>
-    <tr> <th colspan="5">Nim 36</th> </tr>
+    <tr> <th colspan="5">Nim 37</th> </tr>
     <tr>
       <td>
         <img src="https://gold-api.com/icon.png" height="20px" alt="goldapi" onerror="this.src='https://github.com/favicon.ico'">
@@ -152,5 +152,9 @@
     <td>
         <img src="https://www.edgevpn.app/wp-content/uploads/2024/09/VPN-ICON-Updated-1-1.png" height="20px" alt="edgevpn" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/edgevpn" target="_blank"> edgevpn </a>
+    </td>
+    <td>
+        <img src="https://img.utdstc.com/icon/80f/4fe/80f4fe93431e521b6fde098b2ff696ce21d170f7faefd3e83d293a0f38ea7130:100" height="20px" alt="awardvpn" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/awardvpn" target="_blank"> awardvpn </a>
     </td>
 </table>
