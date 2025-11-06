@@ -1,7 +1,7 @@
 # nim Wrappers & Libraries
 <img src="https://img.shields.io/badge/NIM-FFC200?style=for-the-badge&logo=nim&logoColor=white" height="20px">
 <table>
-    <tr> <th colspan="5">Nim 40</th> </tr>
+    <tr> <th colspan="5">Nim 41</th> </tr>
     <tr>
       <td>
         <img src="https://gold-api.com/icon.png" height="20px" alt="goldapi" onerror="this.src='https://github.com/favicon.ico'">
@@ -170,4 +170,9 @@
         <a href="https://github.com/l0v3m0n3y/jokeaday" target="_blank"> jokeaday </a>
     </td>
 </tr>
+<tr>
+    <td>
+        <img src="https://jokeapi.dev/favicon.ico" height="20px" alt="jokeapidev" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/jokeapidev" target="_blank"> jokeapidev </a>
+    </td>
 </table>
