@@ -1,7 +1,7 @@
 # nim Wrappers & Libraries
 <img src="https://img.shields.io/badge/NIM-FFC200?style=for-the-badge&logo=nim&logoColor=white" height="20px">
 <table>
-    <tr> <th colspan="5">Nim 52</th> </tr>
+    <tr> <th colspan="5">Nim 54</th> </tr>
     <tr>
       <td>
         <img src="https://gold-api.com/icon.png" height="20px" alt="goldapi" onerror="this.src='https://github.com/favicon.ico'">
@@ -222,5 +222,13 @@
     <td>
         <img src="https://1sec-mail.com/assets/themes/basic/img/favicon.png?t=1743205782" height="20px" alt="secmail" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/secmail" target="_blank"> secmail </a>
+    </td>
+     <td>
+        <img src="https://tempmailer.org/favicon.ico" height="20px" alt="tempmailer" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/tempmailer" target="_blank"> tempmailer </a>
+    </td>
+    <td>
+        <img src="https://blinkmailnow.com/uploads/favicon.png" height="20px" alt="blinkmailnow" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/blinkmailnow" target="_blank"> blinkmailnow </a>
     </td>
 </table>
