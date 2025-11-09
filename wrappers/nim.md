@@ -1,7 +1,7 @@
 # nim Wrappers & Libraries
 <img src="https://img.shields.io/badge/NIM-FFC200?style=for-the-badge&logo=nim&logoColor=white" height="20px">
 <table>
-    <tr> <th colspan="5">Nim 58</th> </tr>
+    <tr> <th colspan="5">Nim 59</th> </tr>
     <tr>
       <td>
         <img src="https://gold-api.com/icon.png" height="20px" alt="goldapi" onerror="this.src='https://github.com/favicon.ico'">
@@ -248,5 +248,9 @@
     <td>
         <img src="https://play-lh.googleusercontent.com/fuiutEnfedVGy9ySury5gJS-iuwNhbpn-q5UFoUonVRUaZAH4hpjdTjCGFVazXEv_uo=rw-s40" height="20px" alt="emailnator">
         <a href="https://github.com/l0v3m0n3y/emailnator" target="_blank"> emailnator </a>
+    </td>
+    <td>
+        <img src="https://fraudemail.com/favicon.ico" height="20px" alt="fraudemail">
+        <a href="https://github.com/l0v3m0n3y/fraudemail" target="_blank"> fraudemail </a>
     </td>
 </table>
