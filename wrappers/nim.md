@@ -1,7 +1,7 @@
 # nim Wrappers & Libraries
 <img src="https://img.shields.io/badge/NIM-FFC200?style=for-the-badge&logo=nim&logoColor=white" height="20px">
 <table>
-    <tr> <th colspan="5">Nim 47</th> </tr>
+    <tr> <th colspan="5">Nim 48</th> </tr>
     <tr>
       <td>
         <img src="https://gold-api.com/icon.png" height="20px" alt="goldapi" onerror="this.src='https://github.com/favicon.ico'">
@@ -201,5 +201,9 @@
     <td>
         <img src="https://images.sftcdn.net/images/t_app-icon-s/p/78317232-c4d7-4a27-b6da-2a6e751c46aa/1330378751/foodccine-fodshyny-logo" height="20px" alt="foodccine" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/foodccine" target="_blank"> foodccine </a>
+    </td>
+    <td>
+        <img src="https://bartender.painel.coopers.pro/assets/bartender-logo-1a4b22850f5cecff31e1a56655f904706fa1711b031a6f156cc4f45e09159c0b.jpg" height="20px" alt="bartender" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/bartender" target="_blank"> bartender </a>
     </td>
 </table>
