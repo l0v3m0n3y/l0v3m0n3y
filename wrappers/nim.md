@@ -1,7 +1,7 @@
 # nim Wrappers & Libraries
 <img src="https://img.shields.io/badge/NIM-FFC200?style=for-the-badge&logo=nim&logoColor=white" height="20px">
 <table>
-    <tr> <th colspan="5">Nim 54</th> </tr>
+    <tr> <th colspan="5">Nim 55</th> </tr>
     <tr>
       <td>
         <img src="https://gold-api.com/icon.png" height="20px" alt="goldapi" onerror="this.src='https://github.com/favicon.ico'">
@@ -231,4 +231,9 @@
         <img src="https://blinkmailnow.com/uploads/favicon.png" height="20px" alt="blinkmailnow" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/blinkmailnow" target="_blank"> blinkmailnow </a>
     </td>
+    <td>
+        <img src="https://images.sftcdn.net/images/t_favicon-v2/p/5a82b137-2110-4e6e-9ba1-47a236fba0cc/2885760818/temp-mail-expressmail-logo" height="20px" alt="expressmail" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/expressmail" target="_blank"> expressmail </a>
+    </td>
+</tr>
 </table>
