@@ -265,6 +265,6 @@
     </td>
     <td>
         <img src="https://temporaryemail.in/assets/logo/Favic.png" height="20px" alt="temporaryemail">
-        <a href="https://github.com/l0v3m0n3y/temporaryemail" target="_blank"> temporaryemail </a>
+        <a href="https://github.com/l0v3m0n3y/temporaryemail_in" target="_blank"> temporaryemail_in </a>
     </td>
 </table>
