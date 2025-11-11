@@ -144,7 +144,7 @@
         <a href="https://github.com/l0v3m0n3y/jsonip" target="_blank"> jsonip </a>
       </td>
         <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/bash.md'>Continue</a></th></tr>
-     <tr> <th colspan="5">Nim 61</th> </tr>
+     <tr> <th colspan="5">Nim 63</th> </tr>
     <tr>
       <td>
         <img src="https://gold-api.com/icon.png" height="20px" alt="goldapi" onerror="this.src='https://github.com/favicon.ico'">
