@@ -290,7 +290,7 @@
         <a href="https://github.com/l0v3m0n3y/nationalize" target="_blank"> nationalize </a>
     </td>
     <td>
-        <img src="https://framerusercontent.com/images/5USscEoZLORlRYl2ITJa1VIsCg.png" height="20px" alt="universities">
-        <a href="https://github.com/l0v3m0n3y/universities" target="_blank"> universities </a>
+        <img src="https://framerusercontent.com/images/5USscEoZLORlRYl2ITJa1VIsCg.png" height="20px" alt="hipolabs">
+        <a href="https://github.com/l0v3m0n3y/hipolabs" target="_blank"> hipolabs </a>
     </td>
 </table>
