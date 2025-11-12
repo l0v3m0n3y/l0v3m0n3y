@@ -1,7 +1,7 @@
 # nim Wrappers & Libraries
 <img src="https://img.shields.io/badge/NIM-FFC200?style=for-the-badge&logo=nim&logoColor=white" height="20px">
 <table>
-    <tr> <th colspan="5">Nim 68</th> </tr>
+    <tr> <th colspan="5">Nim 69</th> </tr>
     <tr>
       <td>
         <img src="https://gold-api.com/icon.png" height="20px" alt="goldapi" onerror="this.src='https://github.com/favicon.ico'">
@@ -292,5 +292,9 @@
     <td>
         <img src="https://framerusercontent.com/images/5USscEoZLORlRYl2ITJa1VIsCg.png" height="20px" alt="hipolabs">
         <a href="https://github.com/l0v3m0n3y/hipolabs" target="_blank"> hipolabs </a>
+    </td>
+    <td>
+        <img src="https://zippopotam.us/static/favicon.ico" height="20px" alt="zippopotam">
+        <a href="https://github.com/l0v3m0n3y/zippopotam" target="_blank"> zippopotam </a>
     </td>
 </table>
