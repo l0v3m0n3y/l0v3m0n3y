@@ -1,7 +1,7 @@
 # nim Wrappers & Libraries
 <img src="https://img.shields.io/badge/NIM-FFC200?style=for-the-badge&logo=nim&logoColor=white" height="20px">
 <table>
-    <tr> <th colspan="5">Nim 64</th> </tr>
+    <tr> <th colspan="5">Nim 67</th> </tr>
     <tr>
       <td>
         <img src="https://gold-api.com/icon.png" height="20px" alt="goldapi" onerror="this.src='https://github.com/favicon.ico'">
@@ -274,5 +274,19 @@
     <td>
         <img src="https://www.whatismyip.net/img/favicon/apple-touch-icon-57x57.png" height="20px" alt="whatismyip">
         <a href="https://github.com/l0v3m0n3y/whatismyip" target="_blank"> whatismyip </a>
+    </td>
+    <td>
+        <img src="https://agify.io/favicon/agify/apple-touch-icon.png" height="20px" alt="agify">
+        <a href="https://github.com/l0v3m0n3y/agify" target="_blank"> agify </a>
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="https://genderize.io/favicon/genderize/apple-touch-icon.png" height="20px" alt="genderize">
+        <a href="https://github.com/l0v3m0n3y/genderize" target="_blank"> genderize </a>
+    </td>
+    <td>
+        <img src="https://nationalize.io/favicon/nationalize/apple-touch-icon.png" height="20px" alt="nationalize">
+        <a href="https://github.com/l0v3m0n3y/nationalize" target="_blank"> nationalize </a>
     </td>
 </table>
