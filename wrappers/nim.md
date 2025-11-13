@@ -430,8 +430,8 @@
         <a href="https://github.com/l0v3m0n3y/thecolorapi" target="_blank"> thecolorapi </a>
     </td>
     <td>
-        <img src="https://shikimori.one/favicon.ico" height="20px" alt="shikimori">
-        <a href="https://github.com/l0v3m0n3y/shikimori" target="_blank"> shikimori </a>
+        <img src="https://shikimori.one/favicon.ico" height="20px" alt="shikimoriapi">
+        <a href="https://github.com/l0v3m0n3y/shikimoriapi" target="_blank"> shikimoriapi </a>
     </td>
 </tr>
 </table>
