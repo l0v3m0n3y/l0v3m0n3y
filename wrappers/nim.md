@@ -1,7 +1,7 @@
 # nim Wrappers & Libraries
 <img src="https://img.shields.io/badge/NIM-FFC200?style=for-the-badge&logo=nim&logoColor=white" height="20px">
 <table>
-    <tr> <th colspan="5">Nim 85</th> </tr>
+    <tr> <th colspan="5">Nim 90</th> </tr>
     <tr>
       <td>
         <img src="https://gold-api.com/icon.png" height="20px" alt="goldapi" onerror="this.src='https://github.com/favicon.ico'">
@@ -367,4 +367,27 @@
         <img src="https://thecatapi.com/_app/immutable/assets/thecatapi-logo.78868573.svg" height="20px" alt="thecatapi">
         <a href="https://github.com/l0v3m0n3y/thecatapi" target="_blank"> thecatapi </a>
     </td>
+</tr>
+<tr>
+    <td>
+        <img src="https://countriesnow.space/img/1.png" height="20px" alt="countriesnow">
+        <a href="https://github.com/l0v3m0n3y/countriesnow" target="_blank"> countriesnow </a>
+    </td>
+    <td>
+        <img src="https://fishfish.gg/fishfish.svg" height="20px" alt="fishfish">
+        <a href="https://github.com/l0v3m0n3y/fishfish" target="_blank"> fishfish </a>
+    </td>
+    <td>
+        <img src="https://isevenapi.xyz/apple-touch-icon.png" height="20px" alt="isevenapi">
+        <a href="https://github.com/l0v3m0n3y/isevenapi" target="_blank"> isevenapi </a>
+    </td>
+    <td>
+        <img src="https://joinrise.co/favicon.ico" height="20px" alt="joinrise">
+        <a href="https://github.com/l0v3m0n3y/joinrise" target="_blank"> joinrise </a>
+    </td>
+    <td>
+        <img src="https://www.apicagent.com/assets/img/favicons/apple-touch-icon.png" height="20px" alt="apicagent">
+        <a href="https://github.com/l0v3m0n3y/apicagent" target="_blank"> apicagent </a>
+    </td>
+</tr>
 </table>
