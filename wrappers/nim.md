@@ -1,7 +1,7 @@
 # nim Wrappers & Libraries
 <img src="https://img.shields.io/badge/NIM-FFC200?style=for-the-badge&logo=nim&logoColor=white" height="20px">
 <table>
-    <tr> <th colspan="5">Nim 71</th> </tr>
+    <tr> <th colspan="5">Nim 72</th> </tr>
     <tr>
       <td>
         <img src="https://gold-api.com/icon.png" height="20px" alt="goldapi" onerror="this.src='https://github.com/favicon.ico'">
@@ -306,5 +306,9 @@
     <td>
         <img src="https://dog.ceo/img/favicon.png" height="20px" alt="dogceo">
         <a href="https://github.com/l0v3m0n3y/dogceo" target="_blank"> dogceo </a>
+    </td>
+    <td>
+        <img src="http://api.open-notify.org/favicon.ico" height="20px" alt="opennotify">
+        <a href="https://github.com/l0v3m0n3y/opennotify" target="_blank"> opennotify </a>
     </td>
 </table>
