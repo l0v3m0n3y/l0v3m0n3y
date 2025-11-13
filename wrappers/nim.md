@@ -1,7 +1,7 @@
 # nim Wrappers & Libraries
 <img src="https://img.shields.io/badge/NIM-FFC200?style=for-the-badge&logo=nim&logoColor=white" height="20px">
 <table>
-    <tr> <th colspan="5">Nim 83</th> </tr>
+    <tr> <th colspan="5">Nim 85</th> </tr>
     <tr>
       <td>
         <img src="https://gold-api.com/icon.png" height="20px" alt="goldapi" onerror="this.src='https://github.com/favicon.ico'">
@@ -358,5 +358,13 @@
     <td>
         <img src="https://kanye.rest/icon.png" height="20px" alt="kanyerest">
         <a href="https://github.com/l0v3m0n3y/kanyerest" target="_blank"> kanyerest </a>
+    </td>
+    <td>
+        <img src="https://randomfox.ca/favicon.ico" height="20px" alt="randomfox">
+        <a href="https://github.com/l0v3m0n3y/randomfox" target="_blank"> randomfox </a>
+    </td>
+    <td>
+        <img src="https://thecatapi.com/_app/immutable/assets/thecatapi-logo.78868573.svg" height="20px" alt="thecatapi">
+        <a href="https://github.com/l0v3m0n3y/thecatapi" target="_blank"> thecatapi </a>
     </td>
 </table>
