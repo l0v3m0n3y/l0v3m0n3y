@@ -210,7 +210,7 @@
         <a href="https://github.com/l0v3m0n3y/tempail" target="_blank"> tempail </a>
     </td>
     <td>
-        <img src="https://mtempmail.com/assets/themes/basic/img/dark_logo.png" height="20px" alt="mtempmail" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://mtempmail.com/assets/themes/basic/img/favicon.png" height="20px" alt="mtempmail" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/mtempmail" target="_blank"> mtempmail </a>
     </td>
 </tr>
