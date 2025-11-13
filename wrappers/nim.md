@@ -1,7 +1,7 @@
 # nim Wrappers & Libraries
 <img src="https://img.shields.io/badge/NIM-FFC200?style=for-the-badge&logo=nim&logoColor=white" height="20px">
 <table>
-    <tr> <th colspan="5">Nim 95</th> </tr>
+    <tr> <th colspan="5">Nim 100</th> </tr>
     <tr>
       <td>
         <img src="https://gold-api.com/icon.png" height="20px" alt="goldapi" onerror="this.src='https://github.com/favicon.ico'">
@@ -411,4 +411,27 @@
         <img src="https://softwium.com/wp-content/uploads/2023/11/cropped-android-chrome-192x192-1-32x32.png" height="20px" alt="softwium">
         <a href="https://github.com/l0v3m0n3y/softwium" target="_blank"> softwium </a>
     </td>
+</tr>
+<tr>
+    <td>
+        <img src="https://open-elevation.com/favlogo.png" height="20px" alt="openelevation">
+        <a href="https://github.com/l0v3m0n3y/openelevation" target="_blank"> openelevation </a>
+    </td>
+    <td>
+        <img src="https://www.profanity.dev/favicon.ico" height="20px" alt="profanity">
+        <a href="https://github.com/l0v3m0n3y/profanity" target="_blank"> profanity </a>
+    </td>
+    <td>
+        <img src="https://fakestoreapi.com/favicon.ico" height="20px" alt="fakestoreapi">
+        <a href="https://github.com/l0v3m0n3y/fakestoreapi" target="_blank"> fakestoreapi </a>
+    </td>
+    <td>
+        <img src="https://www.thecolorapi.com/favicon.ico" height="20px" alt="thecolorapi">
+        <a href="https://github.com/l0v3m0n3y/thecolorapi" target="_blank"> thecolorapi </a>
+    </td>
+    <td>
+        <img src="https://shikimori.one/favicon.ico" height="20px" alt="shikimori">
+        <a href="https://github.com/l0v3m0n3y/shikimori" target="_blank"> shikimori </a>
+    </td>
+</tr>
 </table>
