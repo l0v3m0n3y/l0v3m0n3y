@@ -1,7 +1,7 @@
 # nim Wrappers & Libraries
 <img src="https://img.shields.io/badge/NIM-FFC200?style=for-the-badge&logo=nim&logoColor=white" height="20px">
 <table>
-    <tr> <th colspan="5">Nim 90</th> </tr>
+    <tr> <th colspan="5">Nim 95</th> </tr>
     <tr>
       <td>
         <img src="https://gold-api.com/icon.png" height="20px" alt="goldapi" onerror="this.src='https://github.com/favicon.ico'">
@@ -390,4 +390,25 @@
         <a href="https://github.com/l0v3m0n3y/apicagent" target="_blank"> apicagent </a>
     </td>
 </tr>
+<tr>
+    <td>
+        <img src="https://www.shodan.io/static/img/favicon.png" height="20px" alt="shodan">
+        <a href="https://github.com/l0v3m0n3y/shodan" target="_blank"> shodan </a>
+    </td>
+    <td>
+        <img src="https://www.jiejiariapi.com/favicon.ico" height="20px" alt="jiejiariapi">
+        <a href="https://github.com/l0v3m0n3y/jiejiariapi" target="_blank"> jiejiariapi </a>
+    </td>
+    <td>
+        <img src="https://uptime.is/favicon.ico" height="20px" alt="uptime">
+        <a href="https://github.com/l0v3m0n3y/uptime" target="_blank"> uptime </a>
+    </td>
+    <td>
+        <img src="https://www.oglimmer.com/favicon.ico" height="20px" alt="oglimmer">
+        <a href="https://github.com/l0v3m0n3y/oglimmer" target="_blank"> oglimmer </a>
+    </td>
+    <td>
+        <img src="https://softwium.com/wp-content/uploads/2023/11/cropped-android-chrome-192x192-1-32x32.png" height="20px" alt="softwium">
+        <a href="https://github.com/l0v3m0n3y/softwium" target="_blank"> softwium </a>
+    </td>
 </table>
