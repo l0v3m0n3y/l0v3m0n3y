@@ -1,7 +1,7 @@
 # nim Wrappers & Libraries
 <img src="https://img.shields.io/badge/NIM-FFC200?style=for-the-badge&logo=nim&logoColor=white" height="20px">
 <table>
-    <tr> <th colspan="5">Nim 80</th> </tr>
+    <tr> <th colspan="5">Nim 81</th> </tr>
     <tr>
       <td>
         <img src="https://gold-api.com/icon.png" height="20px" alt="goldapi" onerror="this.src='https://github.com/favicon.ico'">
@@ -344,5 +344,11 @@
     <td>
         <img src="https://www.artic.edu/dist/images/aic-favicon-d6b30fcfcec59c0a7126.svg" height="20px" alt="artic">
         <a href="https://github.com/l0v3m0n3y/artic" target="_blank"> artic </a>
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="https://static.wikia.nocookie.net/mlp/images/e/e6/Site-logo.png/revision/latest?cb=20210531205121" height="20px" alt="ponyapi">
+        <a href="https://github.com/l0v3m0n3y/ponyapi" target="_blank"> ponyapi </a>
     </td>
 </table>
