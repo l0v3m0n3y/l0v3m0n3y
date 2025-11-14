@@ -206,6 +206,10 @@
         <img src="https://static.tvmaze.com/images/favico/favicon.ico" height="20px" alt="Tvmaze" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/Tvmaze" target="_blank"> Tvmaze </a>
     </td>
+    <td>
+        <img src="https://jsph.pl/static/favicon.png" height="20px" alt="Uselessfacts" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/Uselessfacts" target="_blank"> Uselessfacts </a>
+    </td>
 </table>
 <img src="https://github-readme-stats.vercel.app/api?username=l0v3m0n3y&show_icons=true&theme=radical&hide_border=true">
 </div>
