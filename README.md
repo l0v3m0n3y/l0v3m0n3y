@@ -188,7 +188,7 @@
         <a href="https://github.com/l0v3m0n3y/etempmail" target="_blank"> etempmail </a>
     </td>
         <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/nim.md'>Continue</a></th></tr>
-      <tr> <th colspan="5">c++ - 5</th> </tr>
+      <tr> <th colspan="5">c++ - 10</th> </tr>
 <tr>
     <td>
         <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:iow4c3d6q6jagmsx2wfqmi73/bafkreic2kv6fif6z63kescka4r2on72vpvxzzsdqnovm7rlvajqyt6fsqm@jpeg" height="20px" alt="CivicAPI" onerror="this.src='https://github.com/favicon.ico'">
@@ -210,6 +210,29 @@
         <img src="https://jsph.pl/static/favicon.png" height="20px" alt="Uselessfacts" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/Uselessfacts" target="_blank"> Uselessfacts </a>
     </td>
+</tr>
+<tr>
+    <td>
+        <img src="https://vdraw.ai/favicon.ico" height="20px" alt="Vdraw" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/Vdraw" target="_blank"> Vdraw </a>
+    </td>
+    <td>
+        <img src="https://www.hopperhq.com/favicon.ico" height="20px" alt="Hopperhq" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/Hopperhq" target="_blank"> Hopperhq </a>
+    </td>
+    <td>
+        <img src="https://randommer.io/favicon.ico" height="20px" alt="Randommer" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/Randommer" target="_blank"> Randommer </a>
+    </td>
+    <td>
+        <img src="https://whoa.onrender.com/favicon.ico" height="20px" alt="Keanuwhoa" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/Keanuwhoa" target="_blank"> Keanuwhoa </a>
+    </td>
+    <td>
+        <img src="https://owen-wilson-wow-api.onrender.com/favicon.ico" height="20px" alt="OwenWilsonwow" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/OwenWilsonwow" target="_blank"> OwenWilsonwow </a>
+    </td>
+</tr>
 </table>
 <img src="https://github-readme-stats.vercel.app/api?username=l0v3m0n3y&show_icons=true&theme=radical&hide_border=true">
 </div>
