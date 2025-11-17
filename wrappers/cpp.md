@@ -1,6 +1,6 @@
 # c++ Wrappers & Libraries
 <table>
-    <tr> <th colspan="5">c++ 25</th> </tr>
+    <tr> <th colspan="5">c++ 30</th> </tr>
   <tr>
     <td>
         <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:iow4c3d6q6jagmsx2wfqmi73/bafkreic2kv6fif6z63kescka4r2on72vpvxzzsdqnovm7rlvajqyt6fsqm@jpeg" height="20px" alt="CivicAPI" onerror="this.src='https://github.com/favicon.ico'">
@@ -110,6 +110,29 @@
     <td>
         <img src="https://grokipedia.com/favicon.ico" height="20px" alt="Grokipedia" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/Grokipedia" target="_blank"> Grokipedia </a>
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="https://evilinsult.com/img/common/EIG_for_Pure.png" height="20px" alt="Evilinsult">
+        <a href="https://github.com/l0v3m0n3y/Evilinsult" target="_blank"> Evilinsult
+        </a>
+    </td>
+    <td>
+        <img src="https://gameofthronesquotes.xyz/img/android-icon-192x192.png" height="20px" alt="Gameofthronesquotes">
+        <a href="https://github.com/l0v3m0n3y/Gameofthronesquotes" target="_blank"> Gameofthronesquotes </a>
+    </td>
+    <td>
+        <img src="https://www.attackontitanapi.com/favicon.ico" height="20px" alt="Attackontitanapi">
+        <a href="https://github.com/l0v3m0n3y/Attackontitanapi" target="_blank"> Attackontitanapi </a>
+    </td>
+    <td>
+        <img src="https://perl.is/favicon.ico" height="20px" alt="Perlis">
+        <a href="https://github.com/l0v3m0n3y/Perlis" target="_blank"> Perlis </a>
+    </td>
+    <td>
+        <img src="https://www.nobelprize.org/favicon.ico" height="20px" alt="Nobelprize">
+        <a href="https://github.com/l0v3m0n3y/Nobelprize" target="_blank"> Nobelprize </a>
     </td>
 </tr>
 </table>
