@@ -1,6 +1,6 @@
 # c++ Wrappers & Libraries
 <table>
-    <tr> <th colspan="5">c++ 15</th> </tr>
+    <tr> <th colspan="5">c++ 25</th> </tr>
   <tr>
     <td>
         <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:iow4c3d6q6jagmsx2wfqmi73/bafkreic2kv6fif6z63kescka4r2on72vpvxzzsdqnovm7rlvajqyt6fsqm@jpeg" height="20px" alt="CivicAPI" onerror="this.src='https://github.com/favicon.ico'">
@@ -65,6 +65,51 @@
     <td>
         <img src="https://rickandmortyapi.com/icons/icon-512x512.png" height="20px" alt="Rickandmortyapi" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/Rickandmortyapi" target="_blank"> Rickandmortyapi </a>
+    </td>
+<tr>
+    <td>
+        <img src="https://postcodes.io/img/favicon.ico" height="20px" alt="Postcodes" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/Postcodes" target="_blank"> Postcodes
+        </a>
+    </td>
+    <td>
+        <img src="https://swapi.dev/static/favicon.ico" height="20px" alt="Swapi" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/Swapi" target="_blank"> Swapi </a>
+    </td>
+    <td>
+        <img src="https://pokeapi.co/pokeapi_192_square.png" height="20px" alt="Pokeapi" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/Pokeapi" target="_blank"> Pokeapi </a>
+    </td>
+    <td>
+        <img src="https://slftool.github.io/icon.png" height="20px" alt="Slftool" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/Slftool" target="_blank"> Slftool </a>
+    </td>
+    <td>
+        <img src="https://lurkmore.media/favicon.ico" height="20px" alt="Lurkmore" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/Lurkmore" target="_blank"> Lurkmore </a>
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="https://coffee.alexflipnote.dev/assets/profile.png" height="20px" alt="Coffeeapi" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/Coffeeapi" target="_blank"> Coffeeapi
+        </a>
+    </td>
+    <td>
+        <img src="https://www.football-data.org/assets/favicons/apple-icon-180x180.png" height="20px" alt="Footballdataapi" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/Footballdataapi" target="_blank"> Footballdataapi </a>
+    </td>
+    <td>
+        <img src="https://neolurk.org/favicon.ico" height="20px" alt="Neolurk" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/Neolurk" target="_blank"> Neolurk </a>
+    </td>
+    <td>
+        <img src="https://hp-api.onrender.com/images/Favicons/icons8-harry-potter-papercut-180.png" height="20px" alt="Hpapi" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/Hpapi" target="_blank"> Hpapi </a>
+    </td>
+    <td>
+        <img src="https://grokipedia.com/favicon.ico" height="20px" alt="Grokipedia" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/Grokipedia" target="_blank"> Grokipedia </a>
     </td>
 </tr>
 </table>
