@@ -1,6 +1,6 @@
 # c++ Wrappers & Libraries
 <table>
-    <tr> <th colspan="5">c++ 30</th> </tr>
+    <tr> <th colspan="5">c++ 35</th> </tr>
   <tr>
     <td>
         <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:iow4c3d6q6jagmsx2wfqmi73/bafkreic2kv6fif6z63kescka4r2on72vpvxzzsdqnovm7rlvajqyt6fsqm@jpeg" height="20px" alt="CivicAPI" onerror="this.src='https://github.com/favicon.ico'">
@@ -133,6 +133,28 @@
     <td>
         <img src="https://www.nobelprize.org/favicon.ico" height="20px" alt="Nobelprize">
         <a href="https://github.com/l0v3m0n3y/Nobelprize" target="_blank"> Nobelprize </a>
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="https://jikan.moe/favicon/favicon.ico" height="20px" alt="Jikan">
+        <a href="https://github.com/l0v3m0n3y/Jikan" target="_blank"> Jikan </a>
+    </td>
+    <td>
+        <img src="https://yesno.wtf/assets/favicons/favicon-196x196-d7156a060e23907ce2dce339a7fef7df.png" height="20px" alt="Yesno">
+        <a href="https://github.com/l0v3m0n3y/Yesno" target="_blank"> Yesno </a>
+    </td>
+    <td>
+        <img src="https://docs.nekos.best/favicon.svg" height="20px" alt="Nekos">
+        <a href="https://github.com/l0v3m0n3y/Nekos" target="_blank"> Nekos </a>
+    </td>
+    <td>
+        <img src="https://web.dragonball-api.com/icons/android-icon-192x192.png" height="20px" alt="Dragonballapi">
+        <a href="https://github.com/l0v3m0n3y/Dragonballapi" target="_blank"> Dragonballapi </a>
+    </td>
+    <td>
+        <img src="https://breakingbadquotes.xyz/img/android-icon-192x192.png" height="20px" alt="Breakingbadquotes">
+        <a href="https://github.com/l0v3m0n3y/Breakingbadquotes" target="_blank"> Breakingbadquotes </a>
     </td>
 </tr>
 </table>
