@@ -1,6 +1,6 @@
 # c++ Wrappers & Libraries
 <table>
-    <tr> <th colspan="5">c++ 35</th> </tr>
+    <tr> <th colspan="5">c++ 40</th> </tr>
   <tr>
     <td>
         <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:iow4c3d6q6jagmsx2wfqmi73/bafkreic2kv6fif6z63kescka4r2on72vpvxzzsdqnovm7rlvajqyt6fsqm@jpeg" height="20px" alt="CivicAPI" onerror="this.src='https://github.com/favicon.ico'">
@@ -155,6 +155,28 @@
     <td>
         <img src="https://breakingbadquotes.xyz/img/android-icon-192x192.png" height="20px" alt="Breakingbadquotes">
         <a href="https://github.com/l0v3m0n3y/Breakingbadquotes" target="_blank"> Breakingbadquotes </a>
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="https://opentdb.com/images/logo.png" height="20px" alt="Opentdb">
+        <a href="https://github.com/l0v3m0n3y/Opentdb" target="_blank"> Opentdb </a>
+    </td>
+    <td>
+        <img src="https://elonmu.sh/favicon.ico" height="20px" alt="Elonmush">
+        <a href="https://github.com/l0v3m0n3y/Elonmush" target="_blank"> Elonmush </a>
+    </td>
+    <td>
+        <img src="https://api-onepiece.com/build/img/favicon.ico" height="20px" alt="Apionepiece">
+        <a href="https://github.com/l0v3m0n3y/Apionepiece" target="_blank"> Apionepiece </a>
+    </td>
+    <td>
+        <img src="https://luciferquotes.shadowdev.xyz/images/favicon.png" height="20px" alt="Luciferquotes">
+        <a href="https://github.com/l0v3m0n3y/Luciferquotes" target="_blank"> Luciferquotes </a>
+    </td>
+    <td>
+        <img src="https://finalspaceapi.com/img/logo.png" height="20px" alt="Finalspaceapi">
+        <a href="https://github.com/l0v3m0n3y/Finalspaceapi" target="_blank"> Finalspaceapi </a>
     </td>
 </tr>
 </table>
