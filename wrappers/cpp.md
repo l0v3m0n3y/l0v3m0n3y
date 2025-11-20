@@ -1,6 +1,6 @@
 # c++ Wrappers & Libraries
 <table>
-    <tr> <th colspan="5">c++ 40</th> </tr>
+    <tr> <th colspan="5">c++ 45</th> </tr>
   <tr>
     <td>
         <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:iow4c3d6q6jagmsx2wfqmi73/bafkreic2kv6fif6z63kescka4r2on72vpvxzzsdqnovm7rlvajqyt6fsqm@jpeg" height="20px" alt="CivicAPI" onerror="this.src='https://github.com/favicon.ico'">
@@ -177,6 +177,28 @@
     <td>
         <img src="https://finalspaceapi.com/img/logo.png" height="20px" alt="Finalspaceapi">
         <a href="https://github.com/l0v3m0n3y/Finalspaceapi" target="_blank"> Finalspaceapi </a>
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="https://thesimpsonsapi.com/hero.webp" height="20px" alt="Thesimpsonsapi">
+        <a href="https://github.com/l0v3m0n3y/Thesimpsonsapi" target="_blank"> Thesimpsonsapi </a>
+    </td>
+    <td>
+        <img src="https://disneyapi.dev/favicon-32x32.png" height="20px" alt="Disneyapi">
+        <a href="https://github.com/l0v3m0n3y/Disneyapi" target="_blank"> Disneyapi </a>
+    </td>
+    <td>
+        <img src="https://lovetik.com/statics/image/favicon-64x64.ico" height="20px" alt="Lovetik">
+        <a href="https://github.com/l0v3m0n3y/Lovetik" target="_blank"> Lovetik </a>
+    </td>
+    <td>
+        <img src="https://www.demonslayer-api.com/favicon.ico" height="20px" alt="Demonslayerapi">
+        <a href="https://github.com/l0v3m0n3y/Demonslayerapi" target="_blank"> Demonslayerapi </a>
+    </td>
+    <td>
+        <img src="https://www.bedrijfsdata.nl/favicons/apple-touch-icon.png" height="20px" alt="Bedrijfsdata">
+        <a href="https://github.com/l0v3m0n3y/Bedrijfsdata" target="_blank"> Bedrijfsdata </a>
     </td>
 </tr>
 </table>
