@@ -9,7 +9,7 @@
 </div>
 
 <table>
-    <tr> <th colspan="5">Python - 65</th> </tr>
+    <tr> <th colspan="5">Python 65</th> </tr>
     <tr>
       <td>
         <img src="https://www.python.org/static/favicon.ico" height="20px" alt="textbelt" onerror="this.src='https://github.com/favicon.ico'">
@@ -54,7 +54,7 @@
         <a href="https://github.com/l0v3m0n3y/unshorten" target="_blank"> unshorten </a>
     </tr>
   <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/python.md'>Continue</a></th></tr>
-      <tr> <th colspan="5">JavaScript - 121</th> </tr>
+      <tr> <th colspan="5">JavaScript 121</th> </tr>
     <tr>
       <td>
         <img src="https://apiflash.com/favicon.ico" height="20px" alt="apiflash" onerror="this.src='https://github.com/favicon.ico'">
@@ -99,7 +99,7 @@
         <a href="https://github.com/l0v3m0n3y/markets_ft" target="_blank"> markets_ft </a>
       </td>
   <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/javascript.md'>Continue</a></th></tr>
-      <tr> <th colspan="5">Shell - 26</th> </tr>
+      <tr> <th colspan="5">Shell 26</th> </tr>
     <tr>
       <td>
         <img src="https://checkuser.org/favicon.ico" height="20px" alt="checkuser_api" onerror="this.src='https://github.com/favicon.ico'">
@@ -188,7 +188,7 @@
         <a href="https://github.com/l0v3m0n3y/etempmail" target="_blank"> etempmail </a>
     </td>
         <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/nim.md'>Continue</a></th></tr>
-      <tr> <th colspan="5">c++ - 40</th> </tr>
+      <tr> <th colspan="5">c++ 40</th> </tr>
 <tr>
     <td>
         <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:iow4c3d6q6jagmsx2wfqmi73/bafkreic2kv6fif6z63kescka4r2on72vpvxzzsdqnovm7rlvajqyt6fsqm@jpeg" height="20px" alt="CivicAPI" onerror="this.src='https://github.com/favicon.ico'">
