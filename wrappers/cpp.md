@@ -1,6 +1,6 @@
 # c++ Wrappers & Libraries
 <table>
-    <tr> <th colspan="5">c++ 45</th> </tr>
+    <tr> <th colspan="5">c++ 50</th> </tr>
   <tr>
     <td>
         <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:iow4c3d6q6jagmsx2wfqmi73/bafkreic2kv6fif6z63kescka4r2on72vpvxzzsdqnovm7rlvajqyt6fsqm@jpeg" height="20px" alt="CivicAPI" onerror="this.src='https://github.com/favicon.ico'">
@@ -199,6 +199,28 @@
     <td>
         <img src="https://www.bedrijfsdata.nl/favicons/apple-touch-icon.png" height="20px" alt="Bedrijfsdata">
         <a href="https://github.com/l0v3m0n3y/Bedrijfsdata" target="_blank"> Bedrijfsdata </a>
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="https://apip.cc/favicon.ico" height="20px" alt="Apip">
+        <a href="https://github.com/l0v3m0n3y/Apip" target="_blank"> Apip </a>
+    </td>
+    <td>
+        <img src="https://dexpaprika.com/favicon.ico" height="20px" alt="Dexpaprika">
+        <a href="https://github.com/l0v3m0n3y/Dexpaprika" target="_blank"> Dexpaprika </a>
+    </td>
+    <td>
+        <img src="https://django-ninja.dev/img/favicon.png" height="20px" alt="Vatcomply">
+        <a href="https://github.com/l0v3m0n3y/Vatcomply" target="_blank"> Vatcomply </a>
+    </td>
+    <td>
+        <img src="https://www.worldbank.org/content/dam/wbr-redesign/logos/wbg-favicon.png" height="20px" alt="Worldbank">
+        <a href="https://github.com/l0v3m0n3y/Worldbank" target="_blank"> Worldbank </a>
+    </td>
+    <td>
+        <img src="https://www.themealdb.com/favicon.ico" height="20px" alt="Themealdb">
+        <a href="https://github.com/l0v3m0n3y/Themealdb" target="_blank"> Themealdb </a>
     </td>
 </tr>
 </table>
