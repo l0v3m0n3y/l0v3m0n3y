@@ -1,6 +1,6 @@
 # c++ Wrappers & Libraries
 <table>
-    <tr> <th colspan="5">c++ 50</th> </tr>
+    <tr> <th colspan="5">c++ 55</th> </tr>
   <tr>
     <td>
         <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:iow4c3d6q6jagmsx2wfqmi73/bafkreic2kv6fif6z63kescka4r2on72vpvxzzsdqnovm7rlvajqyt6fsqm@jpeg" height="20px" alt="CivicAPI" onerror="this.src='https://github.com/favicon.ico'">
@@ -221,6 +221,28 @@
     <td>
         <img src="https://www.themealdb.com/favicon.ico" height="20px" alt="Themealdb">
         <a href="https://github.com/l0v3m0n3y/Themealdb" target="_blank"> Themealdb </a>
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="https://www.fruityvice.com/images/apple-touch-icon.png" height="20px" alt="Fruityvice">
+        <a href="https://github.com/l0v3m0n3y/Fruityvice" target="_blank"> Fruityvice </a>
+    </td>
+    <td>
+        <img src="https://jelly-belly-wiki.netlify.app/favicon.ico" height="20px" alt="Jellybelly">
+        <a href="https://github.com/l0v3m0n3y/Jellybelly" target="_blank"> Jellybelly </a>
+    </td>
+    <td>
+        <img src="https://teehee.dev/favicon.ico" height="20px" alt="Teehee">
+        <a href="https://github.com/l0v3m0n3y/Teehee" target="_blank"> Teehee </a>
+    </td>
+    <td>
+        <img src="https://www.gamerpower.com/favicon/apple-touch-icon.png" height="20px" alt="Gamerpower">
+        <a href="https://github.com/l0v3m0n3y/Gamerpower" target="_blank"> Gamerpower </a>
+    </td>
+    <td>
+        <img src="https://flyff.com/favicon.ico" height="20px" alt="Flyff">
+        <a href="https://github.com/l0v3m0n3y/Flyff" target="_blank"> Flyff </a>
     </td>
 </tr>
 </table>
