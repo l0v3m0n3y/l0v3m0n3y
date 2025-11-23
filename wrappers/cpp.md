@@ -1,6 +1,6 @@
 # c++ Wrappers & Libraries
 <table>
-    <tr> <th colspan="5">c++ 55</th> </tr>
+    <tr> <th colspan="5">c++ 60</th> </tr>
   <tr>
     <td>
         <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:iow4c3d6q6jagmsx2wfqmi73/bafkreic2kv6fif6z63kescka4r2on72vpvxzzsdqnovm7rlvajqyt6fsqm@jpeg" height="20px" alt="CivicAPI" onerror="this.src='https://github.com/favicon.ico'">
@@ -243,6 +243,28 @@
     <td>
         <img src="https://flyff.com/favicon.ico" height="20px" alt="Flyff">
         <a href="https://github.com/l0v3m0n3y/Flyff" target="_blank"> Flyff </a>
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="https://lrclib.net/favicon.ico" height="20px" alt="Lrclib">
+        <a href="https://github.com/l0v3m0n3y/Lrclib" target="_blank"> Lrclib </a>
+    </td>
+    <td>
+        <img src="https://dorognoe.ru/assets/logos/dor.svg" height="20px" alt="Dorognoe">
+        <a href="https://github.com/l0v3m0n3y/Dorognoe" target="_blank"> Dorognoe </a>
+    </td>
+    <td>
+        <img src="https://koreanjson.com/img/apple-touch-icon.png" height="20px" alt="Koreanjson">
+        <a href="https://github.com/l0v3m0n3y/Koreanjson" target="_blank"> Koreanjson </a>
+    </td>
+    <td>
+        <img src="https://i.imgur.com/NSTc1Ng.png" height="20px" alt="Abhiapi">
+        <a href="https://github.com/l0v3m0n3y/Abhiapi" target="_blank"> Abhiapi </a>
+    </td>
+    <td>
+        <img src="https://www.axios.com/favicon.ico" height="20px" alt="Axios">
+        <a href="https://github.com/l0v3m0n3y/Axios" target="_blank"> Axios </a>
     </td>
 </tr>
 </table>
