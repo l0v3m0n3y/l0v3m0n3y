@@ -1,6 +1,6 @@
 # c++ Wrappers & Libraries
 <table>
-    <tr> <th colspan="5">c++ 60</th> </tr>
+    <tr> <th colspan="5">c++ 65</th> </tr>
   <tr>
     <td>
         <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:iow4c3d6q6jagmsx2wfqmi73/bafkreic2kv6fif6z63kescka4r2on72vpvxzzsdqnovm7rlvajqyt6fsqm@jpeg" height="20px" alt="CivicAPI" onerror="this.src='https://github.com/favicon.ico'">
@@ -265,6 +265,28 @@
     <td>
         <img src="https://www.axios.com/favicon.ico" height="20px" alt="Axios">
         <a href="https://github.com/l0v3m0n3y/Axios" target="_blank"> Axios </a>
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="https://images.ygoprodeck.com/images/assets/cropped-applogo_high-1-192x192.png" height="20px" alt="Ygoprodeck">
+        <a href="https://github.com/l0v3m0n3y/Ygoprodeck" target="_blank"> Ygoprodeck </a>
+    </td>
+    <td>
+        <img src="https://www.dnd5eapi.co/public/favicon.ico" height="20px" alt="Dnd5eapi">
+        <a href="https://github.com/l0v3m0n3y/Dnd5eapi" target="_blank"> Dnd5eapi </a>
+    </td>
+    <td>
+        <img src="https://amiiboapi.com/static/favicon/android-icon-192x192.png" height="20px" alt="Amiiboapi">
+        <a href="https://github.com/l0v3m0n3y/Amiiboapi" target="_blank"> Amiiboapi </a>
+    </td>
+    <td>
+        <img src="https://www.opentopodata.org/assets/images/favicon.png" height="20px" alt="Opentopodata">
+        <a href="https://github.com/l0v3m0n3y/Opentopodata" target="_blank"> Opentopodata </a>
+    </td>
+    <td>
+        <img src="https://aisenseapi.com/images/favicon.png" height="20px" alt="Aisenseapi">
+        <a href="https://github.com/l0v3m0n3y/Aisenseapi" target="_blank"> Aisenseapi </a>
     </td>
 </tr>
 </table>
