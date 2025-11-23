@@ -285,7 +285,7 @@
         <a href="https://github.com/l0v3m0n3y/Opentopodata" target="_blank"> Opentopodata </a>
     </td>
     <td>
-        <img src="https://aisenseapi.com/images/favicon.png" height="20px" alt="Aisenseapi">
+        <img src="https://aisense.no/favicon.ico" height="20px" alt="Aisenseapi">
         <a href="https://github.com/l0v3m0n3y/Aisenseapi" target="_blank"> Aisenseapi </a>
     </td>
 </tr>
