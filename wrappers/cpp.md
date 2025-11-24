@@ -1,6 +1,6 @@
 # c++ Wrappers & Libraries
 <table>
-    <tr> <th colspan="5">c++ 70</th> </tr>
+    <tr> <th colspan="5">c++ 75</th> </tr>
   <tr>
     <td>
         <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:iow4c3d6q6jagmsx2wfqmi73/bafkreic2kv6fif6z63kescka4r2on72vpvxzzsdqnovm7rlvajqyt6fsqm@jpeg" height="20px" alt="CivicAPI" onerror="this.src='https://github.com/favicon.ico'">
@@ -309,6 +309,28 @@
     <td>
         <img src="https://earthquake.usgs.gov/favicon.ico" height="20px" alt="Earthquake_usgs">
         <a href="https://github.com/l0v3m0n3y/Earthquake_usgs" target="_blank"> Earthquake_usgs </a>
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="https://viacep.com.br/favicon.ico" height="20px" alt="Viacep">
+        <a href="https://github.com/l0v3m0n3y/Viacep" target="_blank"> Viacep </a>
+    </td>
+    <td>
+        <img src="https://leakcheck.io/favicon.ico" height="20px" alt="Leakcheck">
+        <a href="https://github.com/l0v3m0n3y/Leakcheck" target="_blank"> Leakcheck </a>
+    </td>
+    <td>
+        <img src="https://disease.sh/assets/img/icon_caw_simple.png" height="20px" alt="Disease">
+        <a href="https://github.com/l0v3m0n3y/Disease" target="_blank"> Disease </a>
+    </td>
+    <td>
+        <img src="https://data.bs.ch/favicon.ico" height="20px" alt="Data_bs">
+        <a href="https://github.com/l0v3m0n3y/Data_bs" target="_blank"> Data_bs </a>
+    </td>
+    <td>
+        <img src="https://freedictionaryapi.com/favicon.ico" height="20px" alt="Freedictionaryapi">
+        <a href="https://github.com/l0v3m0n3y/Freedictionaryapi" target="_blank"> Freedictionaryapi </a>
     </td>
 </tr>
 </table>
