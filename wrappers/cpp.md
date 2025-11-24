@@ -1,6 +1,6 @@
 # c++ Wrappers & Libraries
 <table>
-    <tr> <th colspan="5">c++ 65</th> </tr>
+    <tr> <th colspan="5">c++ 70</th> </tr>
   <tr>
     <td>
         <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:iow4c3d6q6jagmsx2wfqmi73/bafkreic2kv6fif6z63kescka4r2on72vpvxzzsdqnovm7rlvajqyt6fsqm@jpeg" height="20px" alt="CivicAPI" onerror="this.src='https://github.com/favicon.ico'">
@@ -287,6 +287,28 @@
     <td>
         <img src="https://aisense.no/favicon.ico" height="20px" alt="Aisenseapi">
         <a href="https://github.com/l0v3m0n3y/Aisenseapi" target="_blank"> Aisenseapi </a>
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="https://www.ip2location.io/favicon.ico" height="20px" alt="Ip2location">
+        <a href="https://github.com/l0v3m0n3y/Ip2location" target="_blank"> Ip2location </a>
+    </td>
+    <td>
+        <img src="https://map.railway-stations.org/images/android-icon-192x192.png" height="20px" alt="Railwaystations">
+        <a href="https://github.com/l0v3m0n3y/Railwaystations" target="_blank"> Railwaystations </a>
+    </td>
+    <td>
+        <img src="https://www.getthedata.com/favicon.ico" height="20px" alt="Getthedata">
+        <a href="https://github.com/l0v3m0n3y/Getthedata" target="_blank"> Getthedata </a>
+    </td>
+    <td>
+        <img src="https://www.csdi.gov.hk/favicon.ico" height="20px" alt="Geodata_hk">
+        <a href="https://github.com/l0v3m0n3y/Geodata_hk" target="_blank"> Geodata_hk </a>
+    </td>
+    <td>
+        <img src="https://earthquake.usgs.gov/favicon.ico" height="20px" alt="Earthquake_usgs">
+        <a href="https://github.com/l0v3m0n3y/Earthquake_usgs" target="_blank"> Earthquake_usgs </a>
     </td>
 </tr>
 </table>
