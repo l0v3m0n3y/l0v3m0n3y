@@ -1,6 +1,6 @@
 # c++ Wrappers & Libraries
 <table>
-    <tr> <th colspan="5">c++ 94</th> </tr>
+    <tr> <th colspan="5">c++ 95</th> </tr>
   <tr>
     <td>
         <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:iow4c3d6q6jagmsx2wfqmi73/bafkreic2kv6fif6z63kescka4r2on72vpvxzzsdqnovm7rlvajqyt6fsqm@jpeg" height="20px" alt="CivicAPI" onerror="this.src='https://github.com/favicon.ico'">
@@ -415,6 +415,10 @@
     <td>
         <img src="https://adresse.data.gouv.fr/logo-ban-site.svg" height="20px" alt="Adresse">
         <a href="https://github.com/l0v3m0n3y/Adresse" target="_blank"> Adresse </a>
+    </td>
+    <td>
+        <img src="https://www.freepublicapis.com/favicon.ico" height="20px" alt="Freepublicapis">
+        <a href="https://github.com/l0v3m0n3y/Freepublicapis" target="_blank"> Freepublicapis </a>
     </td>
 </tr>
 </table>
