@@ -1,6 +1,6 @@
 # c++ Wrappers & Libraries
 <table>
-    <tr> <th colspan="5">c++ 75</th> </tr>
+    <tr> <th colspan="5">c++ 80</th> </tr>
   <tr>
     <td>
         <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:iow4c3d6q6jagmsx2wfqmi73/bafkreic2kv6fif6z63kescka4r2on72vpvxzzsdqnovm7rlvajqyt6fsqm@jpeg" height="20px" alt="CivicAPI" onerror="this.src='https://github.com/favicon.ico'">
@@ -331,6 +331,28 @@
     <td>
         <img src="https://freedictionaryapi.com/favicon.ico" height="20px" alt="Freedictionaryapi">
         <a href="https://github.com/l0v3m0n3y/Freedictionaryapi" target="_blank"> Freedictionaryapi </a>
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="https://cheba-apis.vercel.app/favicon.ico" height="20px" alt="Cheba_apis">
+        <a href="https://github.com/l0v3m0n3y/Cheba_apis" target="_blank"> Cheba_apis </a>
+    </td>
+    <td>
+        <img src="https://npiregistry.cms.hhs.gov/favicon.ico" height="20px" alt="Npiregistry">
+        <a href="https://github.com/l0v3m0n3y/Npiregistry" target="_blank"> Npiregistry </a>
+    </td>
+    <td>
+        <img src="https://citybik.es/favicon.ico" height="20px" alt="Citybik">
+        <a href="https://github.com/l0v3m0n3y/Citybik" target="_blank"> Citybik </a>
+    </td>
+    <td>
+        <img src="https://irail.be/favicon.ico" height="20px" alt="Irail">
+        <a href="https://github.com/l0v3m0n3y/Irail" target="_blank"> Irail </a>
+    </td>
+    <td>
+        <img src="https://rovers.nebulum.one/favicon.ico" height="20px" alt="Nebulum">
+        <a href="https://github.com/l0v3m0n3y/Nebulum" target="_blank"> Nebulum </a>
     </td>
 </tr>
 </table>
