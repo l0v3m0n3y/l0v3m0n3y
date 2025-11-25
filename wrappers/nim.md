@@ -60,7 +60,7 @@
         <a href="https://github.com/l0v3m0n3y/tempmail_cv" target="_blank"> tempmail_cv </a>
     </td>
         <td>
-        <img src="https://tempmail.fish/images/favicon.ico" height="20px" alt="tempmail_fish" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://tempmail.fish/favicon.ico" height="20px" alt="tempmail_fish" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/tempmail_fish" target="_blank"> tempmail_fish </a>
     </td>
     </tr> 
@@ -370,7 +370,7 @@
 </tr>
 <tr>
     <td>
-        <img src="https://countriesnow.space/img/1.png" height="20px" alt="countriesnow">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI8ePcPyBZXYCepfP-O0UJvumcM_Gx4TF6QA&s" height="20px" alt="countriesnow">
         <a href="https://github.com/l0v3m0n3y/countriesnow" target="_blank"> countriesnow </a>
     </td>
     <td>
