@@ -1,6 +1,6 @@
 # c++ Wrappers & Libraries
 <table>
-    <tr> <th colspan="5">c++ 80</th> </tr>
+    <tr> <th colspan="5">c++ 85</th> </tr>
   <tr>
     <td>
         <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:iow4c3d6q6jagmsx2wfqmi73/bafkreic2kv6fif6z63kescka4r2on72vpvxzzsdqnovm7rlvajqyt6fsqm@jpeg" height="20px" alt="CivicAPI" onerror="this.src='https://github.com/favicon.ico'">
@@ -353,6 +353,28 @@
     <td>
         <img src="https://rovers.nebulum.one/favicon.ico" height="20px" alt="Nebulum">
         <a href="https://github.com/l0v3m0n3y/Nebulum" target="_blank"> Nebulum </a>
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="https://therosaryapi.cf/christianity.png" height="20px" alt="Rosary">
+        <a href="https://github.com/l0v3m0n3y/Rosary" target="_blank"> Rosary </a>
+    </td>
+    <td>
+        <img src="https://www.sumo-api.com/favicon.ico" height="20px" alt="Sumo_api">
+        <a href="https://github.com/l0v3m0n3y/Sumo_api" target="_blank"> Sumo_api </a>
+    </td>
+    <td>
+        <img src="https://www.nhl.com/assets/icons/fav/nhl/favicon.ico" height="20px" alt="NHLAPI">
+        <a href="https://github.com/l0v3m0n3y/NHLAPI" target="_blank"> NHLAPI </a>
+    </td>
+    <td>
+        <img src="https://api-colombia.com/assets/logo-dark.svg" height="20px" alt="ColombiaAPI">
+        <a href="https://github.com/l0v3m0n3y/ColombiaAPI" target="_blank"> ColombiaAPI </a>
+    </td>
+    <td>
+        <img src="https://nominatim.org/release-docs/latest/assets/images/favicon.png" height="20px" alt="NominatimAPI">
+        <a href="https://github.com/l0v3m0n3y/NominatimAPI" target="_blank"> NominatimAPI </a>
     </td>
 </tr>
 </table>
