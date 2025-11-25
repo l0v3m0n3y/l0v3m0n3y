@@ -1,6 +1,6 @@
 # c++ Wrappers & Libraries
 <table>
-    <tr> <th colspan="5">c++ 85</th> </tr>
+    <tr> <th colspan="5">c++ 90</th> </tr>
   <tr>
     <td>
         <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:iow4c3d6q6jagmsx2wfqmi73/bafkreic2kv6fif6z63kescka4r2on72vpvxzzsdqnovm7rlvajqyt6fsqm@jpeg" height="20px" alt="CivicAPI" onerror="this.src='https://github.com/favicon.ico'">
@@ -375,6 +375,28 @@
     <td>
         <img src="https://nominatim.org/release-docs/latest/assets/images/favicon.png" height="20px" alt="NominatimAPI">
         <a href="https://github.com/l0v3m0n3y/NominatimAPI" target="_blank"> NominatimAPI </a>
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="https://s3-eu-central-1.amazonaws.com/aws-ec2-eu-central-1-opendatasoft-staticfileset/stgallen/favicon?tstamp=159670406125" height="20px" alt="OpenDataSoftAPI">
+        <a href="https://github.com/l0v3m0n3y/OpenDataSoftAPI" target="_blank"> OpenDataSoftAPI </a>
+    </td>
+    <td>
+        <img src="https://databrowser.opendatahub.com/favicon.ico" height="20px" alt="OpenDataHubAPI">
+        <a href="https://github.com/l0v3m0n3y/OpenDataHubAPI" target="_blank"> OpenDataHubAPI </a>
+    </td>
+    <td>
+        <img src="https://carbonintensity.org.uk/img/favicon.ico" height="20px" alt="CarbonIntensity">
+        <a href="https://github.com/l0v3m0n3y/CarbonIntensity" target="_blank"> CarbonIntensity </a>
+    </td>
+    <td>
+        <img src="https://www.refugerestrooms.org/favicon.ico" height="20px" alt="RefugeRestrooms">
+        <a href="https://github.com/l0v3m0n3y/RefugeRestrooms" target="_blank"> RefugeRestrooms </a>
+    </td>
+    <td>
+        <img src="https://represent.opennorth.ca/static/img/favicon.ico" height="20px" alt="Represent">
+        <a href="https://github.com/l0v3m0n3y/Represent" target="_blank"> Represent </a>
     </td>
 </tr>
 </table>
