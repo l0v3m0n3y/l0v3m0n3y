@@ -1,6 +1,6 @@
 # c++ Wrappers & Libraries
 <table>
-    <tr> <th colspan="5">c++ 90</th> </tr>
+    <tr> <th colspan="5">c++ 94</th> </tr>
   <tr>
     <td>
         <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:iow4c3d6q6jagmsx2wfqmi73/bafkreic2kv6fif6z63kescka4r2on72vpvxzzsdqnovm7rlvajqyt6fsqm@jpeg" height="20px" alt="CivicAPI" onerror="this.src='https://github.com/favicon.ico'">
@@ -397,6 +397,24 @@
     <td>
         <img src="https://represent.opennorth.ca/static/img/favicon.ico" height="20px" alt="Represent">
         <a href="https://github.com/l0v3m0n3y/Represent" target="_blank"> Represent </a>
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="https://kk-advice.koyeb.app/static/icon/icon-192.png" height="20px" alt="KKadvice">
+        <a href="https://github.com/l0v3m0n3y/KKadvice" target="_blank"> KKadvice </a>
+    </td>
+    <td>
+        <img src="https://www.remoteok.com/favicon.ico" height="20px" alt="Remoteok">
+        <a href="https://github.com/l0v3m0n3y/Remoteok" target="_blank"> Remoteok </a>
+    </td>
+    <td>
+        <img src="https://buddha-api.com/favicon.ico" height="20px" alt="Buddha_api">
+        <a href="https://github.com/l0v3m0n3y/Buddha_api" target="_blank"> Buddha_api </a>
+    </td>
+    <td>
+        <img src="https://adresse.data.gouv.fr/logo-ban-site.svg" height="20px" alt="Adresse">
+        <a href="https://github.com/l0v3m0n3y/Adresse" target="_blank"> Adresse </a>
     </td>
 </tr>
 </table>
