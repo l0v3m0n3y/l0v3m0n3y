@@ -12,24 +12,24 @@
     <tr> <th colspan="5">Python 65</th> </tr>
     <tr>
       <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="textbelt" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/textbelt" target="_blank"> textbelt </a>
+        <img src="https://aminoapps.com/static/img/amino-logo-ld.png" height="20px" alt="AminoLab" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/AminoLab" target="_blank"> AminoLab </a>
       </td>
       <td>
         <img src="https://topsmm.ru/img/cube.png" height="20px" alt="topsmm" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/topsmm" target="_blank"> topsmm </a>
       </td>
       <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="catfact" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/catfact" target="_blank"> catfact </a>
+        <img src="https://outstanza.com/favicon.ico" height="20px" alt="outstanza" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/outstanza" target="_blank"> outstanza </a>
       </td>
       <td>
         <img src="https://randomdatatools.ru/favicon.ico" height="20px" alt="randomdatatools" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/randomdatatools" target="_blank"> randomdatatools </a>
       </td>
       <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="ipwhois" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/ipwhois" target="_blank"> ipwhois </a>
+        <img src="https://www.cocktailbuilder.com/img/icons/icon1024x1024.png" height="20px" alt="cocktailbuilder" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/cocktailbuilder" target="_blank"> cocktailbuilder </a>
       </td>
     </tr>
     <tr>
@@ -46,8 +46,8 @@
         <a href="https://github.com/l0v3m0n3y/cataas" target="_blank"> cataas </a>
       </td>
       <td>
-        <img src="https://www.python.org/static/favicon.ico" height="20px" alt="sms-acktiwator" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/sms-acktiwator" target="_blank"> sms-acktiwator </a>
+        <img src="https://internxt.com/favicon.ico" height="20px" alt="internxt_mail" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/internxt_mail" target="_blank"> internxt_mail </a>
       </td>
       <td>
         <img src="https://static.unshorten.me/images/unshorten.png" height="20px" alt="unshorten" onerror="this.src='https://github.com/favicon.ico'">
@@ -136,12 +136,12 @@
         <a href="https://github.com/l0v3m0n3y/tgstat" target="_blank"> tgstat </a>
       </td>
       <td>
-        <img src="https://jsontest.com/favicon.ico" height="20px" alt="jsontest_api" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/jsontest_api" target="_blank"> jsontest_api </a>
+        <img src="https://db-ip.com/favicon.ico" height="20px" alt="db_ip" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/db_ip" target="_blank"> db_ip </a>
       </td>
       <td>
-        <img src="https://jsonip.com/favicon.ico" height="20px" alt="jsonip" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/jsonip" target="_blank"> jsonip </a>
+        <img src="https://tonapi.io/favicon.ico" height="20px" alt="tonapi" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/tonapi" target="_blank"> tonapi </a>
       </td>
         <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/bash.md'>Continue</a></th></tr>
      <tr> <th colspan="5">Nim 100</th> </tr>
