@@ -168,7 +168,7 @@
         <a href="https://github.com/l0v3m0n3y/twos" target="_blank"> twos </a>
       </td>
       <td>
-        <img src="https://idfk.lol/favicon.ico" height="20px" alt="idfk" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://s0cial.com/favicon.ico" height="20px" alt="idfk" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/idfk" target="_blank"> idfk </a>
       </td>
       <td>
@@ -272,7 +272,7 @@
         <a href="https://github.com/l0v3m0n3y/checkserp" target="_blank"> checkserp </a>
       </td>
       <td>
-        <img src="https://rate-api.oeo.li/favicon.ico" height="20px" alt="Rate" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://currency.oeo.li/favicon.ico" height="20px" alt="Rate" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/Rate" target="_blank"> Rate </a>
       </td>
       <td>
@@ -294,7 +294,7 @@
         <a href="https://github.com/l0v3m0n3y/harakirimail" target="_blank"> harakirimail </a>
       </td>
       <td>
-        <img src="\https://temporary-mail.net/" height="20px" alt="temporary" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://www.temporary-mail.net/static/index/images/favicon.ico" height="20px" alt="temporary">
         <a href="https://github.com/l0v3m0n3y/temporary" target="_blank"> temporary </a>
       </td>
       <td>
@@ -320,7 +320,7 @@
         <a href="https://github.com/l0v3m0n3y/ident" target="_blank"> ident </a>
       </td>
       <td>
-        <img src="https://checkip.amazonaws.com/apple-touch-icon.png" height="20px" alt="amazonaws" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://amazon.com/favicon.ico" height="20px" alt="amazonaws" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/amazonaws" target="_blank"> amazonaws </a>
       </td>
       <td>
@@ -328,7 +328,7 @@
         <a href="https://github.com/l0v3m0n3y/ipecho" target="_blank"> ipecho </a>
       </td>
       <td>
-        <img src="https://owo.vc/favicon.ico" height="20px" alt="owo" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://katlyn.dev/favicon.ico" height="20px" alt="owo" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/owo" target="_blank"> owo </a>
       </td>
     </tr>
@@ -482,7 +482,7 @@
         <a href="https://github.com/l0v3m0n3y/Wikipedia" target="_blank"> Wikipedia </a>
       </td>
       <td>
-        <img src="https://airbet.io/imgs/default_image.png" height="20px" alt="airbet" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://airbet.io/favicon.ico" height="20px" alt="airbet" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/airbet" target="_blank"> airbet </a>
       </td>
     </tr>
@@ -514,7 +514,7 @@
         <a href="https://github.com/l0v3m0n3y/boredapi" target="_blank"> boredapi </a>
       </td>
       <td>
-        <img src="https://official-joke-api.appspot.com/favicon.ico" height="20px" alt="Jokeapi" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https:/publicapi.dev/favicon.ico" height="20px" alt="Jokeapi" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/Jokeapi" target="_blank"> Jokeapi </a>
       </td>
       <td>
