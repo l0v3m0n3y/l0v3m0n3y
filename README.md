@@ -79,8 +79,8 @@
     </tr>
     <tr>
       <td>
-        <img src="https://cryptoapi.biz/favicon.ico" height="20px" alt="cryptoapi" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/cryptoapi" target="_blank"> cryptoapi </a>
+        <img src="https://itog.by/favicon.ico" height="20px" alt="itog" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/itog" target="_blank"> itog </a>
       </td>
       <td>
         <img src="https://apilayer.net/favicon.ico" height="20px" alt="apilayer" onerror="this.src='https://github.com/favicon.ico'">
@@ -91,8 +91,8 @@
         <a href="https://github.com/l0v3m0n3y/tratao" target="_blank"> tratao </a>
       </td>
       <td>
-        <img src="https://currency-new.julien-millau.fr/favicon.ico" height="20px" alt="currency_new" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/currency_new" target="_blank"> currency_new </a>
+        <img src="https://kitsu.io/favicon.ico" height="20px" alt="kitsu" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/kitsu" target="_blank"> kitsu </a>
       </td>
       <td>
         <img src="https://markets.ft.com/favicon.ico" height="20px" alt="markets_ft" onerror="this.src='https://github.com/favicon.ico'">
