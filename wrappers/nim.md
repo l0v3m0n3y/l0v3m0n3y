@@ -69,7 +69,7 @@
         <a href="https://github.com/l0v3m0n3y/tempmail_now" target="_blank"> tempmail_now </a>
     </td>
         <td>
-        <img src="https://nullsto.edu.pl/assets/themes/basic/img/xfavicon.png,qt=1761763134.pagespeed.ic.LICMHPTne7.webp" height="20px" alt="nullsto" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://nullsto.edu.pl/storage/images/Screenshot%202025-11-27%20at%208.49.20%E2%80%AFPM.png" height="20px" alt="nullsto" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/nullsto" target="_blank"> nullsto </a>
         <td>
         <img src="https://www.1secmail.io/assets/themes/basic/img/favicon.png" height="20px" alt="secmail_io" onerror="this.src='https://github.com/favicon.ico'">
