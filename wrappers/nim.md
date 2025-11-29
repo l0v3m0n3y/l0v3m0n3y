@@ -44,7 +44,7 @@
     </td>
     <tr>
         <td>
-        <img src="https://temporarymail.cc/assets/image/favicon.ico" height="20px" alt="temporarymail" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://temporarymail.com/favicon.ico" height="20px" alt="temporarymail" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/temporarymail" target="_blank"> temporarymail </a>
     </td>
         <td>
