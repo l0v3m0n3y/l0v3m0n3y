@@ -1,6 +1,6 @@
 # c++ Wrappers & Libraries
 <table>
-    <tr> <th colspan="5">c++ 95</th> </tr>
+    <tr> <th colspan="5">c++ 100</th> </tr>
   <tr>
     <td>
         <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:iow4c3d6q6jagmsx2wfqmi73/bafkreic2kv6fif6z63kescka4r2on72vpvxzzsdqnovm7rlvajqyt6fsqm@jpeg" height="20px" alt="CivicAPI" onerror="this.src='https://github.com/favicon.ico'">
@@ -419,6 +419,28 @@
     <td>
         <img src="https://www.freepublicapis.com/favicon.ico" height="20px" alt="Freepublicapis">
         <a href="https://github.com/l0v3m0n3y/Freepublicapis" target="_blank"> Freepublicapis </a>
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="https://www.tempmails.cc/favicon.ico" height="20px" alt="Tempmails">
+        <a href="https://github.com/l0v3m0n3y/Tempmails" target="_blank"> Tempmails </a>
+    </td>
+    <td>
+        <img src="https://mail.aitre.cc/favicon.ico" height="20px" alt="Mailaitre">
+        <a href="https://github.com/l0v3m0n3y/Mailaitre" target="_blank"> Mailaitre </a>
+    </td>
+    <td>
+        <img src="https://kingtmp.email/assets/img/logo.svg" height="20px" alt="Kingtmpemail">
+        <a href="https://github.com/l0v3m0n3y/Kingtmpemail" target="_blank"> Kingtmpemail </a>
+    </td>
+    <td>
+        <img src="https://www.rovixcloud.com/favicon.ico" height="20px" alt="Rovixcloud">
+        <a href="https://github.com/l0v3m0n3y/Rovixcloud" target="_blank"> Rovixcloud </a>
+    </td>
+    <td>
+        <img src="https://tempmail.la/favicon.ico" height="20px" alt="Tempmailla">
+        <a href="https://github.com/l0v3m0n3y/Tempmailla" target="_blank"> Tempmailla </a>
     </td>
 </tr>
 </table>
