@@ -431,8 +431,8 @@
         <a href="https://github.com/l0v3m0n3y/Mailaitre" target="_blank"> Mailaitre </a>
     </td>
     <td>
-        <img src="https://kingtmp.email/assets/img/logo.svg" height="20px" alt="Kingtmpemail">
-        <a href="https://github.com/l0v3m0n3y/Kingtmpemail" target="_blank"> Kingtmpemail </a>
+        <img src="https://temp-mail.best/favicon.ico" height="20px" alt="Temp_mail_best">
+        <a href="https://github.com/l0v3m0n3y/Temp_mail_best" target="_blank"> Temp_mail_best </a>
     </td>
     <td>
         <img src="https://www.rovixcloud.com/favicon.ico" height="20px" alt="Rovixcloud">
