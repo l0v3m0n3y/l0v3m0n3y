@@ -154,7 +154,7 @@
         <a href="https://github.com/l0v3m0n3y/edgevpn" target="_blank"> edgevpn </a>
     </td>
     <td>
-        <img src="https://img.utdstc.com/icon/80f/4fe/80f4fe93431e521b6fde098b2ff696ce21d170f7faefd3e83d293a0f38ea7130:100" height="20px" alt="awardvpn" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://award-vpn.com/favicon.png" height="20px" alt="awardvpn" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/awardvpn" target="_blank"> awardvpn </a>
     </td>
     <td>
