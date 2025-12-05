@@ -52,53 +52,8 @@
       <td>
         <img src="https://static.unshorten.me/images/unshorten.png" height="20px" alt="unshorten" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/unshorten" target="_blank"> unshorten </a>
-    </tr>
-  <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/python.md'>Continue</a></th></tr>
-      <tr> <th colspan="5">JavaScript 121</th> </tr>
-    <tr>
-      <td>
-        <img src="https://apiflash.com/favicon.ico" height="20px" alt="apiflash" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/apiflash" target="_blank"> apiflash </a>
-      </td>
-      <td>
-        <img src="https://ipinfo.io/favicon.ico" height="20px" alt="Ipinfo" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/Ipinfo" target="_blank"> Ipinfo </a>
-      </td>
-      <td>
-        <img src="https://www.javascript.com/favicon.ico" height="20px" alt="octohide" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/octohide" target="_blank"> octohide </a>
-      </td>
-      <td>
-        <img src="https://cdn.prod.website-files.com/5fd63383c2fe7919cf1f0148/6228e79a88aa497a4758d5af_ff-256x256.png" height="20px" alt="fastforex" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/fastforex" target="_blank"> fastforex </a>
-      </td>
-      <td>
-        <img src="https://kursyvalut.info/favicon.ico" height="20px" alt="kursyvalut" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/kursyvalut" target="_blank"> kursyvalut </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://itog.by/favicon.ico" height="20px" alt="itog" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/itog" target="_blank"> itog </a>
-      </td>
-      <td>
-        <img src="https://apilayer.net/favicon.ico" height="20px" alt="apilayer" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/apilayer" target="_blank"> apilayer </a>
-      </td>
-      <td>
-        <img src="https://tratao.com/favicon.ico" height="20px" alt="tratao" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/tratao" target="_blank"> tratao </a>
-      </td>
-      <td>
-        <img src="https://kitsu.io/favicon.ico" height="20px" alt="kitsu" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/kitsu" target="_blank"> kitsu </a>
-      </td>
-      <td>
-        <img src="https://markets.ft.com/favicon.ico" height="20px" alt="markets_ft" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/markets_ft" target="_blank"> markets_ft </a>
-      </td>
-  <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/javascript.md'>Continue</a></th></tr>
+    </tr>   
+ <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/python.md'>Continue</a></th></tr>
       <tr> <th colspan="5">Shell 26</th> </tr>
     <tr>
       <td>
@@ -144,6 +99,51 @@
         <a href="https://github.com/l0v3m0n3y/tonapi" target="_blank"> tonapi </a>
       </td>
         <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/bash.md'>Continue</a></th></tr>
+      <tr> <th colspan="5">JavaScript 121</th> </tr>
+    <tr>
+      <td>
+        <img src="https://apiflash.com/favicon.ico" height="20px" alt="apiflash" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/apiflash" target="_blank"> apiflash </a>
+      </td>
+      <td>
+        <img src="https://ipinfo.io/favicon.ico" height="20px" alt="Ipinfo" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/Ipinfo" target="_blank"> Ipinfo </a>
+      </td>
+      <td>
+        <img src="https://www.javascript.com/favicon.ico" height="20px" alt="octohide" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/octohide" target="_blank"> octohide </a>
+      </td>
+      <td>
+        <img src="https://cdn.prod.website-files.com/5fd63383c2fe7919cf1f0148/6228e79a88aa497a4758d5af_ff-256x256.png" height="20px" alt="fastforex" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/fastforex" target="_blank"> fastforex </a>
+      </td>
+      <td>
+        <img src="https://kursyvalut.info/favicon.ico" height="20px" alt="kursyvalut" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/kursyvalut" target="_blank"> kursyvalut </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://itog.by/favicon.ico" height="20px" alt="itog" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/itog" target="_blank"> itog </a>
+      </td>
+      <td>
+        <img src="https://apilayer.net/favicon.ico" height="20px" alt="apilayer" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/apilayer" target="_blank"> apilayer </a>
+      </td>
+      <td>
+        <img src="https://tratao.com/favicon.ico" height="20px" alt="tratao" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/tratao" target="_blank"> tratao </a>
+      </td>
+      <td>
+        <img src="https://kitsu.io/favicon.ico" height="20px" alt="kitsu" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/kitsu" target="_blank"> kitsu </a>
+      </td>
+      <td>
+        <img src="https://markets.ft.com/favicon.ico" height="20px" alt="markets_ft" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/markets_ft" target="_blank"> markets_ft </a>
+      </td>
+  <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/javascript.md'>Continue</a></th></tr>
      <tr> <th colspan="5">Nim 100</th> </tr>
     <tr>
       <td>
