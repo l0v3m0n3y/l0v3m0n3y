@@ -1,5 +1,4 @@
 # Shell Wrappers & Libraries
-<img src="https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white" height="20px">
 <table>
     <tr> <th colspan="5">Shell - 26</th> </tr>
     <tr>
