@@ -235,9 +235,5 @@
 </tr>
  <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/cpp.md'>Continue</a></th></tr>
 </table>
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=l0v3m0n3y&theme=summer&pixelate_avatar=false">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=l0v3m0n3y&screen_effect=true&theme=blue_chill">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=l0v3m0n3y&theme=summer">
-</picture>
+<img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=l0v3m0n3y&theme=summer&pixelate_avatar=false">
 </div>
