@@ -1,5 +1,4 @@
 # nim Wrappers & Libraries
-<img src="https://img.shields.io/badge/NIM-FFC200?style=for-the-badge&logo=nim&logoColor=white" height="20px">
 <table>
     <tr> <th colspan="5">Nim 100</th> </tr>
     <tr>
