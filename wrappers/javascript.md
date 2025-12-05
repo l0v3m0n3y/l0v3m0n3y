@@ -1,6 +1,5 @@
 # JavaScript Wrappers & Libraries
 
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" height="20px" >
 
 <table>
     <tr> <th colspan="5">JavaScript - 121</th> </tr>
