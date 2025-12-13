@@ -235,5 +235,27 @@
 </tr>
  <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/cpp.md'>Continue</a></th></tr>
 </table>
+<table>
+<tr><th colspan="3"> other languages 3</th></tr>
+    <tr>
+    <td><img src='https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png' height="30px"> go lang</td>
+    <td><img src='https://developer.apple.com/assets/elements/icons/swift/swift-128x128_2x.png' height="30px"> swift</td>
+    <td><img src='https://dart.dev/assets/img/logo/dart-64.png' height="30px"> dart</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cryptorussia.ru/wp-content/uploads/2025/12/gift-fest-603270.png" height="20px" alt="giftapi">
+        <a href="https://github.com/l0v3m0n3y/giftapi" target="_blank"> giftapi </a>
+      </td>
+      <td>
+        <img src="https://kmail.pw/favicon.svg" height="20px" alt="kmail">
+        <a href="https://github.com/l0v3m0n3y/kmail" target="_blank"> kmail </a>
+      </td>
+      <td>
+        <img src="https://ourl.me/content/favicon.png" height="20px" alt="ourl">
+        <a href="https://github.com/l0v3m0n3y/ourl" target="_blank"> ourl </a>
+      </td>
+    </tr>
+</table>
 <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=l0v3m0n3y&theme=summer&pixelate_avatar=false">
 </div>
