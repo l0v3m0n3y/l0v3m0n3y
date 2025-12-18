@@ -9,6 +9,51 @@
 </div>
 
 <table>
+    <tr> <th colspan="5">Python 65</th> </tr>
+    <tr>
+      <td>
+        <img src="https://free-generator.ru/favicon.ico" height="20px" alt="free_generator" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/free_generator" target="_blank"> free_generator </a>
+      </td>
+      <td>
+        <img src="https://topsmm.ru/img/cube.png" height="20px" alt="topsmm" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/topsmm" target="_blank"> topsmm </a>
+      </td>
+      <td>
+        <img src="https://outstanza.com/favicon.ico" height="20px" alt="outstanza" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/outstanza" target="_blank"> outstanza </a>
+      </td>
+      <td>
+        <img src="https://randomdatatools.ru/favicon.ico" height="20px" alt="randomdatatools" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/randomdatatools" target="_blank"> randomdatatools </a>
+      </td>
+      <td>
+        <img src="https://www.cocktailbuilder.com/img/icons/icon1024x1024.png" height="20px" alt="cocktailbuilder" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/cocktailbuilder" target="_blank"> cocktailbuilder </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://htmlweb.ru/images/og-image/index.jpg" height="20px" alt="htmlweb" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/htmlweb" target="_blank"> htmlweb </a>
+      </td>
+      <td>
+        <img src="https://yastatic.net/s3/clicker/_/favicon.ico" height="20px" alt="clck" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/clck" target="_blank"> clck </a>
+      </td>
+      <td>
+        <img src="https://cataas.com/cat?width=32&height=32" height="20px" alt="cataas" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/cataas" target="_blank"> cataas </a>
+      </td>
+      <td>
+        <img src="https://internxt.com/favicon.ico" height="20px" alt="internxt_mail" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/internxt_mail" target="_blank"> internxt_mail </a>
+      </td>
+      <td>
+        <img src="https://static.unshorten.me/images/unshorten.png" height="20px" alt="unshorten" onerror="this.src='https://github.com/favicon.ico'">
+        <a href="https://github.com/l0v3m0n3y/unshorten" target="_blank"> unshorten </a>
+    </tr>   
+ <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/python.md'>Continue</a></th></tr>
       <tr> <th colspan="5">Shell 26</th> </tr>
     <tr>
       <td>
