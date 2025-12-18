@@ -1,7 +1,7 @@
 # Python Wrappers & Libraries
 
 <table>
-    <tr> <th colspan="5">Python - 65</th> </tr>
+    <tr> <th colspan="5">Python - 64</th> </tr>
     <tr>
       <td>
         <img src="https://whoer.net/favicon.ico" height="20px" alt="whoer" onerror="this.src='https://github.com/favicon.ico'">
@@ -18,10 +18,6 @@
       <td>
         <img src="https://freevpnplanet.com/wp-content/themes/planetvpn/assets/favicons/favicon.svg" height="20px" alt="Planet_vpn" onerror="this.src='https://github.com/favicon.ico'">
         <a href="https://github.com/l0v3m0n3y/Planet_vpn" target="_blank"> Planet_vpn </a>
-      </td>
-      <td>
-        <img src="https://aminoapps.com/static/img/amino-logo-ld.png" height="20px" alt="AminoLab" onerror="this.src='https://github.com/favicon.ico'">
-        <a href="https://github.com/l0v3m0n3y/AminoLab" target="_blank"> AminoLab </a>
       </td>
     </tr>
       <td>
