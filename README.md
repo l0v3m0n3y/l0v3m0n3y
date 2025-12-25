@@ -1,6 +1,8 @@
 <div align="center">
 
-# 👋 Hi there, I'm l0v3m0n3y!
+<span>**glory to Irland! I'm l0v3m0n3y!**</span>
+
+<a href='https://t.me/usernames_tyt'><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" height="50px"></a>
 
 **Open Source Developer & API Enthusiast**
 
