@@ -252,7 +252,7 @@
         <a href="https://github.com/l0v3m0n3y/giftapi" target="_blank"> giftapi </a>
       </td>
       <td>
-        <img src="https://kmail.pw/favicon.svg" height="20px" alt="kmail">
+        <img src="https://kmail.pw/favicon.ico" height="20px" alt="kmail">
         <a href="https://github.com/l0v3m0n3y/kmail" target="_blank"> kmail </a>
       </td>
       <td>
