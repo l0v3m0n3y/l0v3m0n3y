@@ -238,12 +238,13 @@
  <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/cpp.md'>Continue</a></th></tr>
 </table>
 <table>
-<tr><th colspan="4"> other languages 4</th></tr>
+<tr><th colspan="5"> other languages 5</th></tr>
     <tr>
     <td><img src='https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png' height="30px"> go lang</td>
     <td><img src='https://developer.apple.com/assets/elements/icons/swift/swift-128x128_2x.png' height="30px"> swift</td>
     <td><img src='https://dart.dev/assets/img/logo/dart-64.png' height="30px"> dart</td>
     <td><img src='https://cdn.perl.org/perlweb/images/icons/header_camel.png' height="30px"> perl</td>
+    <td><img src='https://rust-lang.org/static/images/rust-logo-blk.svg' height="30px"> rust</td>
     </tr>
     <tr>
       <td>
@@ -261,6 +262,10 @@
       <td>
         <img src="https://ip.sb/favicon.ico" height="20px" alt="ipsb">
         <a href="https://github.com/l0v3m0n3y/IPSB" target="_blank"> IPSB </a>
+      </td>
+      <td>
+        <img src="https://imgur.com/favicon.ico" height="20px" alt="imgur">
+        <a href="https://github.com/l0v3m0n3y/imgur" target="_blank"> imgur </a>
       </td>
     </tr>
 </table>
