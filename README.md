@@ -6,7 +6,7 @@
 
 **Open Source Developer & API Enthusiast**
 
-<img src="https://skillicons.dev/icons?i=swift,javascript,bash,nim,html,go,markdown,cpp,c,dart,python,java&perline=4">
+<img src="https://skillicons.dev/icons?i=swift,javascript,bash,nim,html,go,markdown,cpp,c,dart,python,rust&perline=4">
 
 </div>
 
