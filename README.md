@@ -238,7 +238,7 @@
  <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/cpp.md'>Continue</a></th></tr>
 </table>
 <table>
-<tr><th colspan="7"> other languages 6</th></tr>
+<tr><th colspan="7"> other languages 7</th></tr>
     <tr>
     <td><img src='https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png' height="30px"> go</td>
     <td><img src='https://developer.apple.com/assets/elements/icons/swift/swift-128x128_2x.png' height="30px"> swift</td>
