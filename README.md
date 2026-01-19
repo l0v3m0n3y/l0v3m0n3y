@@ -236,12 +236,21 @@
     </td>
 </tr>
  <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/cpp.md'>Continue</a></th></tr>
+     <tr> <th colspan="2">Swift 2</th> </tr>
+    <tr>
+      <td>
+        <img src="https://kmail.pw/favicon.ico" height="20px" alt="kmail">
+        <a href="https://github.com/l0v3m0n3y/kmail" target="_blank"> kmail </a>
+      </td>
+      <td>
+        <img src="https://www.ipify.org/static/images/favicon-96x96.png" height="20px" alt="ipify">
+        <a href="https://github.com/l0v3m0n3y/ipify" target="_blank"> ipify </a>
+      </td>
 </table>
 <table>
-<tr><th colspan="7"> other languages 7</th></tr>
+<tr><th colspan="6"> other languages 6</th></tr>
     <tr>
     <td><img src='https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png' height="30px"> go</td>
-    <td><img src='https://developer.apple.com/assets/elements/icons/swift/swift-128x128_2x.png' height="30px"> swift</td>
     <td><img src='https://dart.dev/assets/img/logo/dart-64.png' height="30px"> dart</td>
     <td><img src='https://cdn.perl.org/perlweb/images/icons/header_camel.png' height="30px"> perl</td>
     <td><img src='https://rust-lang.org/static/images/rust-logo-blk.svg' height="30px"> rust</td>
@@ -252,10 +261,6 @@
       <td>
         <img src="https://cryptorussia.ru/wp-content/uploads/2025/12/gift-fest-603270.png" height="20px" alt="giftapi">
         <a href="https://github.com/l0v3m0n3y/giftapi" target="_blank"> giftapi </a>
-      </td>
-      <td>
-        <img src="https://kmail.pw/favicon.ico" height="20px" alt="kmail">
-        <a href="https://github.com/l0v3m0n3y/kmail" target="_blank"> kmail </a>
       </td>
       <td>
         <img src="https://ourl.me/content/favicon.png" height="20px" alt="ourl">
