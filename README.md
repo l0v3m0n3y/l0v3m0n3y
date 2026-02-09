@@ -4,6 +4,12 @@
 
 <a href='https://t.me/AppleUsernames'><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" height="50px"></a>
 
+<img src="https://github.com/aminobotskek/aminobotskek/assets/94906343/b324c9d1-fe02-4a9d-bd75-c1d280e27576" height="150px">
+
+<code>You know, sometimes I think I was born with a leak, and any goodness I started with just slowly spilled out of me and now its all gone. And I'll never get it back in me. It's too late. Life is a series of closing doors, isn't it?</code>
+
+
+
 **Open Source Developer & API Enthusiast**
 
 <img src="https://skillicons.dev/icons?i=swift,javascript,bash,nim,html,go,markdown,cpp,c,dart,python,rust,perl,ruby,crystal,lua&perline=4">
