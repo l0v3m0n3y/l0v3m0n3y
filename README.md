@@ -242,7 +242,7 @@
     </td>
 </tr>
  <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/cpp.md'>Continue</a></th></tr>
-     <tr> <th colspan="4">Swift 4</th> </tr>
+     <tr> <th colspan="5">Swift 5</th> </tr>
     <tr>
       <td>
         <img src="https://kmail.pw/favicon.ico" height="20px" alt="kmail">
@@ -259,6 +259,10 @@
       <td>
         <img src="https://sodeom.com/favicon.ico" height="20px" alt="sodeom">
         <a href="https://github.com/l0v3m0n3y/sodeom" target="_blank"> sodeom </a>
+      </td>
+      <td>
+        <img src="https://pricing.day/favicon.ico" height="20px" alt="pricingday">
+        <a href="https://github.com/l0v3m0n3y/pricingday" target="_blank"> pricingday </a>
       </td>
 </table>
 <table>
