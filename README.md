@@ -302,6 +302,4 @@
       </td>
     </tr>
 </table>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=l0v3m0n3y&theme=nord_bright">
-<img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=l0v3m0n3y&theme=summer&pixelate_avatar=false">
 </div>
