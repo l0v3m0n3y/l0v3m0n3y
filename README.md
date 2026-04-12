@@ -242,7 +242,7 @@
     </td>
 </tr>
  <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/cpp.md'>Continue</a></th></tr>
-     <tr> <th colspan="5">Swift 7</th> </tr>
+     <tr> <th colspan="5">Swift 8</th> </tr>
     <tr>
       <td>
         <img src="https://kmail.pw/favicon.ico" height="20px" alt="kmail">
@@ -272,6 +272,10 @@
       <td>
         <img src="https://u.to/favicon.webp" height="20px" alt="uto">
         <a href="https://github.com/l0v3m0n3y/uto" target="_blank"> uto </a>
+      </td>
+      <td>
+        <img src="https://avatars.githubusercontent.com/u/188051590?v=4" height="20px" alt="IPQuery">
+        <a href="https://github.com/l0v3m0n3y/ipquery" target="_blank"> IPQuery </a>
       </td>
 </table>
 <table>
