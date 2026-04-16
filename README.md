@@ -2,7 +2,7 @@
 
 <span>**glory to Irland! I'm l0v3m0n3y!**</span>
 
-<a href='https://t.me/AppleUsernames'><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" height="50px"></a>
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" height="50px"></span>
 
 <img src="https://github.com/aminobotskek/aminobotskek/assets/94906343/b324c9d1-fe02-4a9d-bd75-c1d280e27576" height="150px">
 
