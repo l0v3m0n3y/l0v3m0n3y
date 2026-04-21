@@ -1,6 +1,6 @@
 # Shell Wrappers & Libraries
 <table>
-     <tr> <th colspan="5">Swift 13</th> </tr>
+     <tr> <th colspan="5">Swift 14</th> </tr>
     <tr>
       <td>
         <img src="https://kmail.pw/favicon.ico" height="20px" alt="kmail">
@@ -55,6 +55,10 @@
       <td>
         <img src="https://proxytg.com/favicon.svg" height="20px" alt="proxytg">
         <a href="https://github.com/l0v3m0n3y/proxytg" target="_blank"> proxytg </a>
+      </td>
+      <td>
+        <img src="https://waifu-finder.vercel.app/favicon.ico" height="20px" alt="waifufinder">
+        <a href="https://github.com/l0v3m0n3y/waifufinder" target="_blank"> waifufinder </a>
       </td>
 </tr>
 </table>
