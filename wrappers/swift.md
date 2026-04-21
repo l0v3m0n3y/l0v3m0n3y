@@ -57,7 +57,7 @@
         <a href="https://github.com/l0v3m0n3y/proxytg" target="_blank"> proxytg </a>
       </td>
       <td>
-        <img src="https://waifu-finder.vercel.app/favicon.ico" height="20px" alt="waifufinder">
+        <img src="https://nekosapi.com/favicon.ico" height="20px" alt="waifufinder">
         <a href="https://github.com/l0v3m0n3y/waifufinder" target="_blank"> waifufinder </a>
       </td>
 </tr>
