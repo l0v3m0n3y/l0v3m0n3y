@@ -328,7 +328,7 @@
 
 
 
-<div class="cards-footer" data-astro-cid-ssfzsv2f=""> <picture> <source srcset="https://terminator.aeza.net/_astro/fan.ropKkb2V_1Izs1m.webp" type="image/webp"> <img src="https://terminator.aeza.net/_astro/fan.ropKkb2V_ZBagrK.png" alt="Fan. Just a regular fan. No jokes" style="align-self: flex-end; margin-bottom: 13px; margin-right: 15px;" data-astro-cid-ssfzsv2f="" width="45" height="53" loading="lazy" decoding="async"> </picture> <picture> <source srcset="https://terminator.aeza.net/_astro/chair.DpbjuXgC_Z17Vkm3.webp" type="image/webp"> <img src="/_astro/chair.DpbjuXgC_15zmnJ.png" alt="Chair" data-astro-cid-ssfzsv2f="" width="106" height="116" loading="lazy" decoding="async"> </picture> <p class="footer-text" data-astro-cid-ssfzsv2f="">tired?<br data-astro-cid-ssfzsv2f="">take a seat</p> </div>
+<div class="cards-footer" data-astro-cid-ssfzsv2f=""align="center"> <picture> <source srcset="https://terminator.aeza.net/_astro/fan.ropKkb2V_1Izs1m.webp" type="image/webp"> <img src="https://terminator.aeza.net/_astro/fan.ropKkb2V_ZBagrK.png" alt="Fan. Just a regular fan. No jokes" style="align-self: flex-end; margin-bottom: 13px; margin-right: 15px;" data-astro-cid-ssfzsv2f="" width="45" height="53" loading="lazy" decoding="async"> </picture> <picture> <source srcset="https://terminator.aeza.net/_astro/chair.DpbjuXgC_Z17Vkm3.webp" type="image/webp"> <img src="/_astro/chair.DpbjuXgC_15zmnJ.png" alt="Chair" data-astro-cid-ssfzsv2f="" width="106" height="116" loading="lazy" decoding="async"> </picture> <p class="footer-text" data-astro-cid-ssfzsv2f="">tired?<br data-astro-cid-ssfzsv2f="">take a seat</p> </div>
 
 
 
