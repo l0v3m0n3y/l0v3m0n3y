@@ -36,7 +36,7 @@
 </table>
 
 <table>
-    <tr> <th colspan="5">Python 65</th> </tr>
+    <tr> <th colspan="5"><img src="https://www.python.org/favicon.ico" height="20px" alt="Python">Python 65</th> </tr>
     <tr>
       <td>
         <img src="https://free-generator.ru/favicon.ico" height="20px" alt="free_generator" onerror="this.src='https://github.com/favicon.ico'">
@@ -81,7 +81,7 @@
         <a href="https://github.com/l0v3m0n3y/unshorten" target="_blank"> unshorten </a>
     </tr>   
  <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/python.md'>Continue</a></th></tr>
-      <tr> <th colspan="5">Shell 26</th> </tr>
+      <tr> <th colspan="5"><img src="https://tiswww.case.edu/php/chet/img/bash-logo-web.png" height="20px" alt="bash">Shell 26</th> </tr>
     <tr>
       <td>
         <img src="https://checkuser.org/favicon.ico" height="20px" alt="checkuser_api" onerror="this.src='https://github.com/favicon.ico'">
@@ -126,7 +126,7 @@
         <a href="https://github.com/l0v3m0n3y/tonapi" target="_blank"> tonapi </a>
       </td>
         <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/bash.md'>Continue</a></th></tr>
-      <tr> <th colspan="5">JavaScript 121</th> </tr>
+      <tr> <th colspan="5"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/960px-Unofficial_JavaScript_logo_2.svg.png" height="20px" alt="JavaScript">JavaScript 121</th> </tr>
     <tr>
       <td>
         <img src="https://apiflash.com/favicon.ico" height="20px" alt="apiflash" onerror="this.src='https://github.com/favicon.ico'">
@@ -171,7 +171,7 @@
         <a href="https://github.com/l0v3m0n3y/markets_ft" target="_blank"> markets_ft </a>
       </td>
   <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/javascript.md'>Continue</a></th></tr>
-     <tr> <th colspan="5">Nim 100</th> </tr>
+     <tr> <th colspan="5"><img src="https://nim-lang.org/assets/img/logo.svg" height="20px" alt="nim">Nim 100</th> </tr>
     <tr>
       <td>
         <img src="https://gold-api.com/icon.png" height="20px" alt="goldapi" onerror="this.src='https://github.com/favicon.ico'">
@@ -215,7 +215,7 @@
         <a href="https://github.com/l0v3m0n3y/etempmail" target="_blank"> etempmail </a>
     </td>
         <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/nim.md'>Continue</a></th></tr>
-      <tr> <th colspan="5">c++ 100</th> </tr>
+      <tr> <th colspan="5"><img src="https://isocpp.org/favicon.ico" height="20px" alt="c++">c++ 100</th> </tr>
 <tr>
     <td>
         <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:iow4c3d6q6jagmsx2wfqmi73/bafkreic2kv6fif6z63kescka4r2on72vpvxzzsdqnovm7rlvajqyt6fsqm@jpeg" height="20px" alt="CivicAPI" onerror="this.src='https://github.com/favicon.ico'">
@@ -261,7 +261,7 @@
     </td>
 </tr>
  <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/cpp.md'>Continue</a></th></tr>
-     <tr> <th colspan="5">Swift 16</th> </tr>
+     <tr> <th colspan="5"><img src="https://www.swift.org/favicon.ico" height="20px" alt="Swift">Swift 16</th> </tr>
     <tr>
       <td>
         <img src="https://kmail.pw/favicon.ico" height="20px" alt="kmail">
