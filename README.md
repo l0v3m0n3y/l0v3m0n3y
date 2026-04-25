@@ -16,6 +16,25 @@
 
 </div>
 
+
+<table align="center">
+<tr><th colspan="3"> <img src="https://www.redoton.com/favicon.ico" height="20px" alt="Digital Resistance"> Digital Resistance 3</th></tr>
+    <tr>
+     <td>
+        <img src="https://www.cloudflare.com/favicon.ico" height="20px" alt="warpgen">
+        <a href="https://github.com/l0v3m0n3y/warpgen" target="_blank"> warpgen </a>
+      </td>
+      <td>
+        <img src="https://mtproto.ru/favicon.ico" height="20px" alt="mtproxy">
+        <a href="https://github.com/l0v3m0n3y/mtproxy" target="_blank"> mtproxy </a>
+      </td>
+      <td>
+        <img src="https://images.sftcdn.net/images/t_favicon-v2/p/a89a5899-72e5-4636-b976-cd80f3f3ac2c/1883859079/v2raytun-logo" height="20px" alt="v2nodes_scraper">
+        <a href="https://github.com/l0v3m0n3y/v2nodes_scraper" target="_blank"> v2nodes_scraper </a>
+      </td>
+    </tr>
+</table>
+
 <table>
     <tr> <th colspan="5">Python 65</th> </tr>
     <tr>
@@ -325,7 +344,6 @@
       </td>
     </tr>
 </table>
-
 
 
 <div class="cards-footer" data-astro-cid-ssfzsv2f=""align="center"> <picture> <source srcset="https://terminator.aeza.net/_astro/fan.ropKkb2V_1Izs1m.webp" type="image/webp"> <img src="https://terminator.aeza.net/_astro/fan.ropKkb2V_ZBagrK.png" alt="Fan. Just a regular fan. No jokes" style="align-self: flex-end; margin-bottom: 13px; margin-right: 15px;" data-astro-cid-ssfzsv2f="" width="45" height="53" loading="lazy" decoding="async"> </picture> <picture> <source srcset="https://terminator.aeza.net/_astro/chair.DpbjuXgC_Z17Vkm3.webp" type="image/webp"> <img src="/_astro/chair.DpbjuXgC_15zmnJ.png" alt="Chair" data-astro-cid-ssfzsv2f="" width="106" height="116" loading="lazy" decoding="async"> </picture> <p class="footer-text" data-astro-cid-ssfzsv2f="">tired?<br data-astro-cid-ssfzsv2f="">take a seat</p> </div>
