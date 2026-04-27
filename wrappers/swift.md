@@ -1,6 +1,6 @@
 # Shell Wrappers & Libraries
 <table>
-     <tr> <th colspan="5">Swift 22</th> </tr>
+     <tr> <th colspan="5">Swift 23</th> </tr>
     <tr>
       <td>
         <img src="https://kmail.pw/favicon.ico" height="20px" alt="kmail">
@@ -93,6 +93,10 @@
       <td>
         <img src="https://sotaproject.com/favicon.ico" height="20px" alt="sotaproject">
         <a href="https://github.com/l0v3m0n3y/sotaproject" target="_blank"> sotaproject </a>
+      </td>
+      <td>
+        <img src="https://www.svoboda.org/Content/responsive/RFE/img/webApp/favicon.svg" height="20px" alt="svoboda">
+        <a href="https://github.com/l0v3m0n3y/svoboda" target="_blank"> svoboda </a>
       </td>
 </tr>
 </table>
