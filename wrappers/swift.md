@@ -1,6 +1,6 @@
 # Shell Wrappers & Libraries
 <table>
-     <tr> <th colspan="5">Swift 24</th> </tr>
+     <tr> <th colspan="5">Swift 25</th> </tr>
     <tr>
       <td>
         <img src="https://kmail.pw/favicon.ico" height="20px" alt="kmail">
@@ -101,6 +101,10 @@
       <td>
         <img src="https://ru.euronews.com/favicon.ico" height="20px" alt="euronews">
         <a href="https://github.com/l0v3m0n3y/euronews" target="_blank"> euronews </a>
+      </td>
+      <td>
+        <img src="https://black-book.wiki/favicon.ico" height="20px" alt="blackbookwiki">
+        <a href="https://github.com/l0v3m0n3y/blackbookwiki" target="_blank"> blackbookwiki </a>
       </td>
 </tr>
 </table>
