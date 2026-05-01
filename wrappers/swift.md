@@ -1,6 +1,6 @@
 # Shell Wrappers & Libraries
 <table>
-     <tr> <th colspan="5">Swift 26</th> </tr>
+     <tr> <th colspan="5">Swift 27</th> </tr>
     <tr>
       <td>
         <img src="https://kmail.pw/favicon.ico" height="20px" alt="kmail">
@@ -110,6 +110,10 @@
       <td>
         <img src="https://proxylab.live/static/favicon.svg" height="20px" alt="proxylab">
         <a href="https://github.com/l0v3m0n3y/proxylab" target="_blank"> proxylab </a>
+      </td>
+     <td>
+        <img src="https://istories.media/favicon-32x32.png" height="20px" alt="istories">
+        <a href="https://github.com/l0v3m0n3y/istories" target="_blank"> istories </a>
       </td>
 </tr>
 </table>
