@@ -1,6 +1,6 @@
 # Shell Wrappers & Libraries
 <table>
-     <tr> <th colspan="5">Swift 28</th> </tr>
+     <tr> <th colspan="5">Swift 29</th> </tr>
     <tr>
       <td>
         <img src="https://kmail.pw/favicon.ico" height="20px" alt="kmail">
@@ -118,6 +118,10 @@
      <td>
         <img src="https://4pda.to/s/Zy0hVRNPVuH7j9yqo4z2z05LdWz2EHRjwRB53O.png" height="20px" alt="rbfvpn">
         <a href="https://github.com/l0v3m0n3y/rbfvpn" target="_blank"> rbfvpn </a>
+      </td>
+     <td>
+        <img src="https://realgazeta.com.ua/logo.png" height="20px" alt="realgazeta">
+        <a href="https://github.com/l0v3m0n3y/realgazeta" target="_blank"> realgazeta </a>
       </td>
 </tr>
 </table>
