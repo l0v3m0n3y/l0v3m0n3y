@@ -339,8 +339,7 @@
         <a href="https://github.com/l0v3m0n3y/as_service" target="_blank"> no/yes as service </a>
       </td>
       <td>
-        <img src="https://waifu.pics/favicon.ico" height="20px" alt="waifu_pics">
-        <a href="https://github.com/l0v3m0n3y/waifu_pics" target="_blank"> waifu_pics </a>
+        <a href="https://github.com/l0v3m0n3y/waifu_pics" target="_blank"> waifu_pics[RIP] </a>
       </td>
     </tr>
 </table>
