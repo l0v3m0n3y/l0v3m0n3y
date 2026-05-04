@@ -18,290 +18,290 @@
 
 
 <table align="center">
-<tr><th colspan="3"> <img src="https://www.redoton.com/favicon.ico" height="20px" alt="Digital Resistance"> Digital Resistance 3</th></tr>
+<tr><th colspan="3"> <img src="https://www.redoton.com/favicon.ico" height="20px" alt="[RIP]Digital Resistance"> Digital Resistance 3</th></tr>
     <tr>
      <td>
-        <img src="https://www.cloudflare.com/favicon.ico" height="20px" alt="warpgen">
+        <img src="https://www.cloudflare.com/favicon.ico" height="20px" alt="[RIP]warpgen">
         <a href="https://github.com/l0v3m0n3y/warpgen" target="_blank"> warpgen </a>
       </td>
       <td>
-        <img src="https://mtproto.ru/favicon.ico" height="20px" alt="mtproxy">
+        <img src="https://mtproto.ru/favicon.ico" height="20px" alt="[RIP]mtproxy">
         <a href="https://github.com/l0v3m0n3y/mtproxy" target="_blank"> mtproxy </a>
       </td>
       <td>
-        <img src="https://images.sftcdn.net/images/t_favicon-v2/p/a89a5899-72e5-4636-b976-cd80f3f3ac2c/1883859079/v2raytun-logo" height="20px" alt="v2nodes_scraper">
+        <img src="https://images.sftcdn.net/images/t_favicon-v2/p/a89a5899-72e5-4636-b976-cd80f3f3ac2c/1883859079/v2raytun-logo" height="20px" alt="[RIP]v2nodes_scraper">
         <a href="https://github.com/l0v3m0n3y/v2nodes_scraper" target="_blank"> v2nodes_scraper </a>
       </td>
     </tr>
 </table>
 
 <table>
-    <tr> <th colspan="5"><img src="https://www.python.org/favicon.ico" height="20px" alt="Python">Python 65</th> </tr>
+    <tr> <th colspan="5"><img src="https://www.python.org/favicon.ico" height="20px" alt="[RIP]Python">Python 65</th> </tr>
     <tr>
       <td>
-        <img src="https://free-generator.ru/favicon.ico" height="20px" alt="free_generator" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://free-generator.ru/favicon.ico" height="20px" alt="[RIP]free_generator" >
         <a href="https://github.com/l0v3m0n3y/free_generator" target="_blank"> free_generator </a>
       </td>
       <td>
-        <img src="https://topsmm.ru/img/cube.png" height="20px" alt="topsmm" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://topsmm.ru/img/cube.png" height="20px" alt="[RIP]topsmm" >
         <a href="https://github.com/l0v3m0n3y/topsmm" target="_blank"> topsmm </a>
       </td>
       <td>
-        <img src="https://outstanza.com/favicon.ico" height="20px" alt="outstanza" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://outstanza.com/favicon.ico" height="20px" alt="[RIP]outstanza" >
         <a href="https://github.com/l0v3m0n3y/outstanza" target="_blank"> outstanza </a>
       </td>
       <td>
-        <img src="https://randomdatatools.ru/favicon.ico" height="20px" alt="randomdatatools" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://randomdatatools.ru/favicon.ico" height="20px" alt="[RIP]randomdatatools" >
         <a href="https://github.com/l0v3m0n3y/randomdatatools" target="_blank"> randomdatatools </a>
       </td>
       <td>
-        <img src="https://www.cocktailbuilder.com/img/icons/icon1024x1024.png" height="20px" alt="cocktailbuilder" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://www.cocktailbuilder.com/img/icons/icon1024x1024.png" height="20px" alt="[RIP]cocktailbuilder" >
         <a href="https://github.com/l0v3m0n3y/cocktailbuilder" target="_blank"> cocktailbuilder </a>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://htmlweb.ru/images/og-image/index.jpg" height="20px" alt="htmlweb" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://htmlweb.ru/images/og-image/index.jpg" height="20px" alt="[RIP]htmlweb" >
         <a href="https://github.com/l0v3m0n3y/htmlweb" target="_blank"> htmlweb </a>
       </td>
       <td>
-        <img src="https://yastatic.net/s3/clicker/_/favicon.ico" height="20px" alt="clck" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://yastatic.net/s3/clicker/_/favicon.ico" height="20px" alt="[RIP]clck" >
         <a href="https://github.com/l0v3m0n3y/clck" target="_blank"> clck </a>
       </td>
       <td>
-        <img src="https://cataas.com/cat?width=32&height=32" height="20px" alt="cataas" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://cataas.com/cat?width=32&height=32" height="20px" alt="[RIP]cataas" >
         <a href="https://github.com/l0v3m0n3y/cataas" target="_blank"> cataas </a>
       </td>
       <td>
-        <img src="https://internxt.com/favicon.ico" height="20px" alt="internxt_mail" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://internxt.com/favicon.ico" height="20px" alt="[RIP]internxt_mail" >
         <a href="https://github.com/l0v3m0n3y/internxt_mail" target="_blank"> internxt_mail </a>
       </td>
       <td>
-        <img src="https://static.unshorten.me/images/unshorten.png" height="20px" alt="unshorten" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://static.unshorten.me/images/unshorten.png" height="20px" alt="[RIP]unshorten" >
         <a href="https://github.com/l0v3m0n3y/unshorten" target="_blank"> unshorten </a>
     </tr>   
  <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/python.md'>Continue</a></th></tr>
-      <tr> <th colspan="5"><img src="https://tiswww.case.edu/php/chet/img/bash-logo-web.png" height="20px" alt="bash">Shell 26</th> </tr>
+      <tr> <th colspan="5"><img src="https://tiswww.case.edu/php/chet/img/bash-logo-web.png" height="20px" alt="[RIP]bash">Shell 26</th> </tr>
     <tr>
       <td>
-        <img src="https://checkuser.org/favicon.ico" height="20px" alt="checkuser_api" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://checkuser.org/favicon.ico" height="20px" alt="[RIP]checkuser_api" >
         <a href="https://github.com/l0v3m0n3y/checkuser_api" target="_blank"> checkuser_api </a>
       </td>
       <td>
-        <img src="https://bcs.ru/favicon.ico" height="20px" alt="bcs" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://bcs.ru/favicon.ico" height="20px" alt="[RIP]bcs" >
         <a href="https://github.com/l0v3m0n3y/bcs" target="_blank"> bcs </a>
       </td>
       <td>
-        <img src="https://up66.ru/theme/2020/img/favicon.png" height="20px" alt="Ip-up66" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://up66.ru/theme/2020/img/favicon.png" height="20px" alt="[RIP]Ip-up66" >
         <a href="https://github.com/l0v3m0n3y/Ip-up66" target="_blank"> Ip-up66 </a>
       </td>
       <td>
-        <img src="http://castlots.org/favicon.ico" height="20px" alt="castlots" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="http://castlots.org/favicon.ico" height="20px" alt="[RIP]castlots" >
         <a href="https://github.com/l0v3m0n3y/castlots" target="_blank"> castlots </a>
       </td>
       <td>
-        <img src="https://generator-chisel.ru/genius/favicon/favicon.ico" height="20px" alt="generator-chisel" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://generator-chisel.ru/genius/favicon/favicon.ico" height="20px" alt="[RIP]generator-chisel" >
         <a href="https://github.com/l0v3m0n3y/generator-chisel" target="_blank"> generator-chisel </a>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://tg.services/favicon.ico" height="20px" alt="Tg-services" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://tg.services/favicon.ico" height="20px" alt="[RIP]Tg-services" >
         <a href="https://github.com/l0v3m0n3y/Tg-services" target="_blank"> Tg-services </a>
       </td>
       <td>
-        <img src="https://fragment.com/favicon.ico" height="20px" alt="fragment" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://fragment.com/favicon.ico" height="20px" alt="[RIP]fragment" >
         <a href="https://github.com/l0v3m0n3y/fragment" target="_blank"> fragment </a>
       </td>
       <td>
-        <img src="https://tgstat.ru/favicon.ico" height="20px" alt="tgstat" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://tgstat.ru/favicon.ico" height="20px" alt="[RIP]tgstat" >
         <a href="https://github.com/l0v3m0n3y/tgstat" target="_blank"> tgstat </a>
       </td>
       <td>
-        <img src="https://db-ip.com/favicon.ico" height="20px" alt="db_ip" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://db-ip.com/favicon.ico" height="20px" alt="[RIP]db_ip" >
         <a href="https://github.com/l0v3m0n3y/db_ip" target="_blank"> db_ip </a>
       </td>
       <td>
-        <img src="https://tonapi.io/favicon.ico" height="20px" alt="tonapi" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://tonapi.io/favicon.ico" height="20px" alt="[RIP]tonapi" >
         <a href="https://github.com/l0v3m0n3y/tonapi" target="_blank"> tonapi </a>
       </td>
         <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/bash.md'>Continue</a></th></tr>
-      <tr> <th colspan="5"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/960px-Unofficial_JavaScript_logo_2.svg.png" height="20px" alt="JavaScript">JavaScript 121</th> </tr>
+      <tr> <th colspan="5"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/960px-Unofficial_JavaScript_logo_2.svg.png" height="20px" alt="[RIP]JavaScript">JavaScript 121</th> </tr>
     <tr>
       <td>
-        <img src="https://apiflash.com/favicon.ico" height="20px" alt="apiflash" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://apiflash.com/favicon.ico" height="20px" alt="[RIP]apiflash" >
         <a href="https://github.com/l0v3m0n3y/apiflash" target="_blank"> apiflash </a>
       </td>
       <td>
-        <img src="https://ipinfo.io/favicon.ico" height="20px" alt="Ipinfo" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://ipinfo.io/favicon.ico" height="20px" alt="[RIP]Ipinfo" >
         <a href="https://github.com/l0v3m0n3y/Ipinfo" target="_blank"> Ipinfo </a>
       </td>
       <td>
-        <img src="https://www.javascript.com/favicon.ico" height="20px" alt="octohide" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://www.javascript.com/favicon.ico" height="20px" alt="[RIP]octohide" >
         <a href="https://github.com/l0v3m0n3y/octohide" target="_blank"> octohide </a>
       </td>
       <td>
-        <img src="https://cdn.prod.website-files.com/5fd63383c2fe7919cf1f0148/6228e79a88aa497a4758d5af_ff-256x256.png" height="20px" alt="fastforex" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://cdn.prod.website-files.com/5fd63383c2fe7919cf1f0148/6228e79a88aa497a4758d5af_ff-256x256.png" height="20px" alt="[RIP]fastforex" >
         <a href="https://github.com/l0v3m0n3y/fastforex" target="_blank"> fastforex </a>
       </td>
       <td>
-        <img src="https://kursyvalut.info/favicon.ico" height="20px" alt="kursyvalut" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://kursyvalut.info/favicon.ico" height="20px" alt="[RIP]kursyvalut" >
         <a href="https://github.com/l0v3m0n3y/kursyvalut" target="_blank"> kursyvalut </a>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://itog.by/favicon.ico" height="20px" alt="itog" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://itog.by/favicon.ico" height="20px" alt="[RIP]itog" >
         <a href="https://github.com/l0v3m0n3y/itog" target="_blank"> itog </a>
       </td>
       <td>
-        <img src="https://apilayer.net/favicon.ico" height="20px" alt="apilayer" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://apilayer.net/favicon.ico" height="20px" alt="[RIP]apilayer" >
         <a href="https://github.com/l0v3m0n3y/apilayer" target="_blank"> apilayer </a>
       </td>
       <td>
-        <img src="https://tratao.com/favicon.ico" height="20px" alt="tratao" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://tratao.com/favicon.ico" height="20px" alt="[RIP]tratao" >
         <a href="https://github.com/l0v3m0n3y/tratao" target="_blank"> tratao </a>
       </td>
       <td>
-        <img src="https://kitsu.io/favicon.ico" height="20px" alt="kitsu" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://kitsu.io/favicon.ico" height="20px" alt="[RIP]kitsu" >
         <a href="https://github.com/l0v3m0n3y/kitsu" target="_blank"> kitsu </a>
       </td>
       <td>
-        <img src="https://markets.ft.com/favicon.ico" height="20px" alt="markets_ft" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://markets.ft.com/favicon.ico" height="20px" alt="[RIP]markets_ft" >
         <a href="https://github.com/l0v3m0n3y/markets_ft" target="_blank"> markets_ft </a>
       </td>
   <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/javascript.md'>Continue</a></th></tr>
-     <tr> <th colspan="5"><img src="https://nim-lang.org/assets/img/logo.svg" height="20px" alt="nim">Nim 100</th> </tr>
+     <tr> <th colspan="5"><img src="https://nim-lang.org/assets/img/logo.svg" height="20px" alt="[RIP]nim">Nim 100</th> </tr>
     <tr>
       <td>
-        <img src="https://gold-api.com/icon.png" height="20px" alt="goldapi" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://gold-api.com/icon.png" height="20px" alt="[RIP]goldapi" >
         <a href="https://github.com/l0v3m0n3y/goldapi" target="_blank"> goldapi </a>
       </td>
       <td>
-        <img src="https://www.cryptocompare.com/media/20562/favicon.png" height="20px" alt="cryptocompare" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://www.cryptocompare.com/media/20562/favicon.png" height="20px" alt="[RIP]cryptocompare" >
         <a href="https://github.com/l0v3m0n3y/cryptocompare" target="_blank"> cryptocompare </a>
       </td>
       <td>
-        <img src="https://ipunblock.com/apple-icon-57x57.png" height="20px" alt="ipunblock" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://ipunblock.com/apple-icon-57x57.png" height="20px" alt="[RIP]ipunblock" >
         <a href="https://github.com/l0v3m0n3y/ipunblock" target="_blank"> ipunblock </a>
       </td>
       <td>
-        <img src="https://cdn.shorter.me/assets/img/logo/favicon.png" height="20px" alt="shorter" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://cdn.shorter.me/assets/img/logo/favicon.png" height="20px" alt="[RIP]shorter" >
         <a href="https://github.com/l0v3m0n3y/shorter" target="_blank"> shorter </a>
       </td>
       <td>
-        <img src="https://tiny.owlbyte.org/new/favicon-ico.png" height="20px" alt="owlbyte" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://tiny.owlbyte.org/new/favicon-ico.png" height="20px" alt="[RIP]owlbyte" >
         <a href="https://github.com/l0v3m0n3y/owlbyte" target="_blank"> owlbyte </a>
       </td>
     </tr>
     <td>
-        <img src="https://smallurl.in/apple-touch-icon.png" height="20px" alt="smallurl" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://smallurl.in/apple-touch-icon.png" height="20px" alt="[RIP]smallurl" >
         <a href="https://github.com/l0v3m0n3y/smallurl" target="_blank"> smallurl </a>
     </td>
     <td>
-        <img src="https://inboxes.com/images/favicon.svg" height="20px" alt="inboxes" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://inboxes.com/images/favicon.svg" height="20px" alt="[RIP]inboxes" >
         <a href="https://github.com/l0v3m0n3y/inboxes" target="_blank"> inboxes </a>
     </td>
     <td>
-        <img src="https://maildax.com/favicon.ico" height="20px" alt="maildax" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://maildax.com/favicon.ico" height="20px" alt="[RIP]maildax" >
         <a href="https://github.com/l0v3m0n3y/maildax" target="_blank"> maildax </a>
     </td>
     <td>
-        <img src="https://httpcats.com/static/icons/cat.svg" height="20px" alt="httpcats" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://httpcats.com/static/icons/cat.svg" height="20px" alt="[RIP]httpcats" >
         <a href="https://github.com/l0v3m0n3y/httpcats" target="_blank"> httpcats </a>
     </td>
     <td>
-        <img src="https://etempmail.com/assets/img/fav/apple-icon-60x60.png" height="20px" alt="etempmail" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://etempmail.com/assets/img/fav/apple-icon-60x60.png" height="20px" alt="[RIP]etempmail" >
         <a href="https://github.com/l0v3m0n3y/etempmail" target="_blank"> etempmail </a>
     </td>
         <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/nim.md'>Continue</a></th></tr>
-      <tr> <th colspan="5"><img src="https://isocpp.org/favicon.ico" height="20px" alt="c++">c++ 100</th> </tr>
+      <tr> <th colspan="5"><img src="https://isocpp.org/favicon.ico" height="20px" alt="[RIP]c++">c++ 100</th> </tr>
 <tr>
     <td>
-        <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:iow4c3d6q6jagmsx2wfqmi73/bafkreic2kv6fif6z63kescka4r2on72vpvxzzsdqnovm7rlvajqyt6fsqm@jpeg" height="20px" alt="CivicAPI" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:iow4c3d6q6jagmsx2wfqmi73/bafkreic2kv6fif6z63kescka4r2on72vpvxzzsdqnovm7rlvajqyt6fsqm@jpeg" height="20px" alt="[RIP]CivicAPI" >
         <a href="https://github.com/l0v3m0n3y/CivicAPI" target="_blank"> CivicAPI </a>
     </td>
     <td>
-        <img src="https://www.purgomalum.com/favicon.ico" height="20px" alt="purgomalum" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://www.purgomalum.com/favicon.ico" height="20px" alt="[RIP]purgomalum" >
         <a href="https://github.com/l0v3m0n3y/Purgomalum" target="_blank"> Purgomalum </a>
     </td>
     <td>
-        <img src="https://screenshotof.com/favicon.ico" height="20px" alt="Screenshotof" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://screenshotof.com/favicon.ico" height="20px" alt="[RIP]Screenshotof" >
         <a href="https://github.com/l0v3m0n3y/Screenshotof" target="_blank"> Screenshotof </a>
     </td>
     <td>
-        <img src="https://static.tvmaze.com/images/favico/favicon.ico" height="20px" alt="Tvmaze" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://static.tvmaze.com/images/favico/favicon.ico" height="20px" alt="[RIP]Tvmaze" >
         <a href="https://github.com/l0v3m0n3y/Tvmaze" target="_blank"> Tvmaze </a>
     </td>
     <td>
-        <img src="https://jsph.pl/static/favicon.png" height="20px" alt="Uselessfacts" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://jsph.pl/static/favicon.png" height="20px" alt="[RIP]Uselessfacts" >
         <a href="https://github.com/l0v3m0n3y/Uselessfacts" target="_blank"> Uselessfacts </a>
     </td>
 </tr>
 <tr>
     <td>
-        <img src="https://vdraw.ai/favicon.ico" height="20px" alt="Vdraw" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://vdraw.ai/favicon.ico" height="20px" alt="[RIP]Vdraw" >
         <a href="https://github.com/l0v3m0n3y/Vdraw" target="_blank"> Vdraw </a>
     </td>
     <td>
-        <img src="https://www.hopperhq.com/favicon.ico" height="20px" alt="Hopperhq" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://www.hopperhq.com/favicon.ico" height="20px" alt="[RIP]Hopperhq" >
         <a href="https://github.com/l0v3m0n3y/Hopperhq" target="_blank"> Hopperhq </a>
     </td>
     <td>
-        <img src="https://randommer.io/favicon.ico" height="20px" alt="Randommer" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://randommer.io/favicon.ico" height="20px" alt="[RIP]Randommer" >
         <a href="https://github.com/l0v3m0n3y/Randommer" target="_blank"> Randommer </a>
     </td>
     <td>
-        <img src="https://whoa.onrender.com/favicon.ico" height="20px" alt="Keanuwhoa" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://whoa.onrender.com/favicon.ico" height="20px" alt="[RIP]Keanuwhoa" >
         <a href="https://github.com/l0v3m0n3y/Keanuwhoa" target="_blank"> Keanuwhoa </a>
     </td>
     <td>
-        <img src="https://owen-wilson-wow-api.onrender.com/favicon.ico" height="20px" alt="OwenWilsonwow" onerror="this.src='https://github.com/favicon.ico'">
+        <img src="https://owen-wilson-wow-api.onrender.com/favicon.ico" height="20px" alt="[RIP]OwenWilsonwow" >
         <a href="https://github.com/l0v3m0n3y/OwenWilsonwow" target="_blank"> OwenWilsonwow </a>
     </td>
 </tr>
  <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/cpp.md'>Continue</a></th></tr>
-     <tr> <th colspan="5"><img src="https://www.swift.org/favicon.ico" height="20px" alt="Swift">Swift 29</th> </tr>
+     <tr> <th colspan="5"><img src="https://www.swift.org/favicon.ico" height="20px" alt="[RIP]Swift">Swift 29</th> </tr>
     <tr>
       <td>
-        <img src="https://kmail.pw/favicon.ico" height="20px" alt="kmail">
+        <img src="https://kmail.pw/favicon.ico" height="20px" alt="[RIP]kmail">
         <a href="https://github.com/l0v3m0n3y/kmail" target="_blank"> kmail </a>
       </td>
       <td>
-        <img src="https://www.ipify.org/static/images/favicon-96x96.png" height="20px" alt="ipify">
+        <img src="https://www.ipify.org/static/images/favicon-96x96.png" height="20px" alt="[RIP]ipify">
         <a href="https://github.com/l0v3m0n3y/ipify" target="_blank"> ipify </a>
       </td>
       <td>
-        <img src="https://www.freecustom.email/favicon.ico" height="20px" alt="freecustomemai">
+        <img src="https://www.freecustom.email/favicon.ico" height="20px" alt="[RIP]freecustomemai">
         <a href="https://github.com/l0v3m0n3y/freecustomemail" target="_blank"> freecustomemai </a>
       </td>
       <td>
-        <img src="https://sodeom.com/favicon.ico" height="20px" alt="sodeom">
+        <img src="https://sodeom.com/favicon.ico" height="20px" alt="[RIP]sodeom">
         <a href="https://github.com/l0v3m0n3y/sodeom" target="_blank"> sodeom </a>
       </td>
       <td>
-        <img src="https://pricing.day/favicon.ico" height="20px" alt="pricingday">
+        <img src="https://pricing.day/favicon.ico" height="20px" alt="[RIP]pricingday">
         <a href="https://github.com/l0v3m0n3y/pricingday" target="_blank"> pricingday </a>
       </td>
     <tr>
       <td>
-        <img src="https://www.waifu.im/favicon.ico" height="20px" alt="waifuim">
+        <img src="https://www.waifu.im/favicon.ico" height="20px" alt="[RIP]waifuim">
         <a href="https://github.com/l0v3m0n3y/waifuim" target="_blank"> waifuim </a>
       </td>
       <td>
-        <img src="https://u.to/favicon.webp" height="20px" alt="uto">
+        <img src="https://u.to/favicon.webp" height="20px" alt="[RIP]uto">
         <a href="https://github.com/l0v3m0n3y/uto" target="_blank"> uto </a>
       </td>
       <td>
-        <img src="https://avatars.githubusercontent.com/u/188051590?v=4" height="20px" alt="IPQuery">
+        <img src="https://avatars.githubusercontent.com/u/188051590?v=4" height="20px" alt="[RIP]IPQuery">
         <a href="https://github.com/l0v3m0n3y/ipquery" target="_blank"> IPQuery </a>
       </td>
       <td>
-        <img src="https://uwupad.me/favicon.ico" height="20px" alt="uwupad">
+        <img src="https://uwupad.me/favicon.ico" height="20px" alt="[RIP]uwupad">
         <a href="https://github.com/l0v3m0n3y/uwupad" target="_blank"> uwupad </a>
       </td>
       <td>
-        <img src="https://yagla.ru/favicon.ico" height="20px" alt="yagla">
+        <img src="https://yagla.ru/favicon.ico" height="20px" alt="[RIP]yagla">
         <a href="https://github.com/l0v3m0n3y/yagla" target="_blank"> yagla </a>
       </td>
 </tr>
@@ -319,23 +319,23 @@
     </tr>
     <tr>
       <td>
-        <img src="https://cryptorussia.ru/wp-content/uploads/2025/12/gift-fest-603270.png" height="20px" alt="giftapi">
+        <img src="https://cryptorussia.ru/wp-content/uploads/2025/12/gift-fest-603270.png" height="20px" alt="[RIP]giftapi">
         <a href="https://github.com/l0v3m0n3y/giftapi" target="_blank"> giftapi </a>
       </td>
       <td>
-        <img src="https://ourl.me/content/favicon.png" height="20px" alt="ourl">
+        <img src="https://ourl.me/content/favicon.png" height="20px" alt="[RIP]ourl">
         <a href="https://github.com/l0v3m0n3y/ourl" target="_blank"> ourl </a>
       </td>
       <td>
-        <img src="https://ip.sb/favicon.ico" height="20px" alt="ipsb">
+        <img src="https://ip.sb/favicon.ico" height="20px" alt="[RIP]ipsb">
         <a href="https://github.com/l0v3m0n3y/IPSB" target="_blank"> IPSB </a>
       </td>
       <td>
-        <img src="https://imgur.com/favicon.ico" height="20px" alt="imgur">
+        <img src="https://imgur.com/favicon.ico" height="20px" alt="[RIP]imgur">
         <a href="https://github.com/l0v3m0n3y/imgur" target="_blank"> imgur </a>
       </td>
       <td>
-        <img src="https://lavx.hu/assets/icons/favicon_io/favicon.ico" height="20px" alt="no/yes as service">
+        <img src="https://lavx.hu/assets/icons/favicon_io/favicon.ico" height="20px" alt="[RIP]no/yes as service">
         <a href="https://github.com/l0v3m0n3y/as_service" target="_blank"> no/yes as service </a>
       </td>
       <td>
