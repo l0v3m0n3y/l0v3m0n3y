@@ -18,25 +18,25 @@
 
 
 <table align="center">
-<tr><th colspan="3"> <img src="https://www.redoton.com/favicon.ico" height="20px" alt="[RIP]Digital Resistance"> Digital Resistance 3</th></tr>
+<tr><th colspan="3"> <img src="https://www.redoton.com/favicon.ico" height="20px" alt="Digital Resistance"> Digital Resistance 3</th></tr>
     <tr>
      <td>
-        <img src="https://www.cloudflare.com/favicon.ico" height="20px" alt="[RIP]warpgen">
+        <img src="https://www.cloudflare.com/favicon.ico" height="20px" alt="warpgen">
         <a href="https://github.com/l0v3m0n3y/warpgen" target="_blank"> warpgen </a>
       </td>
       <td>
-        <img src="https://mtproto.ru/favicon.ico" height="20px" alt="[RIP]mtproxy">
+        <img src="https://mtproto.ru/favicon.ico" height="20px" alt="mtproxy">
         <a href="https://github.com/l0v3m0n3y/mtproxy" target="_blank"> mtproxy </a>
       </td>
       <td>
-        <img src="https://images.sftcdn.net/images/t_favicon-v2/p/a89a5899-72e5-4636-b976-cd80f3f3ac2c/1883859079/v2raytun-logo" height="20px" alt="[RIP]v2nodes_scraper">
+        <img src="https://images.sftcdn.net/images/t_favicon-v2/p/a89a5899-72e5-4636-b976-cd80f3f3ac2c/1883859079/v2raytun-logo" height="20px" alt="v2nodes_scraper">
         <a href="https://github.com/l0v3m0n3y/v2nodes_scraper" target="_blank"> v2nodes_scraper </a>
       </td>
     </tr>
 </table>
 
 <table>
-    <tr> <th colspan="5"><img src="https://www.python.org/favicon.ico" height="20px" alt="[RIP]Python">Python 65</th> </tr>
+    <tr> <th colspan="5"><img src="https://www.python.org/favicon.ico" height="20px" alt="Python">Python 65</th> </tr>
     <tr>
       <td>
         <img src="https://free-generator.ru/favicon.ico" height="20px" alt="[RIP]free_generator" >
@@ -126,7 +126,7 @@
         <a href="https://github.com/l0v3m0n3y/tonapi" target="_blank"> tonapi </a>
       </td>
         <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/bash.md'>Continue</a></th></tr>
-      <tr> <th colspan="5"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/960px-Unofficial_JavaScript_logo_2.svg.png" height="20px" alt="[RIP]JavaScript">JavaScript 121</th> </tr>
+      <tr> <th colspan="5"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/960px-Unofficial_JavaScript_logo_2.svg.png" height="20px" alt="JavaScript">JavaScript 121</th> </tr>
     <tr>
       <td>
         <img src="https://apiflash.com/favicon.ico" height="20px" alt="[RIP]apiflash" >
@@ -171,7 +171,7 @@
         <a href="https://github.com/l0v3m0n3y/markets_ft" target="_blank"> markets_ft </a>
       </td>
   <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/javascript.md'>Continue</a></th></tr>
-     <tr> <th colspan="5"><img src="https://nim-lang.org/assets/img/logo.svg" height="20px" alt="[RIP]nim">Nim 100</th> </tr>
+     <tr> <th colspan="5"><img src="https://nim-lang.org/assets/img/logo.svg" height="20px" alt="nim">Nim 100</th> </tr>
     <tr>
       <td>
         <img src="https://gold-api.com/icon.png" height="20px" alt="[RIP]goldapi" >
@@ -215,7 +215,7 @@
         <a href="https://github.com/l0v3m0n3y/etempmail" target="_blank"> etempmail </a>
     </td>
         <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/nim.md'>Continue</a></th></tr>
-      <tr> <th colspan="5"><img src="https://isocpp.org/favicon.ico" height="20px" alt="[RIP]c++">c++ 100</th> </tr>
+      <tr> <th colspan="5"><img src="https://isocpp.org/favicon.ico" height="20px" alt="c++">c++ 100</th> </tr>
 <tr>
     <td>
         <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:iow4c3d6q6jagmsx2wfqmi73/bafkreic2kv6fif6z63kescka4r2on72vpvxzzsdqnovm7rlvajqyt6fsqm@jpeg" height="20px" alt="[RIP]CivicAPI" >
@@ -261,7 +261,7 @@
     </td>
 </tr>
  <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/cpp.md'>Continue</a></th></tr>
-     <tr> <th colspan="5"><img src="https://www.swift.org/favicon.ico" height="20px" alt="[RIP]Swift">Swift 29</th> </tr>
+     <tr> <th colspan="5"><img src="https://www.swift.org/favicon.ico" height="20px" alt="Swift">Swift 30</th> </tr>
     <tr>
       <td>
         <img src="https://kmail.pw/favicon.ico" height="20px" alt="[RIP]kmail">
