@@ -1,6 +1,6 @@
 # Shell Wrappers & Libraries
 <table>
-     <tr> <th colspan="5">Swift 29</th> </tr>
+     <tr> <th colspan="5">Swift 30</th> </tr>
     <tr>
       <td>
         <img src="https://kmail.pw/favicon.ico" height="20px" alt="[RIP]kmail">
@@ -122,6 +122,10 @@
      <td>
         <img src="https://realgazeta.com.ua/logo.png" height="20px" alt="[RIP]realgazeta">
         <a href="https://github.com/l0v3m0n3y/realgazeta" target="_blank"> realgazeta </a>
+      </td>
+     <td>
+        <img src="https://zona.media/s/favicon/mz/apple-icon-40x40.png" height="20px" alt="[RIP]mediazona">
+        <a href="https://github.com/l0v3m0n3y/mediazona" target="_blank"> mediazona </a>
       </td>
 </tr>
 </table>
