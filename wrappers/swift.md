@@ -1,6 +1,6 @@
 # Shell Wrappers & Libraries
 <table>
-     <tr> <th colspan="5">Swift 33</th> </tr>
+     <tr> <th colspan="5">Swift 34</th> </tr>
     <tr>
       <td>
         <img src="https://kmail.pw/favicon.ico" height="20px" alt="[RIP]kmail">
@@ -139,6 +139,10 @@
      <td>
         <img src="https://images.sftcdn.net/images/t_app-icon-s/p/91150fcb-6ad6-4c43-9a1b-5c3d17ff1ecb/3545158674/fastline-vpn-fast-vpn-logo" height="20px" alt="[RIP]fastlinevpn">
         <a href="https://github.com/l0v3m0n3y/fastlinevpn" target="_blank"> fastlinevpn </a>
+      </td>
+     <td>
+        <img src="https://t-rex.top/favicon.ico" height="20px" alt="[RIP]trexvpn">
+        <a href="https://github.com/l0v3m0n3y/trexvpn" target="_blank"> trexvpn </a>
       </td>
 </tr>
 </table>
