@@ -1,6 +1,6 @@
 # Shell Wrappers & Libraries
 <table>
-     <tr> <th colspan="5">Swift 31</th> </tr>
+     <tr> <th colspan="5">Swift 32</th> </tr>
     <tr>
       <td>
         <img src="https://kmail.pw/favicon.ico" height="20px" alt="[RIP]kmail">
@@ -131,6 +131,10 @@
      <td>
         <img src="https://play-lh.googleusercontent.com/q6kPilfTkusx4oGmJGcrXQkErfqxG8fGysx5BtupU7N4TJ209aLzwwUjyYyWE_5tv5r8aDxesxaJNhmeOjl-iQ=w240-h480-rw" height="20px" alt="[RIP]softvpn">
         <a href="https://github.com/l0v3m0n3y/softvpn" target="_blank"> softvpn </a>
+      </td>
+     <td>
+        <img src="https://play-lh.googleusercontent.com/savPkiVGh0DgPGEteIZUIUhDiDBAS6YlJnjAy3H90NvzXDrO_fxU2n1VmgO1THZ-Y3s=w240-h480-rw" height="20px" alt="[RIP]sxpvpn">
+        <a href="https://github.com/l0v3m0n3y/sxpvpn" target="_blank"> sxpvpn </a>
       </td>
 </tr>
 </table>
