@@ -1,6 +1,6 @@
 # Shell Wrappers & Libraries
 <table>
-     <tr> <th colspan="5">Swift 39</th> </tr>
+     <tr> <th colspan="5">Swift 40</th> </tr>
     <tr>
       <td>
         <img src="https://kmail.pw/favicon.ico" height="20px" alt="[RIP]kmail">
@@ -164,6 +164,10 @@
      <td>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYlOpH64PI77AFHJKksktM_DWHj9UZ8xZYCQ&s" height="20px" alt="[RIP]belkavpn">
         <a href="https://github.com/l0v3m0n3y/belkavpn" target="_blank"> belkavpn </a>
+      </td>
+      <td>
+        <img src="https://kitty-vpn.net/favicon.ico" height="20px" alt="[RIP]kittyvpn">
+        <a href="https://github.com/l0v3m0n3y/kittyvpn" target="_blank"> kittyvpn </a>
       </td>
 </tr>
 </table>
