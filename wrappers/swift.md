@@ -162,7 +162,7 @@
         <a href="https://github.com/l0v3m0n3y/proxyscrape" target="_blank"> proxyscrape </a>
       </td>
      <td>
-        <img src="https://belkavpn.com/wp-content/uploads/2019/11/fav.png" height="20px" alt="[RIP]belkavpn">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYlOpH64PI77AFHJKksktM_DWHj9UZ8xZYCQ&s" height="20px" alt="[RIP]belkavpn">
         <a href="https://github.com/l0v3m0n3y/belkavpn" target="_blank"> belkavpn </a>
       </td>
 </tr>
