@@ -1,6 +1,6 @@
 # Shell Wrappers & Libraries
 <table>
-     <tr> <th colspan="5">Swift 37</th> </tr>
+     <tr> <th colspan="5">Swift 38</th> </tr>
     <tr>
       <td>
         <img src="https://kmail.pw/favicon.ico" height="20px" alt="[RIP]kmail">
@@ -156,6 +156,10 @@
      <td>
         <img src="https://github.com/GeoNode/geonode.github.com/raw/refs/heads/master/static/img/favicon.ico" height="20px" alt="[RIP]geonode">
         <a href="https://github.com/l0v3m0n3y/geonode" target="_blank"> geonode </a>
+      </td>
+     <td>
+        <img src="https://proxyscrape.com/favicon.ico" height="20px" alt="[RIP]proxyscrape">
+        <a href="https://github.com/l0v3m0n3y/proxyscrape" target="_blank"> proxyscrape </a>
       </td>
 </tr>
 </table>
