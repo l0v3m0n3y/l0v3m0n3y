@@ -1,6 +1,6 @@
 # Shell Wrappers & Libraries
 <table>
-     <tr> <th colspan="5">Swift 41</th> </tr>
+     <tr> <th colspan="5">Swift 42</th> </tr>
     <tr>
       <td>
         <img src="https://kmail.pw/favicon.ico" height="20px" alt="[RIP]kmail">
@@ -173,6 +173,10 @@
      <td>
         <img src="https://friedapps.com/_next/image?url=%2Fextensions%2Ftemp-mail%2Ficon.png&w=64&q=75" height="20px" alt="[RIP]friedapps">
         <a href="https://github.com/l0v3m0n3y/friedapps" target="_blank"> friedapps </a>
+      </td>
+     <td>
+        <img src="https://temp-mail.fyi/assets/images/favicon.ico" height="20px" alt="[RIP]tempmailfyi">
+        <a href="https://github.com/l0v3m0n3y/tempmailfyi" target="_blank"> tempmailfyi </a>
       </td>
 </tr>
 </table>
