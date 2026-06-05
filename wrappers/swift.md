@@ -1,6 +1,6 @@
 # Shell Wrappers & Libraries
 <table>
-     <tr> <th colspan="5">Swift 48</th> </tr>
+     <tr> <th colspan="5">Swift 49</th> </tr>
     <tr>
       <td>
         <img src="https://kmail.pw/favicon.ico" height="20px" alt="[RIP]kmail">
@@ -202,6 +202,10 @@
      <td>
         <img src="https://echofm.online/favicon.ico" height="20px" alt="[RIP]techofm">
         <a href="https://github.com/l0v3m0n3y/echofm" target="_blank"> echofm </a>
+      </td>
+     <td>
+        <img src="https://lysave.com/favicon.svg" height="20px" alt="[RIP]lysave">
+        <a href="https://github.com/l0v3m0n3y/lysave" target="_blank"> lysave </a>
       </td>
 </tr>
 </table>
