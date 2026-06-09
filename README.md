@@ -12,7 +12,7 @@
 
 **Open Source Developer & API Enthusiast**
 
-<img src="https://skillicons.dev/icons?i=swift,javascript,bash,nim,html,go,markdown,cpp,c,dart,python,rust,perl,ruby,crystal,lua&perline=4">
+<img src="https://skillicons.dev/icons?i=swift,javascript,bash,nim,html,go,markdown,cpp,c,dart,python,rust,perl,fastapi,crystal,lua&perline=4">
 
 </div>
 
