@@ -18,15 +18,11 @@
 
 
 <table align="center">
-<tr><th colspan="3"> <img src="https://www.redoton.com/favicon.ico" height="20px" alt="Digital Resistance"> Digital Resistance 3</th></tr>
+<tr><th colspan="2"> <img src="https://www.redoton.com/favicon.ico" height="20px" alt="Digital Resistance"> Digital Resistance 2</th></tr>
     <tr>
      <td>
         <img src="https://www.cloudflare.com/favicon.ico" height="20px" alt="warpgen">
         <a href="https://github.com/l0v3m0n3y/warpgen" target="_blank"> warpgen </a>
-      </td>
-      <td>
-        <img src="https://mtproto.ru/favicon.ico" height="20px" alt="proxytg">
-        <a href="https://github.com/l0v3m0n3y/proxytg" target="_blank"> proxytg </a>
       </td>
       <td>
         <img src="https://images.sftcdn.net/images/t_favicon-v2/p/a89a5899-72e5-4636-b976-cd80f3f3ac2c/1883859079/v2raytun-logo" height="20px" alt="v2nodes_scraper">
