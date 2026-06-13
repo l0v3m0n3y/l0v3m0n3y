@@ -4,11 +4,12 @@
 **Open Source Developer & API Enthusiast**
 
 
-<img src="https://shulmanquotes.vercel.app/api/github/l0v3m0n3y/card?style=shulman" height="230px"> 
 <img src="https://skillicons.dev/icons?i=swift,javascript,bash,nim,html,go,markdown,cpp,c,dart,python,rust,perl,fastapi,crystal,lua&perline=4">
 
 </div>
-
+<div align="center">
+<img src="https://shulmanquotes.vercel.app/api/github/l0v3m0n3y/card?style=shulman"> 
+</div>
 
 <table align="center">
 <tr><th colspan="2"> <img src="https://www.redoton.com/favicon.ico" height="20px" alt="Digital Resistance"> Digital Resistance 2</th></tr>
