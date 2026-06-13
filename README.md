@@ -1,17 +1,10 @@
 <div align="center">
 
-<span>**glory to Irland! I'm l0v3m0n3y!**</span>
-
-<span><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" height="50px"></span>
-
-<img src="https://github.com/aminobotskek/aminobotskek/assets/94906343/b324c9d1-fe02-4a9d-bd75-c1d280e27576" height="150px">
-
-<code>You know, sometimes I think I was born with a leak, and any goodness I started with just slowly spilled out of me and now its all gone. And I'll never get it back in me. It's too late. Life is a series of closing doors, isn't it?</code>
-
-
-
+<span>**hello ! I'm l0v3m0n3y!**</span>
 **Open Source Developer & API Enthusiast**
 
+
+<img src="https://shulmanquotes.vercel.app/api/github/l0v3m0n3y/card?style=shulman" height="230px"> 
 <img src="https://skillicons.dev/icons?i=swift,javascript,bash,nim,html,go,markdown,cpp,c,dart,python,rust,perl,fastapi,crystal,lua&perline=4">
 
 </div>
@@ -339,5 +332,4 @@
       </td>
     </tr>
 </table>
-
 </div>
