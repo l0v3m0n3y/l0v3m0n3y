@@ -8,7 +8,7 @@
 
 </div>
 <div align="center">
-<code>statistics in the spirit of Ekaterina Mikhailovna Shulman
+<code>statistics in the spirit of Ekaterina Mikhailovna Shulman(reload page if not working)
 <img src="https://shulmanquotes.vercel.app/api/github/l0v3m0n3y/card?style=shulman"> </code>
 </div>
 
