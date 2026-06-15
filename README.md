@@ -9,7 +9,7 @@
 </div>
 <div align="center">
 <code>statistics in the spirit of Ekaterina Mikhailovna Shulman(reload page if not working)
-<img src="https://shulmanquotes.vercel.app/api/github/l0v3m0n3y/card?style=shulman"> </code>
+<img src="https://shulmanquotes.vercel.app/api/github/l0v3m0n3y/card?style=shulman" onerror="this.onerror=null; this.src='https://shulman-quotes-api.onrender.com/api/github/l0v3m0n3y/card?style=shulman';"> </code>
 </div>
 
 <table align="center">
