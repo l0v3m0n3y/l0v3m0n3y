@@ -87,7 +87,7 @@
       </td>
       <tr>
       <td>
-        <img src="https://novayagazeta.eu/media/logo-flat.svg" height="20px" alt="[RIP]novayagazeta">
+        <img src="https://novayagazeta.ru/favicon.ico" height="20px" alt="[RIP]novayagazeta">
         <a href="https://github.com/l0v3m0n3y/novayagazeta" target="_blank"> novayagazeta </a>
       </td>
       <td>
