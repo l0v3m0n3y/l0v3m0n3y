@@ -91,7 +91,7 @@
         <a href="https://github.com/l0v3m0n3y/castlots" target="_blank"> castlots </a>
       </td>
       <td>
-        <img src="https://www.google.com/s2/favicons?domain=generator-chisel.ru&sz=20" height="20px" alt="generator-chisel" onerror="this.onerror=null;this.src='https://img.icons8.com/ios-filled/50/fa314a/error--v1.png'">
+        <img src="https://img.icons8.com/ios-filled/50/fa314a/error--v1.png" height="20px" alt="generator-chisel" onerror="this.onerror=null;this.src='https://img.icons8.com/ios-filled/50/fa314a/error--v1.png'">
         <a href="https://github.com/l0v3m0n3y/generator-chisel" target="_blank"> generator-chisel </a>
       </td>
     </tr>
