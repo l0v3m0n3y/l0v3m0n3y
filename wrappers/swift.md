@@ -225,7 +225,7 @@
         <a href="https://github.com/l0v3m0n3y/prankshow" target="_blank"> prankshow </a>
       </td>
      <td>
-        <img src="https://wwe.com/favicon.ico" height="20px" alt="[RIP]WWE">
+        <img src="https://www.wwe.com/favicon.ico" height="20px" alt="[RIP]WWE">
         <a href="https://github.com/l0v3m0n3y/wwe" target="_blank"> WWE </a>
       </td>
 </tr>
