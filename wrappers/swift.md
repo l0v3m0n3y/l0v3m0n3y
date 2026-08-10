@@ -1,6 +1,6 @@
 # Shell Wrappers & Libraries
 <table>
-     <tr> <th colspan="5">Swift 54</th> </tr>
+     <tr> <th colspan="5">Swift 55</th> </tr>
     <tr>
       <td>
         <img src="https://kmail.pw/favicon.ico" height="20px" alt="[RIP]kmail">
@@ -227,6 +227,10 @@
      <td>
         <img src="https://www.google.com/s2/favicons?domain=wwe.com" height="20px" alt="[RIP]WWE">
         <a href="https://github.com/l0v3m0n3y/wwe" target="_blank"> WWE </a>
+      </td>
+     <td>
+        <img src="https://www.google.com/s2/favicons?domain=deepstatemap.live" height="20px" alt="[RIP]deepstatemap">
+        <a href="https://github.com/l0v3m0n3y/deepstatemap" target="_blank"> deepstatemap </a>
       </td>
 </tr>
 </table>
