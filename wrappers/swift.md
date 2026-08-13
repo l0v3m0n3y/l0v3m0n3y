@@ -1,6 +1,6 @@
 # Shell Wrappers & Libraries
 <table>
-     <tr> <th colspan="5">Swift 56</th> </tr>
+     <tr> <th colspan="5">Swift 57</th> </tr>
     <tr>
       <td>
         <img src="https://kmail.pw/favicon.ico" height="20px" alt="[RIP]kmail">
@@ -236,6 +236,10 @@
      <td>
         <img src="https://www.the-village.ru/favicon.ico" height="20px" alt="[RIP]the village">
         <a href="https://github.com/l0v3m0n3y/thevillage" target="_blank"> the village </a>
+      </td>
+     <td>
+        <img src="https://activatica.org/favicon.ico" height="20px" alt="[RIP]activatica">
+        <a href="https://github.com/l0v3m0n3y/activatica" target="_blank"> activatica </a>
       </td>
 </tr>
 </table>
