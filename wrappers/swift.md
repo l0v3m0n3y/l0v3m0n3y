@@ -141,7 +141,7 @@
         <a href="https://github.com/l0v3m0n3y/fastlinevpn" target="_blank"> fastlinevpn </a>
       </td>
      <td>
-        <img src="https://t-rex.top/favicon.ico" height="20px" alt="[RIP]trexvpn">
+        <img src="https://www.google.com/s2/favicons?domain=t-rex.top" height="20px" alt="[RIP]trexvpn">
         <a href="https://github.com/l0v3m0n3y/trexvpn" target="_blank"> trexvpn </a>
       </td>
      <td>
