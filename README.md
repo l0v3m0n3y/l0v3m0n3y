@@ -8,8 +8,11 @@
 
 </div>
 <div align="center">
-<code>statistics in the spirit of Ekaterina Mikhailovna Shulman(reload page if not working)
-<img src="https://shulmanquotes.vercel.app/api/github/l0v3m0n3y/card" onerror="this.onerror=null; this.src='https://operaproxyprivateapi-2.pepsiritp.workers.dev/proxy?link=https://shulmanquotes.vercel.app/api/github/l0v3m0n3y/card';"> </code>
+  <img 
+    src="https://shulmanquotes.vercel.app/api/github/l0v3m0n3y/card?nocache=1" 
+    alt="GitHub Analytics"
+    onerror="this.src='https://operaproxyprivateapi-2.pepsiritp.workers.dev/proxy?link=https://shulmanquotes.vercel.app/api/github/l0v3m0n3y/card&nocache=2';"
+  />
 </div>
 
 <table align="center">
