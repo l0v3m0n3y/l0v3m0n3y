@@ -197,7 +197,7 @@
         <a href="https://github.com/l0v3m0n3y/inboxes" target="_blank"> inboxes </a>
     </td>
     <td>
-        <img src="https://www.google.com/s2/favicons?domain=maildax.com&sz=20" height="20px" alt="maildax" onerror="this.onerror=null;this.src='https://img.icons8.com/ios-filled/50/fa314a/error--v1.png'">
+        <img src="https://maildax.com/favicon.ico" height="20px" alt="maildax" onerror="this.onerror=null;this.src='https://img.icons8.com/ios-filled/50/fa314a/error--v1.png'">
         <a href="https://github.com/l0v3m0n3y/maildax" target="_blank"> maildax </a>
     </td>
     <td>
@@ -246,7 +246,7 @@
         <a href="https://github.com/l0v3m0n3y/Randommer" target="_blank"> Randommer </a>
     </td>
     <td>
-        <img src="https://www.google.com/s2/favicons?domain=whoa.onrender.com&sz=20" height="20px" alt="Keanuwhoa" onerror="this.onerror=null;this.src='https://img.icons8.com/ios-filled/50/fa314a/error--v1.png'">
+        <img src="https://whoa.onrender.com/favicon.ico" height="20px" alt="Keanuwhoa" onerror="this.onerror=null;this.src='https://img.icons8.com/ios-filled/50/fa314a/error--v1.png'">
         <a href="https://github.com/l0v3m0n3y/Keanuwhoa" target="_blank"> Keanuwhoa </a>
     </td>
     <td>
