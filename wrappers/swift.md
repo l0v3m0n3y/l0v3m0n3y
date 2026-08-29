@@ -1,6 +1,6 @@
 # Swift Wrappers & Libraries
 <table>
-     <tr> <th colspan="5">Swift 58</th> </tr>
+     <tr> <th colspan="5">Swift 59</th> </tr>
     <tr>
       <td>
         <img src="https://kmail.pw/favicon.ico" height="20px" alt="[RIP]kmail">
@@ -244,6 +244,10 @@
      <td>
         <img src="https://www.google.com/s2/favicons?domain=iditena.org" height="20px" alt="[RIP]iditena">
         <a href="https://github.com/l0v3m0n3y/iditena" target="_blank"> iditena </a>
+      </td>
+     <td>
+        <img src="https://www.speedtest.net/favicon.ico" height="20px" alt="[RIP]speedtest">
+        <a href="https://github.com/l0v3m0n3y/speedtest" target="_blank"> speedtest </a>
       </td>
 </tr>
 </table>
