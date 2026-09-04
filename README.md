@@ -255,7 +255,7 @@
     </td>
 </tr>
  <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/cpp.md'>Continue</a></th></tr>
-     <tr> <th colspan="5"><img src="https://www.swift.org/favicon.ico" height="20px" alt="Swift">Swift 61 </tr>
+     <tr> <th colspan="5"><img src="https://www.swift.org/favicon.ico" height="20px" alt="Swift">Swift 62 </tr>
     <tr>
       <td>
         <img src="https://www.google.com/s2/favicons?domain=kmail.pw&sz=20" height="20px" alt="kmail" onerror="this.onerror=null;this.src='https://img.icons8.com/ios-filled/50/fa314a/error--v1.png'">>
