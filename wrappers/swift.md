@@ -45,11 +45,11 @@
       </td>
     <tr>
       <td>
-        <img src="https://bevwire.com/favicon.ico" height="20px" alt="[RIP]bevwire">
+        <img src="https://www.google.com/s2/favicons?domain=bevwire.com" height="20px" alt="[RIP]bevwire">
         <a href="https://github.com/l0v3m0n3y/bevwire" target="_blank"> bevwire </a>
       </td>
       <td>
-        <img src="https://img.alicdn.com/imgextra/i3/O1CN01QVe33Z1ulJsKWVmxt_!!6000000006077-55-tps-232-44.svg" height="20px" alt="[RIP]cainiao">
+        <img src="https://www.google.com/s2/favicons?domain=global.cainiao.com" height="20px" alt="[RIP]cainiao">
         <a href="https://github.com/l0v3m0n3y/cainiao" target="_blank"> cainiao </a>
       </td>
       <td>
