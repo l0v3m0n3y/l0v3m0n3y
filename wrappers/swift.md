@@ -284,7 +284,7 @@
         <a href="https://github.com/l0v3m0n3y/appregions" target="_blank"> appregions </a>
       </td>
      <td>
-        <img src="https://skat.media/favicon.ico" height="20px" alt="[RIP]skatMedia">
+        <img src="https://www.google.com/s2/favicons?domain=skat.media" height="20px" alt="[RIP]skatMedia">
         <a href="https://github.com/l0v3m0n3y/skatMedia" target="_blank"> skatMedia </a>
       </td>
 </tr>
