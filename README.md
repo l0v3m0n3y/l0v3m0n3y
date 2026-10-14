@@ -3,6 +3,7 @@
 <span>**hello ! I'm l0v3m0n3y!**</span>
 **Open Source Developer & API Enthusiast**
 
+<pre><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR54hMOX6zbS4EHyWG2Kyt5cm30NGj51mVb_B7jR3ViQ&s=10" height="10px"> Free Ingria. Putler kaputt <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR54hMOX6zbS4EHyWG2Kyt5cm30NGj51mVb_B7jR3ViQ&s=10" height="10px"></pre>
 
 <img src="https://skillicons.dev/icons?i=swift,javascript,bash,nim,html,go,markdown,cpp,c,dart,python,rust,perl,fastapi,crystal,lua&perline=4">
 
