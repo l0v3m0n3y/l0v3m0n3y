@@ -1,6 +1,6 @@
 # Swift Wrappers & Libraries
 <table>
-     <tr> <th colspan="5">Swift 71</th> </tr>
+     <tr> <th colspan="5">Swift 72</th> </tr>
     <tr>
       <td>
         <img src="https://kmail.pw/favicon.ico" height="20px" alt="[RIP]kmail">
@@ -299,6 +299,10 @@
      <td>
         <img src="https://worldstvmobile.com/favicon.ico" height="20px" alt="[RIP]worldstvmobile">
         <a href="https://github.com/l0v3m0n3y/worldstvmobile" target="_blank"> worldstvmobile </a>
+      </td>
+     <td>
+        <img src="https://dumabingo.org/favicon.ico" height="20px" alt="[RIP]dumabingo">
+        <a href="https://github.com/l0v3m0n3y/dumabingo" target="_blank"> dumabingo </a>
       </td>
 </tr>
 </table>
