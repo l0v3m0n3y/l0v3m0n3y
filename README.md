@@ -17,8 +17,12 @@
 </div>
 
 <table align="center">
-<tr><th colspan="2"> <img src="https://www.redoton.com/favicon.ico" height="20px" alt="Digital Resistance"> Digital Resistance 2</th></tr>
+<tr><th colspan="3"> <img src="https://www.redoton.com/favicon.ico" height="20px" alt="Digital Resistance"> Digital Resistance 3</th></tr>
     <tr>
+     <td>
+        <img src="https://femboyvpn.connecto.lol/site-icon.png" height="20px" alt="[RIP]femboyvpn">
+        <a href="https://github.com/l0v3m0n3y/femboyvpn" target="_blank"> femboyvpn </a>
+      </td>
      <td>
         <img src="https://www.cloudflare.com/favicon.ico" height="20px" alt="warpgen">
         <a href="https://github.com/l0v3m0n3y/warpgen" target="_blank"> warpgen </a>
@@ -256,7 +260,7 @@
     </td>
 </tr>
  <tr> <th colspan="5"><a href='https://github.com/l0v3m0n3y/l0v3m0n3y/blob/main/wrappers/cpp.md'>Continue</a></th></tr>
-     <tr> <th colspan="5"><img src="https://www.swift.org/favicon.ico" height="20px" alt="Swift">Swift 72 </tr>
+     <tr> <th colspan="5"><img src="https://www.swift.org/favicon.ico" height="20px" alt="Swift">Swift 73 </tr>
     <tr>
       <td>
         <img src="https://www.google.com/s2/favicons?domain=kmail.pw&sz=20" height="20px" alt="kmail" onerror="this.onerror=null;this.src='https://img.icons8.com/ios-filled/50/fa314a/error--v1.png'">>
