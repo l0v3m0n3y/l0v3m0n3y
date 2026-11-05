@@ -1,7 +1,7 @@
 # Python Wrappers & Libraries
 
 <table>
-    <tr> <th colspan="5">Python - 64</th> </tr>
+    <tr> <th colspan="5">Python - 65</th> </tr>
     <tr>
       <td>
         <img src="https://whoer.net/favicon.ico" height="20px" alt="[RIP]whoer" >
@@ -18,6 +18,10 @@
       <td>
         <img src="https://freevpnplanet.com/wp-content/themes/planetvpn/assets/favicons/favicon.svg" height="20px" alt="[RIP]Planet_vpn" >
         <a href="https://github.com/l0v3m0n3y/Planet_vpn" target="_blank"> Planet_vpn </a>
+      </td>
+      <td>
+        <img src="https://ok.ru/favicon.ico" height="20px" alt="[RIP]OkMusic" >
+        <a href="https://github.com/l0v3m0n3y/OkMusic" target="_blank"> OkMusic </a>
       </td>
     </tr>
       <td>
