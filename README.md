@@ -8,13 +8,8 @@
 <img src="https://skillicons.dev/icons?i=swift,javascript,bash,nim,html,go,markdown,cpp,c,dart,python,rust,perl,fastapi,crystal,lua&perline=4">
 
 </div>
-<div align="center">
-  <img 
-    src="https://shulmanquotes.vercel.app/api/github/l0v3m0n3y/card?nocache=1" 
-    alt="GitHub Analytics"
-    onerror="this.src='https://operaproxyprivateapi-2.pepsiritp.workers.dev/proxy?link=https://shulmanquotes.vercel.app/api/github/l0v3m0n3y/card&nocache=2';"
-  />
-</div>
+
+![](https://shulmanquotes.vercel.app/api/github/l0v3m0n3y/card?nocache=1)
 
 <table align="center">
 <tr><th colspan="3"> <img src="https://www.redoton.com/favicon.ico" height="20px" alt="Digital Resistance"> Digital Resistance 3</th></tr>
